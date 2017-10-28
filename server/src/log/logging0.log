@@ -1,0 +1,3414 @@
+七月 19, 2017 2:33:49 下午 server.ServerCode init
+WARNING: java.io.FileNotFoundException: E:\eclipseWorkSpaces\TCPSocket\key\server.keystore (系统找不到指定的路径。)
+七月 19, 2017 2:33:49 下午 server.ServerCode load
+WARNING: 服务端Socket创建失败！
+七月 19, 2017 2:34:25 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:34:53 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 19, 2017 2:34:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49676,localport=3333]]
+七月 19, 2017 2:34:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:34:53 下午 server.ServerCode$Task run
+INFO: 认证通过，开始上传文件吧！
+七月 19, 2017 2:34:53 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500446093168.sql] [Size：0.25195312 KB] ========
+七月 19, 2017 2:34:54 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500446093168.sql] [Size：0.25195312 KB] ========
+七月 19, 2017 2:39:22 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:39:53 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 19, 2017 2:39:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49701,localport=3333]]
+七月 19, 2017 2:39:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:39:53 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：33379513287185969374
+七月 19, 2017 2:39:53 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:39:53 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 19, 2017 2:39:53 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 19, 2017 2:39:53 下午 server.ServerCode$Task run
+INFO: 认证通过，开始上传文件吧！
+七月 19, 2017 2:39:53 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500446393174.sql] [Size：0.25390625 KB] ========
+七月 19, 2017 2:39:53 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500446393174.sql] [Size：0.25390625 KB] ========
+七月 19, 2017 2:40:58 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 19, 2017 2:40:58 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c514cef[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49705,localport=3333]]
+七月 19, 2017 2:40:58 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:40:58 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：53206996342414878345
+七月 19, 2017 2:40:58 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:40:58 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 19, 2017 2:40:58 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 19, 2017 2:40:58 下午 server.ServerCode$Task run
+INFO: 认证通过，开始上传文件吧！
+七月 19, 2017 2:40:58 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500446458174.sql] [Size：0.25585938 KB] ========
+七月 19, 2017 2:40:58 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500446458174.sql] [Size：0.25585938 KB] ========
+七月 19, 2017 2:41:53 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 19, 2017 2:41:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 212aa789[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49713,localport=3333]]
+七月 19, 2017 2:41:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:41:53 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：97724030644325386356
+七月 19, 2017 2:41:53 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:41:58 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 19, 2017 2:41:58 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 2227ca20[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49715,localport=3333]]
+七月 19, 2017 2:41:58 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:41:58 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：87025966333519581108
+七月 19, 2017 2:41:58 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:03 下午 server.ServerCode load
+INFO: 客户端5准备接入
+七月 19, 2017 2:42:03 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 17eba425[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49717,localport=3333]]
+七月 19, 2017 2:42:03 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:03 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：82491938112477658334
+七月 19, 2017 2:42:03 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:08 下午 server.ServerCode load
+INFO: 客户端6准备接入
+七月 19, 2017 2:42:08 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 77b81acf[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49719,localport=3333]]
+七月 19, 2017 2:42:08 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:08 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：15285495564939272512
+七月 19, 2017 2:42:08 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:13 下午 server.ServerCode load
+INFO: 客户端7准备接入
+七月 19, 2017 2:42:13 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 180ccb1e[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49721,localport=3333]]
+七月 19, 2017 2:42:13 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:13 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：83576341335820489140
+七月 19, 2017 2:42:13 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:18 下午 server.ServerCode load
+INFO: 客户端8准备接入
+七月 19, 2017 2:42:18 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1673f47d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49723,localport=3333]]
+七月 19, 2017 2:42:18 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:18 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：49538502984680748692
+七月 19, 2017 2:42:18 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:23 下午 server.ServerCode load
+INFO: 客户端9准备接入
+七月 19, 2017 2:42:23 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 14abd854[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49725,localport=3333]]
+七月 19, 2017 2:42:23 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：34901204323906535349
+七月 19, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:28 下午 server.ServerCode load
+INFO: 客户端10准备接入
+七月 19, 2017 2:42:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 19ff3900[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49727,localport=3333]]
+七月 19, 2017 2:42:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：65422376240156555473
+七月 19, 2017 2:42:28 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:33 下午 server.ServerCode load
+INFO: 客户端11准备接入
+七月 19, 2017 2:42:33 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1f2f2fa7[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49729,localport=3333]]
+七月 19, 2017 2:42:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:33 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：94811572578525567677
+七月 19, 2017 2:42:33 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:38 下午 server.ServerCode load
+INFO: 客户端12准备接入
+七月 19, 2017 2:42:38 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 742f6e67[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49731,localport=3333]]
+七月 19, 2017 2:42:38 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:38 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：25396051820942487009
+七月 19, 2017 2:42:38 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:43 下午 server.ServerCode load
+INFO: 客户端13准备接入
+七月 19, 2017 2:42:43 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1cec8f6e[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49733,localport=3333]]
+七月 19, 2017 2:42:43 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:43 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：02560967649259222693
+七月 19, 2017 2:42:43 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:48 下午 server.ServerCode load
+INFO: 客户端14准备接入
+七月 19, 2017 2:42:48 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 61f6015[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49735,localport=3333]]
+七月 19, 2017 2:42:48 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:48 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：77516075896841502192
+七月 19, 2017 2:42:48 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:53 下午 server.ServerCode load
+INFO: 客户端15准备接入
+七月 19, 2017 2:42:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7432c746[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49737,localport=3333]]
+七月 19, 2017 2:42:53 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：14568174163962199195
+七月 19, 2017 2:42:53 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:58 下午 server.ServerCode load
+INFO: 客户端16准备接入
+七月 19, 2017 2:42:58 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 72729f44[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49739,localport=3333]]
+七月 19, 2017 2:42:58 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:42:58 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：71896274616740463730
+七月 19, 2017 2:42:58 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:42:58 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 19, 2017 2:42:58 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 19, 2017 2:42:58 下午 server.ServerCode$Task run
+INFO: 认证通过，开始上传文件吧！
+七月 19, 2017 2:42:58 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500446578176.sql] [Size：0.25585938 KB] ========
+七月 19, 2017 2:42:58 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500446578176.sql] [Size：0.25585938 KB] ========
+七月 19, 2017 2:43:28 下午 server.ServerCode load
+INFO: 客户端17准备接入
+七月 19, 2017 2:43:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 71558d83[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49747,localport=3333]]
+七月 19, 2017 2:43:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:43:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：68776317716974908962
+七月 19, 2017 2:43:33 下午 server.ServerCode load
+INFO: 客户端18准备接入
+七月 19, 2017 2:43:33 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 540ef9ef[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49749,localport=3333]]
+七月 19, 2017 2:43:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:43:33 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：01822022885348887607
+七月 19, 2017 2:43:38 下午 server.ServerCode load
+INFO: 客户端19准备接入
+七月 19, 2017 2:43:38 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 63cc5f63[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49751,localport=3333]]
+七月 19, 2017 2:43:38 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:43:38 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：47977763980465618921
+七月 19, 2017 2:43:43 下午 server.ServerCode load
+INFO: 客户端20准备接入
+七月 19, 2017 2:43:43 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 2710e05e[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49753,localport=3333]]
+七月 19, 2017 2:43:43 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:43:43 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：53250857679408915252
+七月 19, 2017 2:43:48 下午 server.ServerCode load
+INFO: 客户端21准备接入
+七月 19, 2017 2:43:48 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 65c34565[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49755,localport=3333]]
+七月 19, 2017 2:43:48 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:43:48 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：76699467787301233073
+七月 19, 2017 2:43:53 下午 server.ServerCode load
+INFO: 客户端22准备接入
+七月 19, 2017 2:43:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1650b3cd[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=49757,localport=3333]]
+七月 19, 2017 2:43:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 19, 2017 2:43:53 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：07729461901152028257
+七月 19, 2017 2:43:53 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 19, 2017 2:43:53 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 19, 2017 2:43:53 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 19, 2017 2:43:53 下午 server.ServerCode$Task run
+INFO: 认证通过，开始上传文件吧！
+七月 19, 2017 2:43:53 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500446633176.sql] [Size：0.25585938 KB] ========
+七月 19, 2017 2:43:53 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500446633176.sql] [Size：0.25585938 KB] ========
+七月 20, 2017 1:15:59 下午 server.ServerCode init
+WARNING: java.io.FileNotFoundException: E:\eclipseWorkSpaces\TCPSocket\key\server.keystore (系统找不到指定的路径。)
+七月 20, 2017 1:15:59 下午 server.ServerCode load
+WARNING: 服务端Socket创建失败！
+七月 20, 2017 1:16:31 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:16:43 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 1:16:43 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 147eef21[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65517,localport=3333]]
+七月 20, 2017 1:16:43 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:16:51 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：84691538488366980954
+七月 20, 2017 1:16:54 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 1:16:55 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 1:16:55 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 1:16:55 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 1:16:55 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500527803363.sql] [Size：0.18847656 KB] ========
+七月 20, 2017 1:18:02 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500527803363.sql] [Size：0.18847656 KB] ========
+七月 20, 2017 1:32:16 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:32:28 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 1:32:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 4c025303[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60092,localport=3333]]
+七月 20, 2017 1:32:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:32:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：79852567012869617668
+七月 20, 2017 1:32:28 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 1:32:28 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 1:32:28 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 1:32:28 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 1:32:28 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500528748377.sql] [Size：0.20117188 KB] ========
+七月 20, 2017 1:32:29 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500528748377.sql] [Size：0.20117188 KB] ========
+七月 20, 2017 1:32:58 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 1:32:58 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c514cef[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60096,localport=3333]]
+七月 20, 2017 1:32:58 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:32:58 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：40914055238048136471
+七月 20, 2017 1:32:58 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 1:32:58 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 1:32:58 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 1:32:58 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 1:32:58 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500528778378.sql] [Size：0.37597656 KB] ========
+七月 20, 2017 1:32:59 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500528778378.sql] [Size：0.37597656 KB] ========
+七月 20, 2017 1:33:03 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 1:33:03 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 3ff9980[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60099,localport=3333]]
+七月 20, 2017 1:33:03 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:33:03 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：21571737266483618360
+七月 20, 2017 1:33:03 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 1:33:03 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 1:33:03 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 1:33:03 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 1:33:03 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500528783378.sql] [Size：1.8017578 KB] ========
+七月 20, 2017 1:33:03 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500528783378.sql] [Size：1.8017578 KB] ========
+七月 20, 2017 1:33:33 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 1:33:33 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 6f658567[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60102,localport=3333]]
+七月 20, 2017 1:33:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:33:33 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：70222982165430398266
+七月 20, 2017 1:33:33 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 1:33:33 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 1:33:33 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 1:33:33 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 1:33:33 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500528813378.sql] [Size：17.510742 KB] ========
+七月 20, 2017 1:33:33 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500528813378.sql] [Size：17.510742 KB] ========
+七月 20, 2017 1:33:38 下午 server.ServerCode load
+INFO: 客户端5准备接入
+七月 20, 2017 1:33:38 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7edc8b55[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60105,localport=3333]]
+七月 20, 2017 1:33:38 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 1:33:38 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：72847675166233009402
+七月 20, 2017 1:33:38 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 1:33:38 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 1:33:38 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 1:33:38 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 1:33:38 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500528818378.sql] [Size：5.421875 KB] ========
+七月 20, 2017 1:33:38 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500528818378.sql] [Size：5.421875 KB] ========
+七月 20, 2017 2:00:22 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:00:38 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 2:00:38 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 4c025303[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60658,localport=3333]]
+七月 20, 2017 2:00:38 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:00:38 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：17058663206456004444
+七月 20, 2017 2:00:38 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:00:38 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:00:38 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:00:38 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:00:38 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500530437922.sql] [Size：1.6865234 KB] ========
+七月 20, 2017 2:00:38 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500530437922.sql] [Size：1.6865234 KB] ========
+七月 20, 2017 2:00:43 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 2:00:43 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 3d921eac[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60661,localport=3333]]
+七月 20, 2017 2:00:43 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:00:43 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：97355271065542195059
+七月 20, 2017 2:00:43 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:00:43 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:00:43 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:00:43 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:00:43 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500530442921.sql] [Size：0.49121094 KB] ========
+七月 20, 2017 2:00:43 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500530442921.sql] [Size：0.49121094 KB] ========
+七月 20, 2017 2:00:48 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 2:00:48 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:00:48 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 775d2461[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60664,localport=3333]]
+七月 20, 2017 2:00:48 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：17559487769882693726
+七月 20, 2017 2:00:48 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:00:48 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:00:48 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:00:48 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:00:48 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500530447920.sql] [Size：12.192383 KB] ========
+七月 20, 2017 2:00:48 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500530447920.sql] [Size：12.192383 KB] ========
+七月 20, 2017 2:00:53 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 2:00:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 6f658567[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=60667,localport=3333]]
+七月 20, 2017 2:00:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:00:53 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：31902962780281620316
+七月 20, 2017 2:00:53 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:00:53 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:00:53 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:00:53 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:00:53 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500530452922.sql] [Size：10.740234 KB] ========
+七月 20, 2017 2:00:53 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500530452922.sql] [Size：10.740234 KB] ========
+七月 20, 2017 2:41:26 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:41:59 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 2:41:59 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=64654,localport=3333]]
+七月 20, 2017 2:41:59 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:41:59 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：22809622429931752034
+七月 20, 2017 2:41:59 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:41:59 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:41:59 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:41:59 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:41:59 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500532918560.sql] [Size：0.09277344 KB] ========
+七月 20, 2017 2:42:23 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 2:42:23 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:42:23 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 17eba425[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=64657,localport=3333]]
+七月 20, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：55510613445921378376
+七月 20, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:42:24 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:42:24 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:42:24 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:42:24 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500532943560.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 2:42:24 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500532943560.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 2:42:28 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 2:42:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 56b9dbd2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=64660,localport=3333]]
+七月 20, 2017 2:42:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:42:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：05219595643875553630
+七月 20, 2017 2:42:28 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:42:29 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:42:29 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:42:29 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:42:29 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500532948560.sql] [Size：0.095703125 KB] ========
+七月 20, 2017 2:42:29 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500532948560.sql] [Size：0.095703125 KB] ========
+七月 20, 2017 2:51:17 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:52:08 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 2:52:08 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=64764,localport=3333]]
+七月 20, 2017 2:52:08 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:52:08 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：99788088292958897955
+七月 20, 2017 2:52:08 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:52:09 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:52:09 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:52:09 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:55:37 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:55:48 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 2:55:48 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=64775,localport=3333]]
+七月 20, 2017 2:55:48 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 2:55:48 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：90822486659683471586
+七月 20, 2017 2:55:48 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 2:55:49 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 2:55:49 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 2:55:49 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 2:55:49 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500533748572.sql] [Size：0.19628906 KB] ========
+七月 20, 2017 2:55:49 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500533748572.sql] [Size：0.19628906 KB] ========
+七月 20, 2017 3:09:49 下午 server.ServerCode init
+WARNING: java.io.FileNotFoundException: E:\eclipseWorkSpaces\TCPSocket\key\server.keystore (系统找不到指定的路径。)
+七月 20, 2017 3:09:49 下午 server.ServerCode load
+WARNING: 服务端Socket创建失败！
+七月 20, 2017 3:10:13 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:10:28 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:10:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65001,localport=3333]]
+七月 20, 2017 3:10:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:10:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：00508829521385781596
+七月 20, 2017 3:10:28 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:10:28 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:10:28 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:10:28 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:10:28 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500534628131.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 3:10:28 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500534628131.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 3:10:43 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:10:43 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c514cef[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65004,localport=3333]]
+七月 20, 2017 3:10:43 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:10:43 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：40071033441978988915
+七月 20, 2017 3:10:43 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:10:43 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:10:43 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:10:43 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:10:43 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500534643132.sql] [Size：13.399414 KB] ========
+七月 20, 2017 3:10:48 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 3:10:48 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 63d3477d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65007,localport=3333]]
+七月 20, 2017 3:10:48 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:10:48 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：99861469996698710355
+七月 20, 2017 3:10:48 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:10:48 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:10:48 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:10:48 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:10:48 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500534648132.sql] [Size：3.5166016 KB] ========
+七月 20, 2017 3:19:53 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 3:19:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 60c31037[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65251,localport=3333]]
+七月 20, 2017 3:19:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:19:53 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：41524357787381101200
+七月 20, 2017 3:19:53 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:19:53 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:19:53 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:19:53 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:19:53 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535193140.sql] [Size：0.16113281 KB] ========
+七月 20, 2017 3:19:53 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535193140.sql] [Size：0.16113281 KB] ========
+七月 20, 2017 3:19:58 下午 server.ServerCode load
+INFO: 客户端5准备接入
+七月 20, 2017 3:19:58 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 695a22ad[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65254,localport=3333]]
+七月 20, 2017 3:19:58 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:19:58 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：10911481340417099301
+七月 20, 2017 3:19:58 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:19:58 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:19:58 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:19:58 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:19:58 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535198139.sql] [Size：2.0166016 KB] ========
+七月 20, 2017 3:19:58 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535198139.sql] [Size：2.0166016 KB] ========
+七月 20, 2017 3:20:03 下午 server.ServerCode load
+INFO: 客户端6准备接入
+七月 20, 2017 3:20:03 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 75dd05d6[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65257,localport=3333]]
+七月 20, 2017 3:20:03 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:20:03 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：47232793454270851099
+七月 20, 2017 3:20:03 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:20:03 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:20:03 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:20:03 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:20:03 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535203140.sql] [Size：4.098633 KB] ========
+七月 20, 2017 3:20:03 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535203140.sql] [Size：4.098633 KB] ========
+七月 20, 2017 3:20:08 下午 server.ServerCode load
+INFO: 客户端7准备接入
+七月 20, 2017 3:20:08 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1bf6f988[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65260,localport=3333]]
+七月 20, 2017 3:20:08 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:20:08 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：96446409126169039543
+七月 20, 2017 3:20:08 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:20:08 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:20:08 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:20:08 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:20:08 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535208140.sql] [Size：12.817383 KB] ========
+七月 20, 2017 3:21:54 下午 server.ServerCode load
+INFO: 客户端8准备接入
+七月 20, 2017 3:21:54 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:21:54 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 5ec47109[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65268,localport=3333]]
+七月 20, 2017 3:21:54 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：42123826364508820772
+七月 20, 2017 3:21:54 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:21:55 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:21:55 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:21:55 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:21:55 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535314280.sql] [Size：2.2382812 KB] ========
+七月 20, 2017 3:21:55 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535314280.sql] [Size：2.2382812 KB] ========
+七月 20, 2017 3:22:34 下午 server.ServerCode load
+INFO: 客户端9准备接入
+七月 20, 2017 3:22:34 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:22:34 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 2ae0c389[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65272,localport=3333]]
+七月 20, 2017 3:22:34 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：78602276538497466898
+七月 20, 2017 3:22:34 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:22:34 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:22:34 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:22:34 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:22:34 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535354280.sql] [Size：9.508789 KB] ========
+七月 20, 2017 3:22:34 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535354280.sql] [Size：9.508789 KB] ========
+七月 20, 2017 3:22:39 下午 server.ServerCode load
+INFO: 客户端10准备接入
+七月 20, 2017 3:22:39 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:22:39 下午 server.ServerCode$Task run
+INFO: 接入的客户端: c50df2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65276,localport=3333]]
+七月 20, 2017 3:22:39 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：94078738343832714939
+七月 20, 2017 3:22:39 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:22:39 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:22:39 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:22:39 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:22:39 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535359280.sql] [Size：13.563477 KB] ========
+七月 20, 2017 3:22:39 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535359280.sql] [Size：13.563477 KB] ========
+七月 20, 2017 3:22:58 下午 server.ServerCode load
+INFO: 客户端11准备接入
+七月 20, 2017 3:22:58 下午 server.ServerCode$Task run
+INFO: 接入的客户端: c4c632d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65279,localport=3333]]
+七月 20, 2017 3:22:58 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:22:58 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：02393289528119077267
+七月 20, 2017 3:22:58 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:22:58 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:22:58 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:22:58 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:22:58 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535378142.sql] [Size：1.1953125 KB] ========
+七月 20, 2017 3:22:58 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535378142.sql] [Size：1.1953125 KB] ========
+七月 20, 2017 3:23:03 下午 server.ServerCode load
+INFO: 客户端12准备接入
+七月 20, 2017 3:23:03 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 4fd30479[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65284,localport=3333]]
+七月 20, 2017 3:23:03 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:23:03 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：04885465429167814734
+七月 20, 2017 3:23:03 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:23:03 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:23:03 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:23:03 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:23:03 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535383143.sql] [Size：0.9824219 KB] ========
+七月 20, 2017 3:23:03 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500535383143.sql] [Size：0.9824219 KB] ========
+七月 20, 2017 3:23:18 下午 server.ServerCode load
+INFO: 客户端13准备接入
+七月 20, 2017 3:23:18 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 59f55efc[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=65287,localport=3333]]
+七月 20, 2017 3:23:18 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:23:18 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：27567946105145723048
+七月 20, 2017 3:23:18 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:23:18 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:23:18 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:23:18 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:23:18 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535398142.sql] [Size：16.916016 KB] ========
+七月 20, 2017 3:30:42 下午 server.ServerCode init
+WARNING: java.io.FileNotFoundException: E:\eclipseWorkSpaces\TCPSocket\key\server.keystore (系统找不到指定的路径。)
+七月 20, 2017 3:30:42 下午 server.ServerCode load
+WARNING: 服务端Socket创建失败！
+七月 20, 2017 3:31:03 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:31:18 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:31:18 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 4c025303[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53823,localport=3333]]
+七月 20, 2017 3:31:18 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:31:18 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：68101625090366123772
+七月 20, 2017 3:31:18 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:31:18 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:31:18 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:31:18 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:31:18 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535878150.sql] [Size：0.81347656 KB] ========
+七月 20, 2017 3:31:23 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:31:23 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 76a22b9c[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53826,localport=3333]]
+七月 20, 2017 3:31:23 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:31:23 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：04641746501932608086
+七月 20, 2017 3:31:23 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:31:23 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:31:23 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:31:23 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:31:23 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535883150.sql] [Size：1.3642578 KB] ========
+七月 20, 2017 3:31:38 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 3:31:38 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 5062e9b4[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53829,localport=3333]]
+七月 20, 2017 3:31:38 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:31:38 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：79207715680335615961
+七月 20, 2017 3:31:38 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:31:38 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:31:38 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:31:38 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:31:38 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535898150.sql] [Size：14.201172 KB] ========
+七月 20, 2017 3:31:43 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 3:31:43 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 775d2461[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53832,localport=3333]]
+七月 20, 2017 3:31:43 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:31:43 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：10061849102150710629
+七月 20, 2017 3:31:43 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:31:43 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:31:43 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:31:43 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:31:43 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500535903150.sql] [Size：2.7148438 KB] ========
+七月 20, 2017 3:34:10 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:34:23 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:34:23 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 4c025303[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53935,localport=3333]]
+七月 20, 2017 3:34:23 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:34:23 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：58427761976445886867
+七月 20, 2017 3:34:23 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:34:23 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:34:23 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:34:23 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:34:23 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536063153.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 3:34:33 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:34:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:34:33 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 76a22b9c[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53938,localport=3333]]
+七月 20, 2017 3:34:33 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：56425126705081079980
+七月 20, 2017 3:34:33 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:34:33 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:34:33 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:34:33 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:34:33 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536073152.sql] [Size：12.889648 KB] ========
+七月 20, 2017 3:35:00 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:35:03 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:35:03 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 45a79117[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53951,localport=3333]]
+七月 20, 2017 3:35:03 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:35:03 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：88538298475201334532
+七月 20, 2017 3:35:03 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:35:03 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:35:03 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:35:03 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:35:03 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536103154.sql] [Size：4.026367 KB] ========
+七月 20, 2017 3:35:08 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:35:08 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 63d3477d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53954,localport=3333]]
+七月 20, 2017 3:35:08 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:35:08 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：80647423098682506238
+七月 20, 2017 3:35:08 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:35:08 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:35:08 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:35:08 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:35:08 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536108153.sql] [Size：0.81347656 KB] ========
+七月 20, 2017 3:35:08 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536108153.sql] [Size：0.81347656 KB] ========
+七月 20, 2017 3:35:13 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 3:35:13 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 384ddd18[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53957,localport=3333]]
+七月 20, 2017 3:35:13 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:35:13 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：32713575822287449396
+七月 20, 2017 3:35:13 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:35:13 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:35:13 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:35:13 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:35:13 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536113153.sql] [Size：1.3642578 KB] ========
+七月 20, 2017 3:35:13 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536113153.sql] [Size：1.3642578 KB] ========
+七月 20, 2017 3:35:28 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 3:35:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 60c31037[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53960,localport=3333]]
+七月 20, 2017 3:35:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:35:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：88760959597967035008
+七月 20, 2017 3:35:28 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:35:28 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:35:28 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:35:28 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:35:28 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536128152.sql] [Size：16.317383 KB] ========
+七月 20, 2017 3:35:33 下午 server.ServerCode load
+INFO: 客户端5准备接入
+七月 20, 2017 3:35:33 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 52e18cef[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=53963,localport=3333]]
+七月 20, 2017 3:35:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:35:33 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：40089921755938157989
+七月 20, 2017 3:35:33 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:35:33 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:35:33 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:35:33 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:35:33 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536133154.sql] [Size：0.5986328 KB] ========
+七月 20, 2017 3:35:33 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536133154.sql] [Size：0.5986328 KB] ========
+七月 20, 2017 3:40:10 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:40:18 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:40:18 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54078,localport=3333]]
+七月 20, 2017 3:40:18 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:40:18 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：09331561183203637552
+七月 20, 2017 3:40:18 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:40:18 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:40:18 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:40:18 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:40:18 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536418157.sql] [Size：0.64941406 KB] ========
+七月 20, 2017 3:40:18 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536418157.sql] [Size：0.64941406 KB] ========
+七月 20, 2017 3:40:23 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:40:23 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c514cef[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54081,localport=3333]]
+七月 20, 2017 3:40:23 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:40:23 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：47218902319525385810
+七月 20, 2017 3:40:23 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:40:23 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:40:23 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:40:23 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:40:23 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536423158.sql] [Size：1.5283203 KB] ========
+七月 20, 2017 3:40:23 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536423158.sql] [Size：1.5283203 KB] ========
+七月 20, 2017 3:40:28 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 3:40:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 775d2461[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54084,localport=3333]]
+七月 20, 2017 3:40:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:40:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：54771866708655003301
+七月 20, 2017 3:40:28 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:40:28 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:40:28 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:40:28 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:40:28 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536428157.sql] [Size：1.5263672 KB] ========
+七月 20, 2017 3:40:28 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536428157.sql] [Size：1.5263672 KB] ========
+七月 20, 2017 3:40:33 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 3:40:33 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 17eba425[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54087,localport=3333]]
+七月 20, 2017 3:40:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:40:33 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：87362124413067874303
+七月 20, 2017 3:40:33 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:40:33 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:40:33 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:40:33 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:40:33 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536433158.sql] [Size：15.389648 KB] ========
+七月 20, 2017 3:41:18 下午 server.ServerCode load
+INFO: 客户端5准备接入
+七月 20, 2017 3:41:18 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1377c533[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54099,localport=3333]]
+七月 20, 2017 3:41:18 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:41:18 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：86121268848148029817
+七月 20, 2017 3:41:18 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:41:18 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:41:18 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:41:18 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:41:18 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536478159.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 3:41:18 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536478159.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 3:43:36 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:43:48 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:43:48 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54182,localport=3333]]
+七月 20, 2017 3:43:48 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:43:48 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：76968401737696758334
+七月 20, 2017 3:43:48 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:43:48 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:43:48 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:43:48 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:43:48 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536628160.sql] [Size：16.916016 KB] ========
+七月 20, 2017 3:46:28 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:46:28 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 532d8526[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54224,localport=3333]]
+七月 20, 2017 3:46:28 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:46:28 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：26584280510450467463
+七月 20, 2017 3:46:28 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:46:28 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:46:28 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:46:28 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:46:28 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536788163.sql] [Size：0.08496094 KB] ========
+七月 20, 2017 3:46:28 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536788163.sql] [Size：0.08496094 KB] ========
+七月 20, 2017 3:46:38 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 3:46:38 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 26e0696c[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54227,localport=3333]]
+七月 20, 2017 3:46:38 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:46:38 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：32505826678122748100
+七月 20, 2017 3:46:38 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:46:38 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:46:38 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:46:38 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:46:38 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536798164.sql] [Size：0.18164062 KB] ========
+七月 20, 2017 3:46:38 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536798164.sql] [Size：0.18164062 KB] ========
+七月 20, 2017 3:46:48 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 3:46:48 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 2ead5b0c[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54231,localport=3333]]
+七月 20, 2017 3:46:48 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:46:48 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：42779669714091331351
+七月 20, 2017 3:46:48 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:46:48 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:46:48 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:46:48 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:46:48 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536808164.sql] [Size：0.0546875 KB] ========
+七月 20, 2017 3:46:48 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536808164.sql] [Size：0.0546875 KB] ========
+七月 20, 2017 3:47:09 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:47:23 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:47:23 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54234,localport=3333]]
+七月 20, 2017 3:47:23 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:47:23 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：72826468957164555097
+七月 20, 2017 3:47:23 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:47:23 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:47:23 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:47:23 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:47:23 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536843164.sql] [Size：0.09082031 KB] ========
+七月 20, 2017 3:47:24 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536843164.sql] [Size：0.09082031 KB] ========
+七月 20, 2017 3:47:33 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:47:33 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 3d1bb20d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54237,localport=3333]]
+七月 20, 2017 3:47:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:47:33 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：55683414771134714365
+七月 20, 2017 3:47:33 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:47:33 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:47:33 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:47:33 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:47:33 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536853165.sql] [Size：0.0546875 KB] ========
+七月 20, 2017 3:47:33 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536853165.sql] [Size：0.0546875 KB] ========
+七月 20, 2017 3:47:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:48:08 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:48:08 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54244,localport=3333]]
+七月 20, 2017 3:48:08 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:48:08 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：15926603260014406991
+七月 20, 2017 3:48:08 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:48:08 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:48:08 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:48:08 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:48:08 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536888165.sql] [Size：0.09082031 KB] ========
+七月 20, 2017 3:48:09 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536888165.sql] [Size：0.09082031 KB] ========
+七月 20, 2017 3:48:47 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:48:58 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:48:58 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54250,localport=3333]]
+七月 20, 2017 3:48:58 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:48:58 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：94371556086912143220
+七月 20, 2017 3:48:58 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:48:58 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:48:58 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:48:58 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:48:58 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536938166.sql] [Size：0.10839844 KB] ========
+七月 20, 2017 3:48:58 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536938166.sql] [Size：0.10839844 KB] ========
+七月 20, 2017 3:49:13 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:49:13 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 654692d2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54253,localport=3333]]
+七月 20, 2017 3:49:13 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:49:13 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：38710880556733769959
+七月 20, 2017 3:49:13 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:49:13 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:49:13 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:49:13 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:49:13 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500536953165.sql] [Size：0.087890625 KB] ========
+七月 20, 2017 3:49:13 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500536953165.sql] [Size：0.087890625 KB] ========
+七月 20, 2017 3:51:22 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:51:38 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 3:51:38 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54268,localport=3333]]
+七月 20, 2017 3:51:38 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:51:38 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：77899453589463476380
+七月 20, 2017 3:51:38 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:51:38 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:51:38 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:51:38 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:51:38 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537098168.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 3:51:38 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537098168.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 3:51:53 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 3:51:53 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 3d1bb20d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54271,localport=3333]]
+七月 20, 2017 3:51:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:51:53 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：19340396711566561474
+七月 20, 2017 3:51:53 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:51:53 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:51:53 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:51:53 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:51:53 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537113168.sql] [Size：0.08984375 KB] ========
+七月 20, 2017 3:51:53 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537113168.sql] [Size：0.08984375 KB] ========
+七月 20, 2017 3:52:34 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 3:52:34 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1bb6d37d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54276,localport=3333]]
+七月 20, 2017 3:52:34 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:52:34 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：21610596076412231235
+七月 20, 2017 3:52:34 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:52:34 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:52:34 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:52:34 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:52:34 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537154306.sql] [Size：0.25097656 KB] ========
+七月 20, 2017 3:52:34 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537154306.sql] [Size：0.25097656 KB] ========
+七月 20, 2017 3:57:46 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 3:57:46 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 17eba425[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54314,localport=3333]]
+七月 20, 2017 3:57:46 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：90291100358721361406
+七月 20, 2017 3:57:46 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:57:46 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:57:46 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:57:46 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:57:46 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:57:46 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537465655.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 3:57:46 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537465655.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 3:57:55 下午 server.ServerCode load
+INFO: 客户端5准备接入
+七月 20, 2017 3:57:55 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:57:55 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 2db9e6d7[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54317,localport=3333]]
+七月 20, 2017 3:57:55 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：70911775815136556102
+七月 20, 2017 3:57:55 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:57:56 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:57:56 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:57:56 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:57:56 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537475654.sql] [Size：0.08984375 KB] ========
+七月 20, 2017 3:57:56 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537475654.sql] [Size：0.08984375 KB] ========
+七月 20, 2017 3:58:20 下午 server.ServerCode load
+INFO: 客户端6准备接入
+七月 20, 2017 3:58:20 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:58:20 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1bff8e70[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54321,localport=3333]]
+七月 20, 2017 3:58:20 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：71492901131372207651
+七月 20, 2017 3:58:20 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:58:21 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:58:21 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:58:21 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:58:21 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537500655.sql] [Size：0.19726562 KB] ========
+七月 20, 2017 3:58:21 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537500655.sql] [Size：0.19726562 KB] ========
+七月 20, 2017 3:59:00 下午 server.ServerCode load
+INFO: 客户端7准备接入
+七月 20, 2017 3:59:00 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7db9c2f0[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54325,localport=3333]]
+七月 20, 2017 3:59:00 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:59:00 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：68034948732653676199
+七月 20, 2017 3:59:00 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:59:01 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:59:01 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:59:01 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:59:01 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537540655.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 3:59:01 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537540655.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 3:59:10 下午 server.ServerCode load
+INFO: 客户端8准备接入
+七月 20, 2017 3:59:10 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 1c9ac1e4[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54328,localport=3333]]
+七月 20, 2017 3:59:10 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:59:10 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：52367222190491575572
+七月 20, 2017 3:59:10 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:59:11 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:59:11 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:59:11 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:59:11 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537550656.sql] [Size：2.1240234 KB] ========
+七月 20, 2017 3:59:11 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537550656.sql] [Size：2.1240234 KB] ========
+七月 20, 2017 3:59:25 下午 server.ServerCode load
+INFO: 客户端9准备接入
+七月 20, 2017 3:59:25 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 22f1b6e0[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54331,localport=3333]]
+七月 20, 2017 3:59:25 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：87980484266882666313
+七月 20, 2017 3:59:25 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:59:25 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:59:26 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:59:26 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:59:26 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:59:26 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537565654.sql] [Size：18.808594 KB] ========
+七月 20, 2017 3:59:26 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537565654.sql] [Size：18.808594 KB] ========
+七月 20, 2017 3:59:30 下午 server.ServerCode load
+INFO: 客户端10准备接入
+七月 20, 2017 3:59:30 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 3:59:30 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 677556a0[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54334,localport=3333]]
+七月 20, 2017 3:59:30 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：70097922177732826801
+七月 20, 2017 3:59:30 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 3:59:31 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 3:59:31 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 3:59:31 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 3:59:31 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537570656.sql] [Size：4.1240234 KB] ========
+七月 20, 2017 3:59:31 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537570656.sql] [Size：4.1240234 KB] ========
+七月 20, 2017 4:01:53 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:02:05 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 4:02:05 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:02:05 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54358,localport=3333]]
+七月 20, 2017 4:02:05 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：75916552449529449980
+七月 20, 2017 4:02:05 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:02:06 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:02:06 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:02:06 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:02:06 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537725659.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:02:06 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537725659.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:02:25 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 4:02:25 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c514cef[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54361,localport=3333]]
+七月 20, 2017 4:02:25 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:02:25 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：72690067082287875308
+七月 20, 2017 4:02:25 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:02:26 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:02:26 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:02:26 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:02:26 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500537745659.sql] [Size：22.932617 KB] ========
+七月 20, 2017 4:02:26 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500537745659.sql] [Size：22.932617 KB] ========
+七月 20, 2017 4:11:19 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:11:34 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 4:11:34 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54430,localport=3333]]
+七月 20, 2017 4:11:34 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:11:34 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：11155603982199882299
+七月 20, 2017 4:11:34 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:11:34 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:11:34 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:11:34 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:11:34 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538294324.sql] [Size：0.087890625 KB] ========
+七月 20, 2017 4:11:35 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500538294324.sql] [Size：0.087890625 KB] ========
+七月 20, 2017 4:12:33 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:12:44 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 4:12:44 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54434,localport=3333]]
+七月 20, 2017 4:12:44 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:12:44 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：00726804514656420042
+七月 20, 2017 4:12:44 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:12:44 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:12:44 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:12:44 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:12:44 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538364325.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 4:12:45 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500538364325.sql] [Size：0.053710938 KB] ========
+七月 20, 2017 4:12:54 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 4:12:54 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 3d921eac[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54446,localport=3333]]
+七月 20, 2017 4:12:54 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:12:54 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：43174152724624490942
+七月 20, 2017 4:12:54 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:12:54 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:12:54 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:12:54 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:12:54 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538374326.sql] [Size：2.1240234 KB] ========
+七月 20, 2017 4:12:54 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500538374326.sql] [Size：2.1240234 KB] ========
+七月 20, 2017 4:13:04 下午 server.ServerCode load
+INFO: 客户端3准备接入
+七月 20, 2017 4:13:04 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 62470c64[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54449,localport=3333]]
+七月 20, 2017 4:13:04 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:13:04 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：00888790416759787576
+七月 20, 2017 4:13:04 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:13:04 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:13:04 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:13:04 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:13:04 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538384325.sql] [Size：14.786133 KB] ========
+七月 20, 2017 4:13:09 下午 server.ServerCode load
+INFO: 客户端4准备接入
+七月 20, 2017 4:13:09 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 773488c4[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54452,localport=3333]]
+七月 20, 2017 4:13:09 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:13:09 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：29926581284866060178
+七月 20, 2017 4:13:09 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:13:09 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:13:09 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:13:09 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:13:09 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538389326.sql] [Size：2.1298828 KB] ========
+七月 20, 2017 4:16:31 下午 server.ServerCode load
+INFO: 客户端5准备接入
+七月 20, 2017 4:16:31 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 55f967c8[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54489,localport=3333]]
+七月 20, 2017 4:16:31 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:16:31 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：46001849169335434949
+七月 20, 2017 4:16:31 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:16:31 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:16:31 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:16:31 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:16:31 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538590581.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:16:31 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500538590581.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:16:35 下午 server.ServerCode load
+INFO: 客户端6准备接入
+七月 20, 2017 4:16:35 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 58c9defc[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54492,localport=3333]]
+七月 20, 2017 4:16:35 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:16:35 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：47318675022051215495
+七月 20, 2017 4:16:35 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:16:36 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:16:36 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:16:36 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:16:36 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538595580.sql] [Size：8.9609375 KB] ========
+七月 20, 2017 4:16:36 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500538595580.sql] [Size：8.9609375 KB] ========
+七月 20, 2017 4:16:40 下午 server.ServerCode load
+INFO: 客户端7准备接入
+七月 20, 2017 4:16:40 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:16:40 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 63676602[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54495,localport=3333]]
+七月 20, 2017 4:16:40 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：78090158707623133917
+七月 20, 2017 4:16:40 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:16:41 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:16:41 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:16:41 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:16:41 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538600582.sql] [Size：13.97168 KB] ========
+七月 20, 2017 4:16:41 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500538600582.sql] [Size：13.97168 KB] ========
+七月 20, 2017 4:18:49 下午 server.ServerCode load
+INFO: 客户端8准备接入
+七月 20, 2017 4:18:49 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 5ec47109[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54504,localport=3333]]
+七月 20, 2017 4:18:49 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:18:49 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：84384149974067664256
+七月 20, 2017 4:18:49 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:18:50 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:18:50 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:18:50 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:18:50 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538729283.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:18:50 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500538729283.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:18:59 下午 server.ServerCode load
+INFO: 客户端9准备接入
+七月 20, 2017 4:18:59 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 2ae0c389[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54507,localport=3333]]
+七月 20, 2017 4:18:59 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:18:59 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：53345828965429228858
+七月 20, 2017 4:18:59 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:18:59 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:18:59 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:18:59 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:18:59 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538739284.sql] [Size：12.290039 KB] ========
+七月 20, 2017 4:19:04 下午 server.ServerCode load
+INFO: 客户端10准备接入
+七月 20, 2017 4:19:04 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 2710e05e[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54510,localport=3333]]
+七月 20, 2017 4:19:04 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:19:04 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：56948676459494915757
+七月 20, 2017 4:19:04 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:19:04 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:19:04 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:19:04 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:19:04 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500538744283.sql] [Size：4.6259766 KB] ========
+七月 20, 2017 4:23:59 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:24:12 下午 server.ServerCode load
+INFO: 客户端1准备接入
+七月 20, 2017 4:24:12 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 7c26a0ba[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54553,localport=3333]]
+七月 20, 2017 4:24:12 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:24:12 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：24749579054351965601
+七月 20, 2017 4:24:13 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:24:13 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:24:13 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:24:13 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:24:13 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500539052312.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:24:13 下午 server.ServerCode$Task run
+INFO: ======== 文件更新到数据库Name：1500539052312.sql] [Size：2.1777344 KB] ========
+七月 20, 2017 4:24:27 下午 server.ServerCode load
+INFO: 客户端2准备接入
+七月 20, 2017 4:24:27 下午 server.ServerCode$Task run
+INFO: 接入的客户端: 441bcdc8[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.132,port=54556,localport=3333]]
+七月 20, 2017 4:24:27 下午 server.ServerCode load
+INFO: 等待客户端接入。。
+七月 20, 2017 4:24:27 下午 Sense4.SecDogs encryptDog
+INFO: 输入数据：91912647426710790464
+七月 20, 2017 4:24:27 下午 Sense4.SecDogs encryptDog
+INFO: execute hex file successed!
+七月 20, 2017 4:24:27 下午 Sense4.SecDogs clientAuth
+INFO: execute hex file successed!
+七月 20, 2017 4:24:27 下午 Sense4.SecDogs clientAuth
+INFO: 返回验证结果：0
+七月 20, 2017 4:24:27 下午 server.ServerCode$Task run
+INFO: 客户端认证通过，开始上传文件吧！
+七月 20, 2017 4:24:27 下午 server.ServerCode$Task run
+INFO: ======== 文件接收成功 [File Name：1500539067311.sql] [Size：16.916016 KB] ========
+七月 26, 2017 12:29:09 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 8:58:42 上午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 1:30:41 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 1:35:40 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 1:37:38 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 1:39:17 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 1:39:17 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50466,localport=3333]]
+七月 27, 2017 1:39:17 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 1:39:21 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 1:39:21 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4162b547[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50470,localport=3333]]
+七月 27, 2017 1:39:21 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 1:39:26 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 27, 2017 1:39:26 下午 server.ServerCode$Task run
+信息: 接入的客户端: 7182fefc[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50473,localport=3333]]
+七月 27, 2017 1:39:26 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:07:14 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:09:31 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:09:57 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 2:09:57 下午 server.ServerCode$Task run
+信息: 接入的客户端: 6e6b6660[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50796,localport=3333]]
+七月 27, 2017 2:09:57 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:10:02 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 2:10:02 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4162b547[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50798,localport=3333]]
+七月 27, 2017 2:10:02 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:10:07 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 27, 2017 2:10:07 下午 server.ServerCode$Task run
+信息: 接入的客户端: 7182fefc[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50800,localport=3333]]
+七月 27, 2017 2:10:07 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:12:17 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:12:18 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 2:12:18 下午 server.ServerCode$Task run
+信息: 接入的客户端: 64895f93[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50853,localport=3333]]
+七月 27, 2017 2:12:18 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:12:22 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 2:12:22 下午 server.ServerCode$Task run
+信息: 接入的客户端: 15846d90[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50855,localport=3333]]
+七月 27, 2017 2:12:22 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:12:27 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 27, 2017 2:12:27 下午 server.ServerCode$Task run
+信息: 接入的客户端: 498db784[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50857,localport=3333]]
+七月 27, 2017 2:12:27 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:12:32 下午 server.ServerCode load
+信息: 客户端4准备接入
+七月 27, 2017 2:12:32 下午 server.ServerCode$Task run
+信息: 接入的客户端: 16b738a9[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=50859,localport=3333]]
+七月 27, 2017 2:12:32 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:20:11 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:20:30 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 2:20:30 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60258,localport=3333]]
+七月 27, 2017 2:20:30 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:20:35 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 2:20:35 下午 server.ServerCode$Task run
+信息: 接入的客户端: 13dcc4f2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60261,localport=3333]]
+七月 27, 2017 2:20:35 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:20:40 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 27, 2017 2:20:40 下午 server.ServerCode$Task run
+信息: 接入的客户端: 69fd3400[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60263,localport=3333]]
+七月 27, 2017 2:20:40 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:21:57 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:22:00 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 2:22:00 下午 server.ServerCode$Task run
+信息: 接入的客户端: 57243f5b[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60297,localport=3333]]
+七月 27, 2017 2:22:00 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:22:05 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 2:22:05 下午 server.ServerCode$Task run
+信息: 接入的客户端: 13dcc4f2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60299,localport=3333]]
+七月 27, 2017 2:22:05 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:22:44 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:22:45 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 2:22:45 下午 server.ServerCode$Task run
+信息: 接入的客户端: 524b257a[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60317,localport=3333]]
+七月 27, 2017 2:22:45 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:22:50 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 2:22:50 下午 server.ServerCode$Task run
+信息: 接入的客户端: 13dcc4f2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60319,localport=3333]]
+七月 27, 2017 2:22:50 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:22:55 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 27, 2017 2:22:55 下午 server.ServerCode$Task run
+信息: 接入的客户端: 54c2311c[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60322,localport=3333]]
+七月 27, 2017 2:22:55 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:23:00 下午 server.ServerCode load
+信息: 客户端4准备接入
+七月 27, 2017 2:23:00 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4931fb94[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60326,localport=3333]]
+七月 27, 2017 2:23:00 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:28:38 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:29:07 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 2:29:07 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60804,localport=3333]]
+七月 27, 2017 2:29:07 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:29:11 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 2:29:11 下午 server.ServerCode$Task run
+信息: 接入的客户端: 13dcc4f2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60808,localport=3333]]
+七月 27, 2017 2:29:11 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:30:58 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:31:12 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 2:31:12 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60940,localport=3333]]
+七月 27, 2017 2:31:12 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 2:31:12 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：56000018663811665694
+七月 27, 2017 2:53:05 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:11:13 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 3:11:13 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60105,localport=3333]]
+七月 27, 2017 3:11:13 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:11:13 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：08213871303063047675
+七月 27, 2017 3:12:53 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:13:08 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 3:13:08 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60120,localport=3333]]
+七月 27, 2017 3:13:08 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:13:08 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：23464019013453341230
+七月 27, 2017 3:48:43 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:49:02 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 3:49:02 下午 server.ServerCode$Task run
+信息: 接入的客户端: 57243f5b[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60557,localport=3333]]
+七月 27, 2017 3:49:02 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:49:02 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：74525387906595479784
+七月 27, 2017 3:49:02 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 3:52:53 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 3:52:53 下午 server.ServerCode$Task run
+信息: 接入的客户端: 6dbd2cca[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60577,localport=3333]]
+七月 27, 2017 3:52:53 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:52:53 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：52220766737488707719
+七月 27, 2017 3:52:53 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 3:54:54 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:56:49 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 3:56:49 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4166316[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60592,localport=3333]]
+七月 27, 2017 3:56:49 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:56:49 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：76372659160508208606
+七月 27, 2017 3:56:49 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 3:58:32 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 3:58:32 下午 server.ServerCode$Task run
+信息: 接入的客户端: 105d2a6a[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60603,localport=3333]]
+七月 27, 2017 3:58:32 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:58:32 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：94094661913751113425
+七月 27, 2017 3:58:32 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 3:58:37 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 3:58:37 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 3:58:37 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 3:58:37 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142311373.sql] [Size：0.17871094 KB] ========
+七月 27, 2017 3:58:39 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142311373.sql] [Size：0.17871094 KB] ========
+七月 27, 2017 3:59:13 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:59:29 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 3:59:29 下午 server.ServerCode$Task run
+信息: 接入的客户端: 6e6b6660[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60613,localport=3333]]
+七月 27, 2017 3:59:29 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:59:29 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：35171220716967134090
+七月 27, 2017 3:59:29 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 3:59:30 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 3:59:30 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 3:59:30 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 3:59:30 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142369055.sql] [Size：0.053710938 KB] ========
+七月 27, 2017 3:59:30 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142369055.sql] [Size：0.053710938 KB] ========
+七月 27, 2017 3:59:44 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 3:59:44 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4a636dc2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60616,localport=3333]]
+七月 27, 2017 3:59:44 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 3:59:44 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：60832003801344797526
+七月 27, 2017 3:59:44 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 3:59:44 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 3:59:44 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 3:59:44 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 3:59:44 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142384055.sql] [Size：0.083984375 KB] ========
+七月 27, 2017 3:59:44 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142384055.sql] [Size：0.083984375 KB] ========
+七月 27, 2017 4:00:04 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 27, 2017 4:00:04 下午 server.ServerCode$Task run
+信息: 接入的客户端: 27ca8ff4[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60619,localport=3333]]
+七月 27, 2017 4:00:04 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 4:00:04 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：65103527246066302358
+七月 27, 2017 4:00:04 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 4:00:04 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 4:00:04 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 4:00:04 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 4:00:04 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142404055.sql] [Size：0.17773438 KB] ========
+七月 27, 2017 4:00:04 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142404055.sql] [Size：0.17773438 KB] ========
+七月 27, 2017 4:00:14 下午 server.ServerCode load
+信息: 客户端4准备接入
+七月 27, 2017 4:00:14 下午 server.ServerCode$Task run
+信息: 接入的客户端: 19586b22[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60622,localport=3333]]
+七月 27, 2017 4:00:14 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 4:00:14 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：10800277268255211178
+七月 27, 2017 4:00:14 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 4:00:14 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 4:00:14 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 4:00:14 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 4:00:14 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142414055.sql] [Size：0.053710938 KB] ========
+七月 27, 2017 4:00:14 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142414055.sql] [Size：0.053710938 KB] ========
+七月 27, 2017 4:00:34 下午 server.ServerCode load
+信息: 客户端5准备接入
+七月 27, 2017 4:00:34 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4fcfdeb0[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60627,localport=3333]]
+七月 27, 2017 4:00:34 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 4:00:34 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：38990731972157489935
+七月 27, 2017 4:00:34 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 4:00:34 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 4:00:34 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 4:00:34 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 4:00:34 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142434055.sql] [Size：2.1240234 KB] ========
+七月 27, 2017 4:00:34 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142434055.sql] [Size：2.1240234 KB] ========
+七月 27, 2017 4:00:39 下午 server.ServerCode load
+信息: 客户端6准备接入
+七月 27, 2017 4:00:39 下午 server.ServerCode$Task run
+信息: 接入的客户端: 7f980349[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60631,localport=3333]]
+七月 27, 2017 4:00:39 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 4:00:39 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：67018958367982305618
+七月 27, 2017 4:00:39 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 4:00:39 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 4:00:39 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 4:00:39 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 4:00:39 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142439055.sql] [Size：22.792969 KB] ========
+七月 27, 2017 4:00:39 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142439055.sql] [Size：22.792969 KB] ========
+七月 27, 2017 4:02:11 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 4:02:31 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 4:02:31 下午 server.ServerCode$Task run
+信息: 接入的客户端: 6e6b6660[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60641,localport=3333]]
+七月 27, 2017 4:02:31 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 4:02:31 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：30667074840954983028
+七月 27, 2017 4:02:31 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 4:02:31 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 4:02:31 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 4:02:31 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 4:02:31 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501142550874.sql] [Size：0.083984375 KB] ========
+七月 27, 2017 4:02:32 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501142550874.sql] [Size：0.083984375 KB] ========
+七月 27, 2017 5:01:50 下午 server.ServerCode init
+警告: java.io.FileNotFoundException: E:\eclipseWorkSpaces\TCPSocket\key\server.keystore (系统找不到指定的路径。)
+七月 27, 2017 5:01:50 下午 server.ServerCode load
+警告: 服务端Socket创建失败！
+七月 27, 2017 5:02:22 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:02:53 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 5:02:53 下午 server.ServerCode$Task run
+信息: 接入的客户端: 1391a3bf[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=49738,localport=3333]]
+七月 27, 2017 5:02:53 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:02:53 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：58433842432953487435
+七月 27, 2017 5:02:58 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 5:02:58 下午 server.ServerCode$Task run
+信息: 接入的客户端: 18b61b40[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=49740,localport=3333]]
+七月 27, 2017 5:02:58 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:02:58 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：71954736873780257686
+七月 27, 2017 5:04:01 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:04:18 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 5:04:18 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=49782,localport=3333]]
+七月 27, 2017 5:04:18 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：82652669884596474819
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 27, 2017 5:04:18 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 27, 2017 5:04:18 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501146257472.sql] [Size：0.18261719 KB] ========
+七月 27, 2017 5:04:19 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501146257472.sql] [Size：0.18261719 KB] ========
+七月 27, 2017 5:47:09 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:47:23 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 27, 2017 5:47:23 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60245,localport=3333]]
+七月 27, 2017 5:47:23 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:47:23 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：82028984462650434768
+七月 27, 2017 5:47:23 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 5:47:27 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 27, 2017 5:47:27 下午 server.ServerCode$Task run
+信息: 接入的客户端: 55f524cc[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60247,localport=3333]]
+七月 27, 2017 5:47:27 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:47:27 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：51752697943184151575
+七月 27, 2017 5:47:27 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 5:47:32 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 27, 2017 5:47:32 下午 server.ServerCode$Task run
+信息: 接入的客户端: 5c621376[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60249,localport=3333]]
+七月 27, 2017 5:47:32 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 27, 2017 5:47:32 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：17828513233202437128
+七月 27, 2017 5:47:32 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 1:39:27 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:16:00 下午 server.ServerCode load
+信息: 客户端1准备接入
+七月 31, 2017 2:16:00 下午 server.ServerCode$Task run
+信息: 接入的客户端: 63a8e814[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56357,localport=3333]]
+七月 31, 2017 2:16:00 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：13661935550409771056
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:16:00 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:16:00 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501481759588.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:16:01 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501481759588.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:16:40 下午 server.ServerCode load
+信息: 客户端2准备接入
+七月 31, 2017 2:16:40 下午 server.ServerCode$Task run
+信息: 接入的客户端: 77df7c06[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56367,localport=3333]]
+七月 31, 2017 2:16:40 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:16:40 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：83921523355361732908
+七月 31, 2017 2:16:41 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:16:41 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:16:41 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:16:41 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:16:41 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501481800267.sql] [Size：0.083984375 KB] ========
+七月 31, 2017 2:16:41 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501481800267.sql] [Size：0.083984375 KB] ========
+七月 31, 2017 2:16:50 下午 server.ServerCode load
+信息: 客户端3准备接入
+七月 31, 2017 2:16:50 下午 server.ServerCode$Task run
+信息: 接入的客户端: 6927d648[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56371,localport=3333]]
+七月 31, 2017 2:16:50 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：89660890275438159473
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:16:50 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:16:50 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501481810266.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:16:50 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501481810266.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:17:05 下午 server.ServerCode load
+信息: 客户端4准备接入
+七月 31, 2017 2:17:05 下午 server.ServerCode$Task run
+信息: 接入的客户端: 66b74bc4[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56375,localport=3333]]
+七月 31, 2017 2:17:05 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：74401235362798536275
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:17:05 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:17:05 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501481825266.sql] [Size：0.64746094 KB] ========
+七月 31, 2017 2:17:05 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501481825266.sql] [Size：0.64746094 KB] ========
+七月 31, 2017 2:17:10 下午 server.ServerCode load
+信息: 客户端5准备接入
+七月 31, 2017 2:17:10 下午 server.ServerCode$Task run
+信息: 接入的客户端: b9bfe7b[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56379,localport=3333]]
+七月 31, 2017 2:17:10 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：65848151406078534844
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:17:10 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:17:10 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501481830266.sql] [Size：7.392578 KB] ========
+七月 31, 2017 2:17:10 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501481830266.sql] [Size：7.392578 KB] ========
+七月 31, 2017 2:19:51 下午 server.ServerCode load
+信息: 客户端6准备接入
+七月 31, 2017 2:19:51 下午 server.ServerCode$Task run
+信息: 接入的客户端: 6234b8af[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56417,localport=3333]]
+七月 31, 2017 2:19:51 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：91484852209119723158
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:19:51 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:19:51 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501481990462.sql] [Size：0.17773438 KB] ========
+七月 31, 2017 2:19:51 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501481990462.sql] [Size：0.17773438 KB] ========
+七月 31, 2017 2:20:05 下午 server.ServerCode load
+信息: 客户端7准备接入
+七月 31, 2017 2:20:05 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4325c8e6[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56421,localport=3333]]
+七月 31, 2017 2:20:05 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:20:05 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：40781655583122500042
+七月 31, 2017 2:20:05 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:20:06 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:20:06 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:20:06 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:20:06 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501482005462.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:20:06 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501482005462.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:20:30 下午 server.ServerCode load
+信息: 客户端8准备接入
+七月 31, 2017 2:20:30 下午 server.ServerCode$Task run
+信息: 接入的客户端: 371e252e[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56426,localport=3333]]
+七月 31, 2017 2:20:30 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：66443933504714802357
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:20:30 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:20:30 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501482030462.sql] [Size：1.3046875 KB] ========
+七月 31, 2017 2:20:31 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501482030462.sql] [Size：1.3046875 KB] ========
+七月 31, 2017 2:41:06 下午 server.ServerCode load
+信息: 客户端9准备接入
+七月 31, 2017 2:41:06 下午 server.ServerCode$Task run
+信息: 接入的客户端: 7a11b747[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56734,localport=3333]]
+七月 31, 2017 2:41:06 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：65927602947350736710
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:41:06 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:41:06 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483265756.sql] [Size：0.81152344 KB] ========
+七月 31, 2017 2:41:06 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483265756.sql] [Size：0.81152344 KB] ========
+七月 31, 2017 2:41:15 下午 server.ServerCode load
+信息: 客户端10准备接入
+七月 31, 2017 2:41:15 下午 server.ServerCode$Task run
+信息: 接入的客户端: 1c78f804[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56738,localport=3333]]
+七月 31, 2017 2:41:15 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:41:15 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：04783216649399930831
+七月 31, 2017 2:41:15 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:41:16 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:41:16 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:41:16 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:41:16 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483275753.sql] [Size：8.765625 KB] ========
+七月 31, 2017 2:41:16 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483275753.sql] [Size：8.765625 KB] ========
+七月 31, 2017 2:41:40 下午 server.ServerCode load
+信息: 客户端11准备接入
+七月 31, 2017 2:41:40 下午 server.ServerCode$Task run
+信息: 接入的客户端: 70066c96[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56741,localport=3333]]
+七月 31, 2017 2:41:40 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:41:40 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：00417638986336748120
+七月 31, 2017 2:41:40 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:41:41 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:41:41 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:41:41 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:41:41 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483300754.sql] [Size：0.81152344 KB] ========
+七月 31, 2017 2:41:41 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483300754.sql] [Size：0.81152344 KB] ========
+七月 31, 2017 2:42:18 下午 server.ServerCode load
+信息: 客户端12准备接入
+七月 31, 2017 2:42:18 下午 server.ServerCode$Task run
+信息: 接入的客户端: 499fe206[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56750,localport=3333]]
+七月 31, 2017 2:42:18 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:42:18 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：53571947426281440639
+七月 31, 2017 2:42:18 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:42:19 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:42:19 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:42:19 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:42:19 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483338030.sql] [Size：0.4296875 KB] ========
+七月 31, 2017 2:42:19 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483338030.sql] [Size：0.4296875 KB] ========
+七月 31, 2017 2:42:23 下午 server.ServerCode load
+信息: 客户端13准备接入
+七月 31, 2017 2:42:23 下午 server.ServerCode$Task run
+信息: 接入的客户端: b3ed4ab[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56753,localport=3333]]
+七月 31, 2017 2:42:23 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：09206370142641534038
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:42:23 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:42:23 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483343029.sql] [Size：7.6103516 KB] ========
+七月 31, 2017 2:42:23 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483343029.sql] [Size：7.6103516 KB] ========
+七月 31, 2017 2:43:03 下午 server.ServerCode load
+信息: 客户端14准备接入
+七月 31, 2017 2:43:03 下午 server.ServerCode$Task run
+信息: 接入的客户端: 19407bae[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56759,localport=3333]]
+七月 31, 2017 2:43:03 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：10847087110183065890
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:03 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:43:03 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483383030.sql] [Size：0.4296875 KB] ========
+七月 31, 2017 2:43:03 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483383030.sql] [Size：0.4296875 KB] ========
+七月 31, 2017 2:43:08 下午 server.ServerCode load
+信息: 客户端15准备接入
+七月 31, 2017 2:43:08 下午 server.ServerCode$Task run
+信息: 接入的客户端: 7ec370c1[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56766,localport=3333]]
+七月 31, 2017 2:43:08 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：33720284367923763189
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:08 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:43:08 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483388030.sql] [Size：1.9335938 KB] ========
+七月 31, 2017 2:43:08 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483388030.sql] [Size：1.9335938 KB] ========
+七月 31, 2017 2:43:23 下午 server.ServerCode load
+信息: 客户端16准备接入
+七月 31, 2017 2:43:23 下午 server.ServerCode$Task run
+信息: 接入的客户端: 2512a14[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56777,localport=3333]]
+七月 31, 2017 2:43:23 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：74329886655678967906
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:23 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:43:23 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483403030.sql] [Size：2.7294922 KB] ========
+七月 31, 2017 2:43:23 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483403030.sql] [Size：2.7294922 KB] ========
+七月 31, 2017 2:43:28 下午 server.ServerCode load
+信息: 客户端17准备接入
+七月 31, 2017 2:43:28 下午 server.ServerCode$Task run
+信息: 接入的客户端: 49dc23d6[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56780,localport=3333]]
+七月 31, 2017 2:43:28 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：94975676471670400069
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:28 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:43:28 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483408030.sql] [Size：2.4941406 KB] ========
+七月 31, 2017 2:43:28 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483408030.sql] [Size：2.4941406 KB] ========
+七月 31, 2017 2:47:04 下午 server.ServerCode load
+信息: 客户端18准备接入
+七月 31, 2017 2:47:04 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4c7e48f5[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56802,localport=3333]]
+七月 31, 2017 2:47:04 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：67149438697728014924
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:04 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:47:04 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483623481.sql] [Size：0.10058594 KB] ========
+七月 31, 2017 2:47:04 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483623481.sql] [Size：0.10058594 KB] ========
+七月 31, 2017 2:47:13 下午 server.ServerCode load
+信息: 客户端19准备接入
+七月 31, 2017 2:47:13 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4cc6f43f[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56805,localport=3333]]
+七月 31, 2017 2:47:13 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：65589762026727302031
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:13 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:47:13 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483633481.sql] [Size：1.4121094 KB] ========
+七月 31, 2017 2:47:14 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483633481.sql] [Size：1.4121094 KB] ========
+七月 31, 2017 2:47:18 下午 server.ServerCode load
+信息: 客户端20准备接入
+七月 31, 2017 2:47:18 下午 server.ServerCode$Task run
+信息: 接入的客户端: 5b32ea24[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56808,localport=3333]]
+七月 31, 2017 2:47:18 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：84393035379674897142
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:18 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:47:18 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483638480.sql] [Size：2.6640625 KB] ========
+七月 31, 2017 2:47:19 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483638480.sql] [Size：2.6640625 KB] ========
+七月 31, 2017 2:47:53 下午 server.ServerCode load
+信息: 客户端21准备接入
+七月 31, 2017 2:47:53 下午 server.ServerCode$Task run
+信息: 接入的客户端: 7d02d266[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56821,localport=3333]]
+七月 31, 2017 2:47:53 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:47:53 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：75543655723710095056
+七月 31, 2017 2:47:53 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:54 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:54 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:54 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:47:54 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483673481.sql] [Size：2.4960938 KB] ========
+七月 31, 2017 2:47:54 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483673481.sql] [Size：2.4960938 KB] ========
+七月 31, 2017 2:47:58 下午 server.ServerCode load
+信息: 客户端22准备接入
+七月 31, 2017 2:47:58 下午 server.ServerCode$Task run
+信息: 接入的客户端: 2251e6e5[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56824,localport=3333]]
+七月 31, 2017 2:47:58 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：19928746425549597685
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:58 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:47:58 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483678480.sql] [Size：3.2324219 KB] ========
+七月 31, 2017 2:47:59 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483678480.sql] [Size：3.2324219 KB] ========
+七月 31, 2017 2:48:03 下午 server.ServerCode load
+信息: 客户端23准备接入
+七月 31, 2017 2:48:03 下午 server.ServerCode$Task run
+信息: 接入的客户端: 7a3b9ff1[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56827,localport=3333]]
+七月 31, 2017 2:48:03 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：09779585311386282026
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:03 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:48:03 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483683480.sql] [Size：0.9199219 KB] ========
+七月 31, 2017 2:48:04 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483683480.sql] [Size：0.9199219 KB] ========
+七月 31, 2017 2:48:28 下午 server.ServerCode load
+信息: 客户端24准备接入
+七月 31, 2017 2:48:28 下午 server.ServerCode$Task run
+信息: 接入的客户端: 2281e5a8[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56832,localport=3333]]
+七月 31, 2017 2:48:28 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:48:28 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：12429795998914039898
+七月 31, 2017 2:48:28 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:29 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:29 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:29 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:48:29 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483708481.sql] [Size：2.3847656 KB] ========
+七月 31, 2017 2:48:29 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483708481.sql] [Size：2.3847656 KB] ========
+七月 31, 2017 2:48:33 下午 server.ServerCode load
+信息: 客户端25准备接入
+七月 31, 2017 2:48:33 下午 server.ServerCode$Task run
+信息: 接入的客户端: 5d59a366[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56835,localport=3333]]
+七月 31, 2017 2:48:33 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：04614661952727164845
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:33 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:48:33 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483713480.sql] [Size：3.5595703 KB] ========
+七月 31, 2017 2:48:33 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483713480.sql] [Size：3.5595703 KB] ========
+七月 31, 2017 2:48:38 下午 server.ServerCode load
+信息: 客户端26准备接入
+七月 31, 2017 2:48:38 下午 server.ServerCode$Task run
+信息: 接入的客户端: 523844b3[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56838,localport=3333]]
+七月 31, 2017 2:48:38 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：84152521142423305984
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:38 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:48:38 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483718480.sql] [Size：4.638672 KB] ========
+七月 31, 2017 2:48:39 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483718480.sql] [Size：4.638672 KB] ========
+七月 31, 2017 2:48:43 下午 server.ServerCode load
+信息: 客户端27准备接入
+七月 31, 2017 2:48:43 下午 server.ServerCode$Task run
+信息: 接入的客户端: 43beaae[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56841,localport=3333]]
+七月 31, 2017 2:48:43 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:48:43 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：80733500891629671667
+七月 31, 2017 2:48:43 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:44 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:44 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:44 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:48:44 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483723481.sql] [Size：5.5322266 KB] ========
+七月 31, 2017 2:48:44 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483723481.sql] [Size：5.5322266 KB] ========
+七月 31, 2017 2:50:56 下午 server.ServerCode load
+信息: 客户端28准备接入
+七月 31, 2017 2:50:56 下午 server.ServerCode$Task run
+信息: 接入的客户端: 12ee675b[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56862,localport=3333]]
+七月 31, 2017 2:50:56 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：93243623365644853257
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:50:56 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:50:56 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501483855444.sql] [Size：22.792969 KB] ========
+七月 31, 2017 2:50:56 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501483855444.sql] [Size：22.792969 KB] ========
+七月 31, 2017 2:54:21 下午 server.ServerCode load
+信息: 客户端29准备接入
+七月 31, 2017 2:54:21 下午 server.ServerCode$Task run
+信息: 接入的客户端: 76527921[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56894,localport=3333]]
+七月 31, 2017 2:54:21 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：94598802726775745786
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:54:21 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:54:21 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484060552.sql] [Size：0.81152344 KB] ========
+七月 31, 2017 2:54:21 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484060552.sql] [Size：0.81152344 KB] ========
+七月 31, 2017 2:54:25 下午 server.ServerCode load
+信息: 客户端30准备接入
+七月 31, 2017 2:54:25 下午 server.ServerCode$Task run
+信息: 接入的客户端: 3bdfe341[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56897,localport=3333]]
+七月 31, 2017 2:54:25 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:54:25 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：54068089276218769184
+七月 31, 2017 2:54:25 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:54:26 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:54:26 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:54:26 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:54:26 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484065552.sql] [Size：8.765625 KB] ========
+七月 31, 2017 2:54:26 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484065552.sql] [Size：8.765625 KB] ========
+七月 31, 2017 2:54:55 下午 server.ServerCode load
+信息: 客户端31准备接入
+七月 31, 2017 2:54:55 下午 server.ServerCode$Task run
+信息: 接入的客户端: 2dff8687[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56902,localport=3333]]
+七月 31, 2017 2:54:55 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:54:55 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：55191617118130623696
+七月 31, 2017 2:54:55 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:54:56 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:54:56 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:54:56 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:54:56 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484095551.sql] [Size：0.13574219 KB] ========
+七月 31, 2017 2:54:56 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484095551.sql] [Size：0.13574219 KB] ========
+七月 31, 2017 2:56:05 下午 server.ServerCode load
+信息: 客户端32准备接入
+七月 31, 2017 2:56:05 下午 server.ServerCode$Task run
+信息: 接入的客户端: 2d35f55c[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56909,localport=3333]]
+七月 31, 2017 2:56:05 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:56:05 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：93656110185814300278
+七月 31, 2017 2:56:05 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:06 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:06 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:06 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:56:06 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484165552.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:56:06 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484165552.sql] [Size：0.053710938 KB] ========
+七月 31, 2017 2:56:25 下午 server.ServerCode load
+信息: 客户端33准备接入
+七月 31, 2017 2:56:25 下午 server.ServerCode$Task run
+信息: 接入的客户端: 44302fd1[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56913,localport=3333]]
+七月 31, 2017 2:56:25 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:56:25 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：51992132410171888599
+七月 31, 2017 2:56:25 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:26 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:26 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:26 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:56:26 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484185552.sql] [Size：0.32226562 KB] ========
+七月 31, 2017 2:56:26 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484185552.sql] [Size：0.32226562 KB] ========
+七月 31, 2017 2:56:30 下午 server.ServerCode load
+信息: 客户端34准备接入
+七月 31, 2017 2:56:30 下午 server.ServerCode$Task run
+信息: 接入的客户端: 4cf32fce[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56916,localport=3333]]
+七月 31, 2017 2:56:30 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:56:30 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：53151149781964125320
+七月 31, 2017 2:56:30 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:31 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:31 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:31 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:56:31 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484190552.sql] [Size：2.0410156 KB] ========
+七月 31, 2017 2:56:31 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484190552.sql] [Size：2.0410156 KB] ========
+七月 31, 2017 2:56:35 下午 server.ServerCode load
+信息: 客户端35准备接入
+七月 31, 2017 2:56:35 下午 server.ServerCode$Task run
+信息: 接入的客户端: 45772024[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56920,localport=3333]]
+七月 31, 2017 2:56:35 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:56:35 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：25789709124341311007
+七月 31, 2017 2:56:35 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:36 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:36 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:36 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:56:36 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484195552.sql] [Size：5.227539 KB] ========
+七月 31, 2017 2:56:36 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484195552.sql] [Size：5.227539 KB] ========
+七月 31, 2017 2:57:25 下午 server.ServerCode load
+信息: 客户端36准备接入
+七月 31, 2017 2:57:25 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:57:25 下午 server.ServerCode$Task run
+信息: 接入的客户端: 3e75150e[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56925,localport=3333]]
+七月 31, 2017 2:57:25 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：87439525748965473786
+七月 31, 2017 2:57:25 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:57:26 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:57:26 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:57:26 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:57:26 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484245551.sql] [Size：1.78125 KB] ========
+七月 31, 2017 2:57:26 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484245551.sql] [Size：1.78125 KB] ========
+七月 31, 2017 2:57:30 下午 server.ServerCode load
+信息: 客户端37准备接入
+七月 31, 2017 2:57:30 下午 server.ServerCode$Task run
+信息: 接入的客户端: 1690fb1c[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56928,localport=3333]]
+七月 31, 2017 2:57:30 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:57:30 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：11956143870607373898
+七月 31, 2017 2:57:30 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:57:31 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:57:31 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:57:31 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:57:31 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484250552.sql] [Size：0.6591797 KB] ========
+七月 31, 2017 2:57:31 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484250552.sql] [Size：0.6591797 KB] ========
+七月 31, 2017 2:57:35 下午 server.ServerCode load
+信息: 客户端38准备接入
+七月 31, 2017 2:57:35 下午 server.ServerCode$Task run
+信息: 接入的客户端: 1c6fc5bd[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56931,localport=3333]]
+七月 31, 2017 2:57:35 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:57:35 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：03409704143656361705
+七月 31, 2017 2:57:35 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:57:36 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:57:36 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:57:36 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:57:36 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484255552.sql] [Size：4.0234375 KB] ========
+七月 31, 2017 2:57:36 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484255552.sql] [Size：4.0234375 KB] ========
+七月 31, 2017 2:58:00 下午 server.ServerCode load
+信息: 客户端39准备接入
+七月 31, 2017 2:58:00 下午 server.ServerCode$Task run
+信息: 接入的客户端: 12f1a577[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56936,localport=3333]]
+七月 31, 2017 2:58:00 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:58:00 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：71738326075396871346
+七月 31, 2017 2:58:00 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:01 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:01 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:01 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:58:01 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484280552.sql] [Size：1.3916016 KB] ========
+七月 31, 2017 2:58:01 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484280552.sql] [Size：1.3916016 KB] ========
+七月 31, 2017 2:58:05 下午 server.ServerCode load
+信息: 客户端40准备接入
+七月 31, 2017 2:58:05 下午 server.ServerCode$Task run
+信息: 接入的客户端: 3b92f5f0[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56939,localport=3333]]
+七月 31, 2017 2:58:05 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:58:05 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：40661251514688393425
+七月 31, 2017 2:58:05 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:06 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:06 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:06 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:58:06 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484285552.sql] [Size：3.2314453 KB] ========
+七月 31, 2017 2:58:06 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484285552.sql] [Size：3.2314453 KB] ========
+七月 31, 2017 2:58:10 下午 server.ServerCode load
+信息: 客户端41准备接入
+七月 31, 2017 2:58:10 下午 server.ServerCode$Task run
+信息: 接入的客户端: 85060aa[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56946,localport=3333]]
+七月 31, 2017 2:58:10 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：15125881200086569897
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:10 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:58:11 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484290551.sql] [Size：2.0283203 KB] ========
+七月 31, 2017 2:58:11 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484290551.sql] [Size：2.0283203 KB] ========
+七月 31, 2017 2:58:40 下午 server.ServerCode load
+信息: 客户端42准备接入
+七月 31, 2017 2:58:40 下午 server.ServerCode$Task run
+信息: 接入的客户端: 64fbdd04[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56954,localport=3333]]
+七月 31, 2017 2:58:40 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:58:40 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：39608341870089360117
+七月 31, 2017 2:58:40 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:41 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:41 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:41 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:58:41 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484320552.sql] [Size：4.0839844 KB] ========
+七月 31, 2017 2:58:41 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484320552.sql] [Size：4.0839844 KB] ========
+七月 31, 2017 2:58:45 下午 server.ServerCode load
+信息: 客户端43准备接入
+七月 31, 2017 2:58:45 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:58:45 下午 server.ServerCode$Task run
+信息: 接入的客户端: 35f7cdd8[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56957,localport=3333]]
+七月 31, 2017 2:58:45 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：25100605600132158236
+七月 31, 2017 2:58:45 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:46 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:46 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:46 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:58:46 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484325552.sql] [Size：2.9160156 KB] ========
+七月 31, 2017 2:58:46 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484325552.sql] [Size：2.9160156 KB] ========
+七月 31, 2017 2:58:50 下午 server.ServerCode load
+信息: 客户端44准备接入
+七月 31, 2017 2:58:50 下午 server.ServerCode load
+信息: 等待客户端接入。。
+七月 31, 2017 2:58:50 下午 server.ServerCode$Task run
+信息: 接入的客户端: 29ad655f[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=56960,localport=3333]]
+七月 31, 2017 2:58:50 下午 Sense4.SecDogs encryptDog
+信息: 输入数据：40340230099201011765
+七月 31, 2017 2:58:50 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:51 下午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:51 下午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:51 下午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+七月 31, 2017 2:58:51 下午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1501484330552.sql] [Size：9.171875 KB] ========
+七月 31, 2017 2:58:51 下午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1501484330552.sql] [Size：9.171875 KB] ========
+十月 18, 2017 9:39:21 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 9:40:42 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 9:41:34 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:02 上午 server.ServerCode load
+信息: 客户端1准备接入
+十月 18, 2017 10:08:02 上午 server.ServerCode$Task run
+信息: 接入的客户端: 1015a666[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58539,localport=3333]]
+十月 18, 2017 10:08:02 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:02 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：23364359901674317934
+十月 18, 2017 10:08:06 上午 server.ServerCode load
+信息: 客户端2准备接入
+十月 18, 2017 10:08:06 上午 server.ServerCode$Task run
+信息: 接入的客户端: 2cbad7c6[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58541,localport=3333]]
+十月 18, 2017 10:08:06 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:06 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：42972286512994333224
+十月 18, 2017 10:08:24 上午 server.ServerCode load
+信息: 客户端3准备接入
+十月 18, 2017 10:08:24 上午 server.ServerCode$Task run
+信息: 接入的客户端: 1c255696[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58549,localport=3333]]
+十月 18, 2017 10:08:24 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:24 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：55890401084066444498
+十月 18, 2017 10:08:29 上午 server.ServerCode load
+信息: 客户端4准备接入
+十月 18, 2017 10:08:29 上午 server.ServerCode$Task run
+信息: 接入的客户端: 67e230b[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58551,localport=3333]]
+十月 18, 2017 10:08:29 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:29 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：60612725460805874723
+十月 18, 2017 10:08:33 上午 server.ServerCode load
+信息: 客户端5准备接入
+十月 18, 2017 10:08:33 上午 server.ServerCode$Task run
+信息: 接入的客户端: 3bdcf51a[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58553,localport=3333]]
+十月 18, 2017 10:08:33 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:33 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：89739602337924377378
+十月 18, 2017 10:08:39 上午 server.ServerCode load
+信息: 客户端6准备接入
+十月 18, 2017 10:08:39 上午 server.ServerCode$Task run
+信息: 接入的客户端: 67a2cef1[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58556,localport=3333]]
+十月 18, 2017 10:08:39 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:39 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：77391958306112888545
+十月 18, 2017 10:08:44 上午 server.ServerCode load
+信息: 客户端7准备接入
+十月 18, 2017 10:08:44 上午 server.ServerCode$Task run
+信息: 接入的客户端: 46602a5b[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58560,localport=3333]]
+十月 18, 2017 10:08:44 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:44 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：40295023338516499759
+十月 18, 2017 10:08:49 上午 server.ServerCode load
+信息: 客户端8准备接入
+十月 18, 2017 10:08:49 上午 server.ServerCode$Task run
+信息: 接入的客户端: 2fe0dd90[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58562,localport=3333]]
+十月 18, 2017 10:08:49 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:49 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：37496333449708821820
+十月 18, 2017 10:08:53 上午 server.ServerCode load
+信息: 客户端9准备接入
+十月 18, 2017 10:08:53 上午 server.ServerCode$Task run
+信息: 接入的客户端: 5f6b4f6d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58564,localport=3333]]
+十月 18, 2017 10:08:53 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:53 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：79422986438309341017
+十月 18, 2017 10:08:58 上午 server.ServerCode load
+信息: 客户端10准备接入
+十月 18, 2017 10:08:58 上午 server.ServerCode$Task run
+信息: 接入的客户端: 4effe61d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58568,localport=3333]]
+十月 18, 2017 10:08:58 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:08:58 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：96380140381937692328
+十月 18, 2017 10:09:04 上午 server.ServerCode load
+信息: 客户端11准备接入
+十月 18, 2017 10:09:04 上午 server.ServerCode$Task run
+信息: 接入的客户端: 465d7774[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58570,localport=3333]]
+十月 18, 2017 10:09:04 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:04 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：16135785784576789348
+十月 18, 2017 10:09:08 上午 server.ServerCode load
+信息: 客户端12准备接入
+十月 18, 2017 10:09:08 上午 server.ServerCode$Task run
+信息: 接入的客户端: 1c81a963[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58576,localport=3333]]
+十月 18, 2017 10:09:08 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:08 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：45678717435182169295
+十月 18, 2017 10:09:14 上午 server.ServerCode load
+信息: 客户端13准备接入
+十月 18, 2017 10:09:14 上午 server.ServerCode$Task run
+信息: 接入的客户端: 21afdb42[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58580,localport=3333]]
+十月 18, 2017 10:09:14 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:14 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：64625272505504794058
+十月 18, 2017 10:09:19 上午 server.ServerCode load
+信息: 客户端14准备接入
+十月 18, 2017 10:09:19 上午 server.ServerCode$Task run
+信息: 接入的客户端: 624eb021[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58585,localport=3333]]
+十月 18, 2017 10:09:19 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:19 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：07338480145398331141
+十月 18, 2017 10:09:24 上午 server.ServerCode load
+信息: 客户端15准备接入
+十月 18, 2017 10:09:24 上午 server.ServerCode$Task run
+信息: 接入的客户端: 4cdc8cbb[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58590,localport=3333]]
+十月 18, 2017 10:09:24 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:24 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：37395785120638988965
+十月 18, 2017 10:09:28 上午 server.ServerCode load
+信息: 客户端16准备接入
+十月 18, 2017 10:09:28 上午 server.ServerCode$Task run
+信息: 接入的客户端: 61be321d[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58601,localport=3333]]
+十月 18, 2017 10:09:28 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:28 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：38842250233083396475
+十月 18, 2017 10:09:34 上午 server.ServerCode load
+信息: 客户端17准备接入
+十月 18, 2017 10:09:34 上午 server.ServerCode$Task run
+信息: 接入的客户端: 4915c1b2[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58605,localport=3333]]
+十月 18, 2017 10:09:34 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:34 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：75935257468303379387
+十月 18, 2017 10:09:38 上午 server.ServerCode load
+信息: 客户端18准备接入
+十月 18, 2017 10:09:38 上午 server.ServerCode$Task run
+信息: 接入的客户端: 166a98ca[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58607,localport=3333]]
+十月 18, 2017 10:09:38 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:38 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：63163316233313968211
+十月 18, 2017 10:09:43 上午 server.ServerCode load
+信息: 客户端19准备接入
+十月 18, 2017 10:09:43 上午 server.ServerCode$Task run
+信息: 接入的客户端: 757128ed[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58609,localport=3333]]
+十月 18, 2017 10:09:43 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:43 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：24381539558976167991
+十月 18, 2017 10:09:49 上午 server.ServerCode load
+信息: 客户端20准备接入
+十月 18, 2017 10:09:49 上午 server.ServerCode$Task run
+信息: 接入的客户端: 266ca60a[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58618,localport=3333]]
+十月 18, 2017 10:09:49 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:49 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：21624364579486704429
+十月 18, 2017 10:09:53 上午 server.ServerCode load
+信息: 客户端21准备接入
+十月 18, 2017 10:09:53 上午 server.ServerCode$Task run
+信息: 接入的客户端: 38ffe3b[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58625,localport=3333]]
+十月 18, 2017 10:09:53 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:53 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：91993087115235878393
+十月 18, 2017 10:09:59 上午 server.ServerCode load
+信息: 客户端22准备接入
+十月 18, 2017 10:09:59 上午 server.ServerCode$Task run
+信息: 接入的客户端: 117ddedc[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58633,localport=3333]]
+十月 18, 2017 10:09:59 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:09:59 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：55177566998074038875
+十月 18, 2017 10:10:04 上午 server.ServerCode load
+信息: 客户端23准备接入
+十月 18, 2017 10:10:04 上午 server.ServerCode$Task run
+信息: 接入的客户端: 2e2c8b80[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58642,localport=3333]]
+十月 18, 2017 10:10:04 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:10:04 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：40557411717273991357
+十月 18, 2017 10:10:08 上午 server.ServerCode load
+信息: 客户端24准备接入
+十月 18, 2017 10:10:08 上午 server.ServerCode$Task run
+信息: 接入的客户端: 1e80ef1[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58652,localport=3333]]
+十月 18, 2017 10:10:08 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:10:08 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：23602986495061946791
+十月 18, 2017 10:10:14 上午 server.ServerCode load
+信息: 客户端25准备接入
+十月 18, 2017 10:10:14 上午 server.ServerCode$Task run
+信息: 接入的客户端: 62857d9e[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58677,localport=3333]]
+十月 18, 2017 10:10:14 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:10:14 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：80855155294737609784
+十月 18, 2017 10:10:18 上午 server.ServerCode load
+信息: 客户端26准备接入
+十月 18, 2017 10:10:18 上午 server.ServerCode$Task run
+信息: 接入的客户端: 166a32fd[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58680,localport=3333]]
+十月 18, 2017 10:10:18 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:10:18 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：27327235974563384464
+十月 18, 2017 10:10:24 上午 server.ServerCode load
+信息: 客户端27准备接入
+十月 18, 2017 10:10:24 上午 server.ServerCode$Task run
+信息: 接入的客户端: 55260f79[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=58682,localport=3333]]
+十月 18, 2017 10:10:24 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 10:10:24 上午 Sense4.SecDogs encryptDog
+信息: 输入数据：84143748272177264950
+十月 18, 2017 11:34:31 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 11:34:59 上午 server.ServerCode load
+信息: 客户端1准备接入
+十月 18, 2017 11:34:59 上午 server.ServerCode$Task run
+信息: 接入的客户端: 1015a666[SSL_NULL_WITH_NULL_NULL: Socket[addr=/10.10.13.13,port=60364,localport=3333]]
+十月 18, 2017 11:34:59 上午 server.ServerCode load
+信息: 等待客户端接入。。
+十月 18, 2017 11:34:59 上午 Sense4.SecDogs clientAuth
+信息: execute hex file successed!
+十月 18, 2017 11:34:59 上午 Sense4.SecDogs clientAuth
+信息: 返回验证结果：0
+十月 18, 2017 11:34:59 上午 server.ServerCode$Task run
+信息: 客户端认证通过，开始上传文件吧！
+十月 18, 2017 11:34:59 上午 server.ServerCode$Task run
+信息: ======== 文件接收成功 [File Name：1508297698986.sql] [Size：0.048828125 KB] ========
+十月 18, 2017 11:35:00 上午 server.ServerCode$Task run
+信息: ======== 文件更新到数据库Name：1508297698986.sql] [Size：0.048828125 KB] ========
