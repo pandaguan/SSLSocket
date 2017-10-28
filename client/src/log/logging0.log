@@ -1,0 +1,2622 @@
+七月 27, 2017 4:28:49 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 4:28:54 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 4:28:59 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 4:29:04 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 4:29:09 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:02:33 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:02:38 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:02:43 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:02:48 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:02:53 下午 client.LogToSql sqlToSql
+信息: UPDATE servertest.t_laboratory SET name='dlkkh',department='',type='',bio_level='',city='',description='',build_time=NULL,end_time=NULL,x_coordinate=0,y_coordinate=0  WHERE id='p0001';
+
+七月 27, 2017 5:02:54 下午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000158433842432953487435"
+七月 27, 2017 5:02:58 下午 client.LogToSql sqlToSql
+信息: UPDATE servertest.t_laboratory SET name='dlkkh',department='',type='',bio_level='',city='',description='',build_time=NULL,end_time=NULL,x_coordinate=0,y_coordinate=0  WHERE id='p0001';
+
+七月 27, 2017 5:02:58 下午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000171954736873780257686"
+七月 27, 2017 5:04:07 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:12 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:17 下午 client.LogToSql sqlToSql
+信息: UPDATE servertest.t_laboratory SET name='dlkkhk',department='',type='',bio_level='',city='',description='',build_time=NULL,end_time=NULL,x_coordinate=0,y_coordinate=0  WHERE id='p0001';
+
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 27, 2017 5:04:18 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：18744628644701739979
+七月 27, 2017 5:04:18 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 27, 2017 5:04:18 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 27, 2017 5:04:18 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 27, 2017 5:04:18 下午 client.ClientCode uploadFile
+信息: 耗时：5秒
+七月 27, 2017 5:04:22 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:27 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:32 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:37 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:42 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:47 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:52 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:04:57 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:02 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:07 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:12 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:17 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:22 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:27 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:32 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:37 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:42 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:47 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:52 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:05:57 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:06:02 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:06:07 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:06:12 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:06:17 下午 client.LogToSql sqlToSql
+信息: null
+七月 27, 2017 5:06:22 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:41:03 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:41:08 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:41:13 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:41:18 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:41:23 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:41:28 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:43:06 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:43:11 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:43:17 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:43:21 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:43:26 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:44:44 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:44:46 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:44:52 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:44:59 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:45:04 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:45:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:45:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:45:28 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:45:54 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:46:59 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:46:59 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:46:59 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:53:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:53:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:53:43 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:54:08 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:54:23 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:54:27 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:57:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:57:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:57:31 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:58:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:58:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:58:21 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:58:58 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:59:06 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:59:08 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:59:14 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:59:29 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:59:44 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 1:59:59 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:00:44 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:00:44 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:00:44 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:00:57 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:01:12 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:01:27 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:01:42 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:01:57 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:02:12 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:15:44 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:15:59 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='t0001';
+
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:16:00 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：01718457581885457334
+七月 31, 2017 2:16:00 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:16:00 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:16:00 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:16:00 下午 client.ClientCode uploadFile
+信息: 耗时：4秒
+七月 31, 2017 2:16:14 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:16:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:16:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:16:40 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_laboratory VALUES('t0001','','','','','','',NULL,NULL,0,0);
+
+七月 31, 2017 2:16:41 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:16:41 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:16:41 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:16:41 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：65476778682956225007
+七月 31, 2017 2:16:41 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:16:41 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:16:41 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:16:41 下午 client.ClientCode uploadFile
+信息: 耗时：4秒
+七月 31, 2017 2:16:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:16:50 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='t0001';
+
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:16:50 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：15088040918844052968
+七月 31, 2017 2:16:50 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:16:50 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:16:50 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:16:50 下午 client.ClientCode uploadFile
+信息: 耗时：3秒
+七月 31, 2017 2:16:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:17:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:17:05 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='90001';
+DELETE FROM servertest.t_laboratory WHERE id='80001';
+DELETE FROM servertest.t_laboratory WHERE id='70001';
+DELETE FROM servertest.t_laboratory WHERE id='60001';
+DELETE FROM servertest.t_laboratory WHERE id='50001';
+DELETE FROM servertest.t_laboratory WHERE id='40001';
+DELETE FROM servertest.t_laboratory WHERE id='30001';
+DELETE FROM servertest.t_laboratory WHERE id='20001';
+DELETE FROM servertest.t_laboratory WHERE id='120001';
+DELETE FROM servertest.t_laboratory WHERE id='110001';
+DELETE FROM servertest.t_laboratory WHERE id='100001';
+DELETE FROM servertest.t_laboratory WHERE id='10001';
+
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:17:05 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：58674215650873603092
+七月 31, 2017 2:17:05 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:17:05 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:17:05 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:17:05 下午 client.ClientCode uploadFile
+信息: 耗时：3秒
+七月 31, 2017 2:17:10 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_laboratory VALUES('10001','中国科学院武汉病毒研究所','中国科学院','微生物','P4','武汉','中国科学院武汉病毒研究所始建于1956年，是专业从事病毒学基础研究及相关技术创新的综合性研究机构。\\x0a中国科学院武汉病毒研究所针对人口健康、农业可持续发展和国家与公共安全的战略需求，依托高等级生物安全实验室团簇平台，重点开展病毒学、农业与环境微生物学及新兴生物技术等方面的基础和应用基础研究。','2008-07-17 00:00:00',NULL,114,31);
+INSERT INTO servertest.t_laboratory VALUES('100001','植物化学与西部植物资源国家重点实验室','中国科学院','植物','P1','昆明','正"植物化学与西部植物资源持续利用国家重点实验室"以我国西部地区丰富的植物资源为研究对象,开展植物化学成分的分离纯化、结构测定、生物活性与功能、结构修饰与全合成、分布及演化规律的研究;开展西部地区植物资源持续利用关键技术研究,为我国天然创新药物和中药现代化的发展以及植物资源持续利用作出贡献。','2013-06-15 00:00:00',NULL,103,25);
+INSERT INTO servertest.t_laboratory VALUES('110001','植物基因组学国家重点实验室','中国科学院','植物','P1','北京','植物基因组学国家重点实验室依托中国科学院微生物研究所、中国科学院遗传与发育生物学研究所，实验室于2003年经国家科技部批准正式成立。其前身是1990年成立的中国科学院植物生物技术开放实验室。2006年1月，实验室通过了科技部组织的国家重点实验室建设验收。','2009-04-28 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('120001','植物细胞与染色体工程国家重点实验室','中国科学院','植物','P1','北京','植物细胞与染色体工程国家重点实验室 依托中国科学院遗传与发育生物学研究所，实验室于1989年批准建设，1992年正式对外开放，1995年通过国家验收。本实验室的依托单位为中国科学院遗传与发育生物学研究所。实验室第一任主任为中科院院士李振声，第二任主任由百人计划引进人才优秀杰出青年王道文研究员 ，现任实验室主任凌宏清研究员。17名国内著名专家学者组成 实验室学术委员会。实验室有固定人员38人，其中高级研究人员13人，中级研究人员22人，技术及管理人员3人，在读研究生130多人。','2012-09-08 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('20001','淡水生态与生物技术国家重点实验室','中国科学院','生物','P2','武汉','淡水生态与生物技术国家重点实验室依托于中国科学院水生生物研究所，1987年8月建成。该所坐落在湖北省武汉市武昌区东郊，面对波光浩淼的东湖，背靠风景秀丽的珞珈山。所舍占地面积26公顷，生活和工作设施齐全，环境幽雅恬静，交通便利，是理想的从事科学研究和追求学业的园地。实验室先后于1996年和2001年分别被授予优秀类国家重点实验室。','2015-04-09 00:00:00',NULL,114,31);
+INSERT INTO servertest.t_laboratory VALUES('30001','农业虫害鼠害研究国家重点实验室','中国科学院','动物','P2','北京','农业虫害鼠害综合治理研究国家重点实验室依托中国科学院动物研究所，实验室是利用世界银行贷款建立的。1989年6月，批准立项。1991年10月，全面开始建设。1993年10月，正式对国内外开放。1995年10月，通过验收。2001年，参加生命学科的国家重点实验室评估，评为良好类实验室。现任实验室主任为康乐研究员，学术委员会主任为王祖望研究员。','2010-11-08 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('40001','生物大分子国家重点实验室','中国科学院','微生物','P1','北京','生物大分子国家重点实验室[1]  依托中国科学院生物物理研究所，实验室于1989年经国家计划发展委员会和中国科学院批准成立。1991年1月通过验收并正式对外开放。邹承鲁院士任实验室名誉主任。现任实验室主任为王志新院士，黄有国研究员任常务副主任，王志珍及常文瑞研究员任副主任。学术委员会由国内本领域著名专家17人组成，杨福愉院士任主任，孙曼霁及匡廷云院士任副主任。','2014-08-07 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('50001','生物膜与膜生物工程国家重点实验室','中国科学院','微生物','P1','北京','生物膜与膜生物工程国家重点实验室于1986 年九月开始筹建，1988 年正式成立，实验室隶属中国科学院动物研究所，由分别依托于国内一流科研教学单位的三个分室组成：膜生物化学与膜分子生物学分室（中国科学院动物研究所）、膜生物物理与膜生物技术分室 ( 清华大学) 、膜离子通道与受体分子生物学分室（北京大学）。生物膜与膜生物工程国家重点实验室','2013-09-21 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('60001','微生物资源国家重点实验室','中国科学院','微生物','P2','北京','1991年12月，实验室的建设工作正式启动；1993年12月，经专家组论证、中国科学院批准，实验室正式对外开放；1995年12月，实验室通过了国家计委验收；1998年3月中国科学院对实验室进行了评估，1999年7月实验室进入了中国科学院知识创新工程；2001年6月实验室通过了国家评估。现任实验室主任为黄力研究员,学术委员会主任为魏江春院士  。','2013-05-09 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('70001','系统与进化植物学国家重点实验室','中国科学院','植物','P1','北京','系统与进化植物学国家重点实验室依托中国科学院植物研究所。实验室现有31位研究人员，包括中国科学院院士2人，研究员18人，博士生导师12人，副研究员13人；还有10位技术和管理人员。目前的在读研究生和博士后78人，已成为我国系统与进化生物学研究领域科学研究和人才培养的重要基地，同时也是国际上该领域有影响的实验室之一。现任学术委员会主任：洪德元院士；实验室主任葛颂研究员。','2011-01-18 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('80001','新药研究国家重点实验室','中国科学院','微生物','P1','上海','新药研究国家重点实验室 依托中国科学院上海药物研究所。。实验室建于1990 年，现有工作人员：21 名，其中管理人员1 名，主要仪器设备 118 台（套），占地面积 平方米，其中试验场地 1800 平方米。新药研究国家重点实验室是利用世行贷款建设的实验室，在2001年国家评估中被评为优秀实验室·','2012-08-22 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('90001','植物分子遗传国家重点实验室','中国科学院','植物','P1','上海','植物分子遗传国家重点实验室依托中国科学院上海生命科学研究院，实验室于1986年科技部批准建设，1988年建成通过，1989年正式对外开放。现任实验室主任为薛红卫研究员，学术委员会主任为许智宏院士。','2011-05-25 00:00:00',NULL,121,31);
+
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:17:10 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：88430048765324470519
+七月 31, 2017 2:17:10 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:17:10 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:17:10 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:17:10 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:17:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:17:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:17:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:17:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:17:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:17:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:19:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:19:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:19:50 下午 client.LogToSql sqlToSql
+信息: UPDATE servertest.t_laboratory SET name='f',department='',type='',bio_level='',city='',description='',build_time=NULL,end_time=NULL,x_coordinate=0,y_coordinate=0  WHERE id='t0001';
+
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:19:51 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：20236184639065140345
+七月 31, 2017 2:19:51 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:19:51 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:19:51 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:19:51 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:19:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:05 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='t0001';
+
+七月 31, 2017 2:20:05 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:20:05 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:20:05 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:20:05 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：21777774383292887243
+七月 31, 2017 2:20:05 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:20:06 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:20:06 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:20:06 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:20:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:30 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='80001';
+DELETE FROM servertest.t_laboratory WHERE id='370001';
+DELETE FROM servertest.t_laboratory WHERE id='240001';
+DELETE FROM servertest.t_laboratory WHERE id='160001';
+DELETE FROM servertest.t_laboratory WHERE id='60001';
+DELETE FROM servertest.t_laboratory WHERE id='50001';
+DELETE FROM servertest.t_laboratory WHERE id='30001';
+DELETE FROM servertest.t_laboratory WHERE id='20001';
+DELETE FROM servertest.t_laboratory WHERE id='310001';
+DELETE FROM servertest.t_laboratory WHERE id='180001';
+DELETE FROM servertest.t_laboratory WHERE id='170001';
+DELETE FROM servertest.t_laboratory WHERE id='360001';
+DELETE FROM servertest.t_laboratory WHERE id='340001';
+DELETE FROM servertest.t_laboratory WHERE id='330001';
+DELETE FROM servertest.t_laboratory WHERE id='320001';
+DELETE FROM servertest.t_laboratory WHERE id='230001';
+DELETE FROM servertest.t_laboratory WHERE id='220001';
+DELETE FROM servertest.t_laboratory WHERE id='210001';
+DELETE FROM servertest.t_laboratory WHERE id='140001';
+DELETE FROM servertest.t_laboratory WHERE id='120001';
+DELETE FROM servertest.t_laboratory WHERE id='90001';
+DELETE FROM servertest.t_laboratory WHERE id='70001';
+DELETE FROM servertest.t_laboratory WHERE id='10001';
+DELETE FROM servertest.t_laboratory WHERE id='250001';
+
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:20:30 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：91258629781886812453
+七月 31, 2017 2:20:30 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:20:30 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:20:30 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:20:30 下午 client.ClientCode uploadFile
+信息: 耗时：4秒
+七月 31, 2017 2:20:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:20:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:40:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:40:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:40:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:40:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:40:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:40:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:41:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:41:06 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='90001';
+DELETE FROM servertest.t_laboratory WHERE id='80001';
+DELETE FROM servertest.t_laboratory WHERE id='70001';
+DELETE FROM servertest.t_laboratory WHERE id='60001';
+DELETE FROM servertest.t_laboratory WHERE id='50001';
+DELETE FROM servertest.t_laboratory WHERE id='40001';
+DELETE FROM servertest.t_laboratory WHERE id='30001';
+DELETE FROM servertest.t_laboratory WHERE id='20001';
+DELETE FROM servertest.t_laboratory WHERE id='150001';
+DELETE FROM servertest.t_laboratory WHERE id='140001';
+DELETE FROM servertest.t_laboratory WHERE id='130001';
+DELETE FROM servertest.t_laboratory WHERE id='120001';
+DELETE FROM servertest.t_laboratory WHERE id='110001';
+DELETE FROM servertest.t_laboratory WHERE id='100001';
+DELETE FROM servertest.t_laboratory WHERE id='10001';
+
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:41:06 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：20783635727846387791
+七月 31, 2017 2:41:06 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:41:06 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:41:06 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:41:06 下午 client.ClientCode uploadFile
+信息: 耗时：4秒
+七月 31, 2017 2:41:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:41:15 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_laboratory VALUES('10001','病毒学国家重点实验室','教育部','微生物','P3','武汉','病毒学国家重点实验室于2004年11月经国家科技部批准立项，2005年3月由国家科技部批准建设。实验室主管部门为国家教育部，依托单位为武汉大学和中国科学院武汉病毒研究所。实验室学术委员会主任委员为中国工程院院士陈焕春，实验室主任为教育部长江学者特聘教授吴建国。实验室的总体定位为：病毒学基础研究及应用基础研究，旨在瞄准病毒学前沿，夯实病毒学基础，开展原创性研究；面向病毒学领域前沿，解决重大科学问题，取得标志性成果；围绕国家需求和人类健康，为防治病毒病提供技术支撑。','2013-08-24 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('100001','医药生物技术国家重点实验室','教育部','生物','P1','南京','医药生物技术国家重点实验室依托于南京大学，在生物化学系基础上建立起来，于1990年经国家计委批准列入国家重点实验室建设计划，1995年建成通过国家验收并正式对外开放。2001年、2006年二次通过国家科技部和自然科学基金委组织的国家重点实验室评估，获得良好的成绩。','2009-11-10 00:00:00',NULL,119,32);
+INSERT INTO servertest.t_laboratory VALUES('110001','遗传工程国家重点实验室','教育部','微生物','P1','上海','遗传工程国家重点实验室依托复旦大学，实验室是在由谈家桢院士创立的复旦大学遗传学研究所的基础上发展而来的研究实体，是我国最早建立的国家重点实验室之一。现任实验室主任为马红教授，学术委员会主任为王红阳教授。','2008-07-02 00:00:00',NULL,122,31);
+INSERT INTO servertest.t_laboratory VALUES('120001','有害生物控制与资源利用国家重点实验室','教育部','生物','P1','广州','有害生物控制与资源利用国家重点实验室（中山大学）依托中山大学，实验室于2004年更名，曾用名为生物防治国家重点实验室，自1989年开始筹建，于1995年通过国家验收，并正式对国内外开放。主要研究领域为农、林、卫生害虫的生物防治。','2012-07-02 00:00:00',NULL,113,23);
+INSERT INTO servertest.t_laboratory VALUES('130001','植物生理学与生物化学国家重点实验室','教育部','植物','P1','北京','植物生理学与生物化学国家重点实验室 (中国农业大学、浙江大学)依托中国农业大学，植物生理学与生物化学国家重点实验室是在原农业部中国农业大学植物生理生化开放实验室的基础上建立的。2002年1月经科技部正式批准建设，，正式进入国家重点实验室序列。2006年7月通过国家重点实验室评估。','2015-02-14 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('140001','作物遗传改良国家重点实验室','教育部','植物','P1','武汉','作物遗传改良国家重点实验室依托于华中农业大学，1992年3月由国家批准建设，1994年通过国家验收并正式对外开放，分别于1996年、2001年、2006年以及2011年连续4次被评为优秀国家重点实验室，2016年被评为国家重点实验室农业组第一名。获得省部级以上奖励31项，其中国家科技进步一等奖1项，国家科技进步二等奖3项，省级一等奖8项。','2011-05-19 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('150001','作物遗传与种质创新国家重点实验室','教育部','植物','P1','南京','作物遗传与种质创新国家重点实验室依托南京农业大学，科技部于2001年10月正式批准南京农大建设作物遗传与种质创新国家重点实验室，建设期一年，目前实验室正在建设中。现任实验室主任为张天真教授，学术委员会主任为刘大钧院士。','2008-07-26 00:00:00',NULL,119,32);
+INSERT INTO servertest.t_laboratory VALUES('20001','农业生物技术国家重点实验室','教育部','生物','P1','北京','农业微生物学国家重点实验室是依托华中农业大学，专门从事农业微生物学研究的国家级实验室。本实验室主任由中国工程院院士陈焕春教授担任，学术委员会主任由赵国屏院士担任。','2017-06-30 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('30001','农业微生物学国家重点实验室','教育部','微生物','P1','武汉','农业微生物学国家重点实验室是依托华中农业大学，专门从事农业微生物学研究的国家级实验室。本实验室主任由中国工程院院士陈焕春教授担任，学术委员会主任由赵国屏院士担任。','2010-04-22 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('40001','生物反应器工程国家重点实验室','教育部','微生物','P1','上海','生物反应器工程国家重点实验室依托华东理工大学，实验室于1989年6月作为世行贷款建设项目被国家计委批准立项建设，1995年11月通过国家验收，1996年2月正式对外开放。2001年3月通过国家科技部委托国家自然科学基金委的评估，获良好实验室。实验室主任是许建和教授，学术委员会主任是杨胜利院士。','2015-09-12 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('50001','生物治疗国家重点实验室','教育部','生物','P1','成都','生物治疗国家重点实验室依托四川大学，实验室于2005年3月经科技部批准建设，于2007年12月经科技部验收正式成立。同时实验室也是教育部“985工程”I类科技创新平台，四川大学交叉学科研究中心。实验室占地100余亩，计划建设面积7万平方米，现已建成3.7万平方米。','2010-12-01 00:00:00',NULL,104,31);
+INSERT INTO servertest.t_laboratory VALUES('60001','天然药物与仿生药物国家重点实验室','教育部','微生物','P1','北京','天然药物及仿生药物国家重点实验室（北京大学）是首批国家重点实验室之一，1985年11月筹建，1987年12月通过验收并向国内外开放。实验室现有固定人员49人，其中包括中国科学院院士2人、教育部“长江学者奖励计划”特聘教授1人、国家杰出青年基金获得者4人。主要研究方向：（1）生物药靶的发现和确认研究；（2）以生物大分子（核酸、蛋白和糖类）为靶的药物发现研究；（3）基于天然资源的先导化合物发现与中药复杂成分的物质基础研究；（4）药物输送系统在生物体系中及治疗过程中作用规律的研究；（5）新药创制研究。','2016-02-25 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('70001','微生物技术国家重点实验室','教育部','微生物','P2','济南','微生物技术国家重点实验室[1]  依托山东大学，实验室是作为世界银行贷款重点学科发展项目的一个子项目，由世界银行贷款120万美元，国内配套362万元人民币投资建设的。1995年11月通过国家验收，并开始正式运行和对外开放。生物反应器工程国家重点实验室（华东理工大学）俞俊棠教授任学术委员会主任，山东大学生命科学学院院长曲音波教授任实验室主任。实验室现有工作人员28人，其中教授9人，副教授12人，讲师4人，工程技术人员3人。','2016-05-19 00:00:00',NULL,117,37);
+INSERT INTO servertest.t_laboratory VALUES('80001','医学神经生物学国家重点实验室','教育部','生物','P1','上海','医学神经生物学国家重点实验室依托复旦大学，实验室涵盖的学科有神经生物学、神经病学、神经外科学、中西医结合基础、生理学、药理学、生物物理学等，是复旦大学“211”和“985”工程的重点建设单位，它与复旦大学脑科学研究院正在按照“两位一体”战略进行建设。实验室于 1992 年 1 月由国家计委正式批准筹建， 同时对外开放，1994 年底通过国家验收正式批准成立，首任主任是曹小定教授。','2014-03-17 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('90001','医学遗传学国家重点实验室','教育部','生物','P1','长沙','医学遗传学国家重点实验室依托中南大学，1984年卫生部通知湖南医学院夏家辉教授牵头筹建“医学遗传学国家重点实验室”，1987年10月22日由卫生部和国家计委组织专家通过论证，1989年拨款开始建设、1991年验收合格、正式向国内外开放。2014年6月，中南大学决定将生命科学学院与医学遗传学国家重点实验室合并，成立生命科学学院（医学遗传学国家重点实验室），实行一组人员、两块牌子的管理模式。','2013-04-05 00:00:00',NULL,113,28);
+
+七月 31, 2017 2:41:16 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:41:16 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:41:16 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:41:16 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：19751435925525546242
+七月 31, 2017 2:41:16 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:41:16 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:41:16 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:41:16 下午 client.ClientCode uploadFile
+信息: 耗时：11秒
+七月 31, 2017 2:41:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:41:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:41:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:41:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:41:40 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='90001';
+DELETE FROM servertest.t_laboratory WHERE id='80001';
+DELETE FROM servertest.t_laboratory WHERE id='70001';
+DELETE FROM servertest.t_laboratory WHERE id='60001';
+DELETE FROM servertest.t_laboratory WHERE id='50001';
+DELETE FROM servertest.t_laboratory WHERE id='40001';
+DELETE FROM servertest.t_laboratory WHERE id='30001';
+DELETE FROM servertest.t_laboratory WHERE id='20001';
+DELETE FROM servertest.t_laboratory WHERE id='150001';
+DELETE FROM servertest.t_laboratory WHERE id='140001';
+DELETE FROM servertest.t_laboratory WHERE id='130001';
+DELETE FROM servertest.t_laboratory WHERE id='120001';
+DELETE FROM servertest.t_laboratory WHERE id='110001';
+DELETE FROM servertest.t_laboratory WHERE id='100001';
+DELETE FROM servertest.t_laboratory WHERE id='10001';
+
+七月 31, 2017 2:41:41 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:41:41 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:41:41 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:41:41 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：36060956736384961120
+七月 31, 2017 2:41:41 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:41:41 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:41:41 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:41:41 下午 client.ClientCode uploadFile
+信息: 耗时：3秒
+七月 31, 2017 2:41:58 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:03 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:08 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:13 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:18 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='90001';
+DELETE FROM servertest.t_laboratory WHERE id='80001';
+DELETE FROM servertest.t_laboratory WHERE id='70001';
+DELETE FROM servertest.t_laboratory WHERE id='60001';
+DELETE FROM servertest.t_laboratory WHERE id='50001';
+DELETE FROM servertest.t_laboratory WHERE id='40001';
+DELETE FROM servertest.t_laboratory WHERE id='30001';
+DELETE FROM servertest.t_laboratory WHERE id='20001';
+
+七月 31, 2017 2:42:18 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:42:18 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:42:18 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:42:18 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：08425895561981993173
+七月 31, 2017 2:42:19 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:42:19 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:42:19 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:42:19 下午 client.ClientCode uploadFile
+信息: 耗时：5秒
+七月 31, 2017 2:42:23 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='120001';
+DELETE FROM servertest.t_laboratory WHERE id='110001';
+DELETE FROM servertest.t_laboratory WHERE id='100001';
+DELETE FROM servertest.t_laboratory WHERE id='10001';
+INSERT INTO servertest.t_laboratory VALUES('10001','中国科学院武汉病毒研究所','中国科学院','微生物','P4','武汉','中国科学院武汉病毒研究所始建于1956年，是专业从事病毒学基础研究及相关技术创新的综合性研究机构。\\x0a中国科学院武汉病毒研究所针对人口健康、农业可持续发展和国家与公共安全的战略需求，依托高等级生物安全实验室团簇平台，重点开展病毒学、农业与环境微生物学及新兴生物技术等方面的基础和应用基础研究。','2008-07-17 00:00:00',NULL,114,31);
+INSERT INTO servertest.t_laboratory VALUES('100001','植物化学与西部植物资源国家重点实验室','中国科学院','植物','P1','昆明','正"植物化学与西部植物资源持续利用国家重点实验室"以我国西部地区丰富的植物资源为研究对象,开展植物化学成分的分离纯化、结构测定、生物活性与功能、结构修饰与全合成、分布及演化规律的研究;开展西部地区植物资源持续利用关键技术研究,为我国天然创新药物和中药现代化的发展以及植物资源持续利用作出贡献。','2013-06-15 00:00:00',NULL,103,25);
+INSERT INTO servertest.t_laboratory VALUES('110001','植物基因组学国家重点实验室','中国科学院','植物','P1','北京','植物基因组学国家重点实验室依托中国科学院微生物研究所、中国科学院遗传与发育生物学研究所，实验室于2003年经国家科技部批准正式成立。其前身是1990年成立的中国科学院植物生物技术开放实验室。2006年1月，实验室通过了科技部组织的国家重点实验室建设验收。','2009-04-28 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('120001','植物细胞与染色体工程国家重点实验室','中国科学院','植物','P1','北京','植物细胞与染色体工程国家重点实验室 依托中国科学院遗传与发育生物学研究所，实验室于1989年批准建设，1992年正式对外开放，1995年通过国家验收。本实验室的依托单位为中国科学院遗传与发育生物学研究所。实验室第一任主任为中科院院士李振声，第二任主任由百人计划引进人才优秀杰出青年王道文研究员 ，现任实验室主任凌宏清研究员。17名国内著名专家学者组成 实验室学术委员会。实验室有固定人员38人，其中高级研究人员13人，中级研究人员22人，技术及管理人员3人，在读研究生130多人。','2012-09-08 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('20001','淡水生态与生物技术国家重点实验室','中国科学院','生物','P2','武汉','淡水生态与生物技术国家重点实验室依托于中国科学院水生生物研究所，1987年8月建成。该所坐落在湖北省武汉市武昌区东郊，面对波光浩淼的东湖，背靠风景秀丽的珞珈山。所舍占地面积26公顷，生活和工作设施齐全，环境幽雅恬静，交通便利，是理想的从事科学研究和追求学业的园地。实验室先后于1996年和2001年分别被授予优秀类国家重点实验室。','2015-04-09 00:00:00',NULL,114,31);
+INSERT INTO servertest.t_laboratory VALUES('30001','农业虫害鼠害研究国家重点实验室','中国科学院','动物','P2','北京','农业虫害鼠害综合治理研究国家重点实验室依托中国科学院动物研究所，实验室是利用世界银行贷款建立的。1989年6月，批准立项。1991年10月，全面开始建设。1993年10月，正式对国内外开放。1995年10月，通过验收。2001年，参加生命学科的国家重点实验室评估，评为良好类实验室。现任实验室主任为康乐研究员，学术委员会主任为王祖望研究员。','2010-11-08 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('40001','生物大分子国家重点实验室','中国科学院','微生物','P1','北京','生物大分子国家重点实验室[1]  依托中国科学院生物物理研究所，实验室于1989年经国家计划发展委员会和中国科学院批准成立。1991年1月通过验收并正式对外开放。邹承鲁院士任实验室名誉主任。现任实验室主任为王志新院士，黄有国研究员任常务副主任，王志珍及常文瑞研究员任副主任。学术委员会由国内本领域著名专家17人组成，杨福愉院士任主任，孙曼霁及匡廷云院士任副主任。','2014-08-07 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('50001','生物膜与膜生物工程国家重点实验室','中国科学院','微生物','P1','北京','生物膜与膜生物工程国家重点实验室于1986 年九月开始筹建，1988 年正式成立，实验室隶属中国科学院动物研究所，由分别依托于国内一流科研教学单位的三个分室组成：膜生物化学与膜分子生物学分室（中国科学院动物研究所）、膜生物物理与膜生物技术分室 ( 清华大学) 、膜离子通道与受体分子生物学分室（北京大学）。生物膜与膜生物工程国家重点实验室','2013-09-21 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('60001','微生物资源国家重点实验室','中国科学院','微生物','P2','北京','1991年12月，实验室的建设工作正式启动；1993年12月，经专家组论证、中国科学院批准，实验室正式对外开放；1995年12月，实验室通过了国家计委验收；1998年3月中国科学院对实验室进行了评估，1999年7月实验室进入了中国科学院知识创新工程；2001年6月实验室通过了国家评估。现任实验室主任为黄力研究员,学术委员会主任为魏江春院士  。','2013-05-09 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('70001','系统与进化植物学国家重点实验室','中国科学院','植物','P1','北京','系统与进化植物学国家重点实验室依托中国科学院植物研究所。实验室现有31位研究人员，包括中国科学院院士2人，研究员18人，博士生导师12人，副研究员13人；还有10位技术和管理人员。目前的在读研究生和博士后78人，已成为我国系统与进化生物学研究领域科学研究和人才培养的重要基地，同时也是国际上该领域有影响的实验室之一。现任学术委员会主任：洪德元院士；实验室主任葛颂研究员。','2011-01-18 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('80001','新药研究国家重点实验室','中国科学院','微生物','P1','上海','新药研究国家重点实验室 依托中国科学院上海药物研究所。。实验室建于1990 年，现有工作人员：21 名，其中管理人员1 名，主要仪器设备 118 台（套），占地面积 平方米，其中试验场地 1800 平方米。新药研究国家重点实验室是利用世行贷款建设的实验室，在2001年国家评估中被评为优秀实验室·','2012-08-22 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('90001','植物分子遗传国家重点实验室','中国科学院','植物','P1','上海','植物分子遗传国家重点实验室依托中国科学院上海生命科学研究院，实验室于1986年科技部批准建设，1988年建成通过，1989年正式对外开放。现任实验室主任为薛红卫研究员，学术委员会主任为许智宏院士。','2011-05-25 00:00:00',NULL,121,31);
+
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:42:23 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：07408469608301550182
+七月 31, 2017 2:42:23 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:42:23 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:42:23 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:42:23 下午 client.ClientCode uploadFile
+信息: 耗时：4秒
+七月 31, 2017 2:42:28 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:33 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:38 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:43 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:48 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:53 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:42:58 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:03 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='Vi_0060001';
+DELETE FROM servertest.t_virus WHERE id='Vi_0050001';
+DELETE FROM servertest.t_virus WHERE id='Vi_0040001';
+DELETE FROM servertest.t_virus WHERE id='Vi_0030001';
+DELETE FROM servertest.t_virus WHERE id='Vi_0020001';
+DELETE FROM servertest.t_virus WHERE id='Vi_0010001';
+DELETE FROM servertest.t_virus WHERE id='Ro_0070001';
+DELETE FROM servertest.t_virus WHERE id='Ro_0060001';
+
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:03 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：97205887309824202946
+七月 31, 2017 2:43:03 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:03 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:43:03 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:43:03 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:43:08 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='Ro_0050001';
+DELETE FROM servertest.t_virus WHERE id='Ro_0040001';
+DELETE FROM servertest.t_virus WHERE id='Ro_0030001';
+DELETE FROM servertest.t_virus WHERE id='Ro_0020001';
+DELETE FROM servertest.t_virus WHERE id='Ro_0010001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0120001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0110001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0100001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0090001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0080001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0070001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0060001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0050001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0040001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0030001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0020001';
+DELETE FROM servertest.t_virus WHERE id='Rn_0010001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0100001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0090001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0080001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0070001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0060001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0050001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0040001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0030001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0020001';
+DELETE FROM servertest.t_virus WHERE id='Pl_0010001';
+DELETE FROM servertest.t_virus WHERE id='Dn_0020001';
+DELETE FROM servertest.t_virus WHERE id='Dn_0010001';
+DELETE FROM servertest.t_virus WHERE id='an_0070001';
+DELETE FROM servertest.t_virus WHERE id='an_0060001';
+DELETE FROM servertest.t_virus WHERE id='an_0050001';
+DELETE FROM servertest.t_virus WHERE id='an_0040001';
+DELETE FROM servertest.t_virus WHERE id='an_0030001';
+DELETE FROM servertest.t_virus WHERE id='an_0020001';
+DELETE FROM servertest.t_virus WHERE id='an_0010001';
+
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:08 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：45197490182343438725
+七月 31, 2017 2:43:08 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:08 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:43:08 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:43:08 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:43:13 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:18 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:23 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('an_0010001','痘病毒科','Poxviridae','BSL-1','动物病毒','1');
+INSERT INTO servertest.t_virus VALUES('an_0020001','非洲猪瘟病毒','African swine fever virus','BSL-3','动物病毒','1');
+INSERT INTO servertest.t_virus VALUES('an_0030001','长鼻动物病毒','Proboscivirus','BSL-4','动物病毒','2');
+INSERT INTO servertest.t_virus VALUES('an_0040001','猪圆环病毒1型','Porcine circovirus 1','BSL-2','动物病毒','12');
+INSERT INTO servertest.t_virus VALUES('an_0050001','呼肠孤病毒','Reoviridae','BSL-1','动物病毒','3');
+INSERT INTO servertest.t_virus VALUES('an_0060001','萨比亚病毒','Sabiá virus','BSL-2','动物病毒','4');
+INSERT INTO servertest.t_virus VALUES('an_0070001','披膜病毒','Togaviridae','BSL-2','动物病毒','1');
+INSERT INTO servertest.t_virus VALUES('Dn_0010001','天花病毒','Smallpox','BSL-1','DNA病毒','9');
+INSERT INTO servertest.t_virus VALUES('Dn_0020001','花椰菜花叶病毒','Cauliflower mosaic virus ','BSL-1','DNA病毒','2');
+INSERT INTO servertest.t_virus VALUES('Pl_0010001','郁金香碎色花病毒','Tulipa virus ','BSL-4','植物病毒','11');
+INSERT INTO servertest.t_virus VALUES('Pl_0020001','大蒜E病毒','GMV','BSL-4','植物病毒','3');
+INSERT INTO servertest.t_virus VALUES('Pl_0030001','柑橘裂皮类病毒','Citrus scaly butt disease','BSL-3','植物病毒','7');
+INSERT INTO servertest.t_virus VALUES('Pl_0040001','鹗梨日斑类病毒','Avocado sunblotch viroid ','BSL-4','植物病毒','11');
+INSERT INTO servertest.t_virus VALUES('Pl_0050001','栎叶圆斑病','Ceratocystis fagacearum','BSL-4','植物病毒','8');
+INSERT INTO servertest.t_virus VALUES('Pl_0060001','花叶病毒','Mosaic virus','BSL-3','植物病毒','1');
+INSERT INTO servertest.t_virus VALUES('Pl_0070001','牡丹环斑病毒','Peony ringspot virus','BSL-3','植物病毒','9');
+INSERT INTO servertest.t_virus VALUES('Pl_0080001','烟草脆裂病毒','Tobacco rattle virus','BSL-3','植物病毒','4');
+INSERT INTO servertest.t_virus VALUES('Pl_0090001','牡丹曲叶病毒','Peony leaf curl virus','BSL-3','植物病毒','3');
+INSERT INTO servertest.t_virus VALUES('Pl_0100001','百合丛生病毒','Lily symptomless virus ','BSL-3','植物病毒','2');
+INSERT INTO servertest.t_virus VALUES('Rn_0010001','乙型脑炎病毒','Japanese encephalitisvirus','BSL-1','RNA病毒','2');
+INSERT INTO servertest.t_virus VALUES('Rn_0020001','登革病毒','Dengue virus','BSL-1','RNA病毒','3');
+INSERT INTO servertest.t_virus VALUES('Rn_0030001','森林脑炎病毒','Russian spring-summer encephalitis virus','BSL-1','RNA病毒','2');
+INSERT INTO servertest.t_virus VALUES('Rn_0040001','艾滋病病毒','Human Immunodeficiency Virus','BSL-1','RNA病毒','12');
+
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:23 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：79768682926915489190
+七月 31, 2017 2:43:23 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:23 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:43:23 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:43:23 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:43:28 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('Rn_0050001','烟草花叶病毒','Tobacco mosaic virus','BSL-1','RNA病毒','6');
+INSERT INTO servertest.t_virus VALUES('Rn_0060001','SARS 病毒','SARS','BSL-1','RNA病毒','4');
+INSERT INTO servertest.t_virus VALUES('Rn_0070001','MERS病毒','Middle East Respiratory Syndrome','BSL-1','RNA病毒','4');
+INSERT INTO servertest.t_virus VALUES('Rn_0080001','埃博拉病毒','Ebola virus','BSL-1','RNA病毒','2');
+INSERT INTO servertest.t_virus VALUES('Rn_0090001','流感病毒','Influenza virus','BSL-1','RNA病毒','7');
+INSERT INTO servertest.t_virus VALUES('Rn_0100001','甲型H1N1流感病毒','H1N1','BSL-1','RNA病毒','8');
+INSERT INTO servertest.t_virus VALUES('Rn_0110001','噬菌体','Phage ','BSL-1','RNA病毒','7');
+INSERT INTO servertest.t_virus VALUES('Rn_0120001','禽流感病毒','AIV','BSL-1','RNA病毒','8');
+INSERT INTO servertest.t_virus VALUES('Ro_0010001','茶小卷叶蛾颗粒体病毒','Adoxophes priuitana granulovirus','BSL-1','杆状病毒','7');
+INSERT INTO servertest.t_virus VALUES('Ro_0020001','黄地老虎颗粒体病毒','Agrotis segetum granulovirus','BSL-1','杆状病毒','4');
+INSERT INTO servertest.t_virus VALUES('Ro_0030001','茶蚕颗粒体病毒','Andraca bipunctata granulovirus','BSL-1','杆状病毒','8');
+INSERT INTO servertest.t_virus VALUES('Ro_0040001','警纹鸣夜蛾颗粒体病毒','Agrotis exclamationis granulovirus','BSL-1','杆状病毒','7');
+INSERT INTO servertest.t_virus VALUES('Ro_0050001','竹斑蛾颗粒体病毒','Artona funeralis bulter granulovirus','BSL-1','杆状病毒','10');
+INSERT INTO servertest.t_virus VALUES('Ro_0060001','扬扇舟蛾颗粒体病毒 TM株','Clostera anachoreta granulovirus TM','BSL-1','杆状病毒','9');
+INSERT INTO servertest.t_virus VALUES('Ro_0070001','扬扇舟蛾颗粒体病毒 TA株','Clostera anachoreta granulovirus TA','BSL-1','杆状病毒','12');
+INSERT INTO servertest.t_virus VALUES('Vi_0010001','T2噬菌体','T2-phage','BSL-2','细菌病毒','2');
+INSERT INTO servertest.t_virus VALUES('Vi_0020001','T4菌体','T4-phage','BSL-2','细菌病毒','2');
+INSERT INTO servertest.t_virus VALUES('Vi_0030001','T5噬菌体','T5-phage','BSL-2','细菌病毒','6');
+INSERT INTO servertest.t_virus VALUES('Vi_0040001','T7噬菌体','T6-phage','BSL-4','细菌病毒','4');
+INSERT INTO servertest.t_virus VALUES('Vi_0050001','λ噬菌体','λ-phage','BSL-2','细菌病毒','7');
+INSERT INTO servertest.t_virus VALUES('Vi_0060001','P22噬菌体','P22-phage','BSL-4','细菌病毒','5');
+
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:43:28 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：41235914909424405716
+七月 31, 2017 2:43:28 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:43:28 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:43:28 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:43:28 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:43:33 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:38 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:43 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:48 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:53 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:43:58 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:44:03 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:44:08 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:44:13 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:02 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:07 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:12 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:17 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:22 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:27 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:32 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:37 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:42 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:47 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:52 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:45:57 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:02 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:07 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:12 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:17 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:22 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:27 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:53 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:46:58 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:03 下午 client.LogToSql sqlToSql
+信息: UPDATE servertest.t_virus_destroy SET virus_id='s',destroy_date=NULL,num=0,lab_id=''  WHERE id=10001;
+
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:04 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：73459101593933021140
+七月 31, 2017 2:47:04 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:04 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:47:04 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:47:04 下午 client.ClientCode uploadFile
+信息: 耗时：4秒
+七月 31, 2017 2:47:08 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:13 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_destroy WHERE id=10001;
+INSERT INTO servertest.t_virus_destroy VALUES(10001,'an_001','2011-07-30 14:47:52',5,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(20001,'an_002','2011-05-04 14:49:08',3,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(30001,'an_003','2013-12-20 14:50:01',6,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(40001,'an_004','2015-10-03 14:50:37',1,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(50001,'an_005','2017-12-31 14:52:02',1,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(60001,'an_006','2015-03-12 14:52:40',5,'3');
+INSERT INTO servertest.t_virus_destroy VALUES(70001,'an_007','2015-02-06 14:53:35',1,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(80001,'Dn_001','2017-05-18 14:54:08',7,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(90001,'Dn_002','2017-01-22 14:54:43',10,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(100001,'Pl_001','2017-12-14 14:55:21',4,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(110001,'Pl_002','2016-10-01 14:56:00',10,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(120001,'Pl_003','2013-02-07 15:12:12',15,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(130001,'Pl_004','2011-11-16 15:12:20',8,'10');
+INSERT INTO servertest.t_virus_destroy VALUES(140001,'Pl_005','2012-03-07 15:12:56',4,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(150001,'Pl_006','2017-10-05 15:13:11',2,'1');
+
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:13 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：08700752401279584458
+七月 31, 2017 2:47:13 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:13 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:47:13 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:47:13 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:47:18 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_destroy VALUES(160001,'Pl_007','2014-02-06 15:13:55',4,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(170001,'Pl_008','2015-07-17 15:14:17',10,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(180001,'Pl_009','2015-07-09 15:14:36',3,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(190001,'Pl_010','2016-11-09 15:14:54',4,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(200001,'Rn_001','2017-05-12 15:15:22',4,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(210001,'Rn_002','2017-12-31 15:15:33',1,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(220001,'Rn_003','2015-01-24 15:15:44',3,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(230001,'Rn_004','2016-10-17 15:16:03',2,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(240001,'Rn_005','2011-03-02 15:16:23',23,'12');
+INSERT INTO servertest.t_virus_destroy VALUES(250001,'Rn_006','2011-07-11 15:16:38',10,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(260001,'Rn_007','2014-02-05 15:16:51',5,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(270001,'Rn_008','2014-03-05 15:17:49',10,'3');
+INSERT INTO servertest.t_virus_destroy VALUES(280001,'Rn_009','2016-04-07 15:18:00',10,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(290001,'Rn_010','2015-12-01 15:18:33',100,'12');
+INSERT INTO servertest.t_virus_destroy VALUES(300001,'Rn_011','2016-10-01 15:19:09',100,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(310001,'Rn_012','2017-04-07 15:19:27',200,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(320001,'Ro_001','2017-05-12 15:19:42',150,'11');
+INSERT INTO servertest.t_virus_destroy VALUES(330001,'Ro_002','2011-07-11 15:19:52',1000,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(340001,'Ro_003','2017-12-15 15:20:21',50,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(350001,'Ro_004','2017-03-16 15:20:35',17,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(360001,'Ro_005','2017-11-25 15:20:44',25,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(370001,'Ro_006','2014-06-06 15:20:56',50,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(380001,'Ro_007','2016-03-03 15:21:13',100,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(390001,'Vi_001','2017-09-02 15:21:30',20,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(400001,'Vi_002','2016-06-21 15:21:39',70,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(410001,'Vi_003','2015-10-03 15:22:01',5,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(420001,'Vi_004','2017-06-09 15:22:34',12,'10');
+INSERT INTO servertest.t_virus_destroy VALUES(430001,'Vi_005','2017-11-30 15:22:59',20,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(440001,'Vi_006','2017-12-28 15:23:13',35,'1');
+
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:18 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：05198263382506427819
+七月 31, 2017 2:47:18 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:18 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:47:18 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:47:18 下午 client.ClientCode uploadFile
+信息: 耗时：4秒
+七月 31, 2017 2:47:23 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:28 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:33 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:38 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:43 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:48 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:47:53 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_instore WHERE id=450001;
+DELETE FROM servertest.t_virus_instore WHERE id=440001;
+DELETE FROM servertest.t_virus_instore WHERE id=430001;
+DELETE FROM servertest.t_virus_instore WHERE id=420001;
+DELETE FROM servertest.t_virus_instore WHERE id=410001;
+DELETE FROM servertest.t_virus_instore WHERE id=400001;
+DELETE FROM servertest.t_virus_instore WHERE id=390001;
+DELETE FROM servertest.t_virus_instore WHERE id=380001;
+DELETE FROM servertest.t_virus_instore WHERE id=370001;
+DELETE FROM servertest.t_virus_instore WHERE id=360001;
+DELETE FROM servertest.t_virus_instore WHERE id=350001;
+DELETE FROM servertest.t_virus_instore WHERE id=340001;
+DELETE FROM servertest.t_virus_instore WHERE id=330001;
+DELETE FROM servertest.t_virus_instore WHERE id=320001;
+DELETE FROM servertest.t_virus_instore WHERE id=310001;
+DELETE FROM servertest.t_virus_instore WHERE id=300001;
+DELETE FROM servertest.t_virus_instore WHERE id=290001;
+DELETE FROM servertest.t_virus_instore WHERE id=280001;
+DELETE FROM servertest.t_virus_instore WHERE id=270001;
+DELETE FROM servertest.t_virus_instore WHERE id=260001;
+DELETE FROM servertest.t_virus_instore WHERE id=250001;
+DELETE FROM servertest.t_virus_instore WHERE id=240001;
+DELETE FROM servertest.t_virus_instore WHERE id=230001;
+DELETE FROM servertest.t_virus_instore WHERE id=220001;
+DELETE FROM servertest.t_virus_instore WHERE id=210001;
+DELETE FROM servertest.t_virus_instore WHERE id=200001;
+DELETE FROM servertest.t_virus_instore WHERE id=190001;
+DELETE FROM servertest.t_virus_instore WHERE id=180001;
+DELETE FROM servertest.t_virus_instore WHERE id=170001;
+DELETE FROM servertest.t_virus_instore WHERE id=160001;
+DELETE FROM servertest.t_virus_instore WHERE id=150001;
+DELETE FROM servertest.t_virus_instore WHERE id=140001;
+DELETE FROM servertest.t_virus_instore WHERE id=130001;
+DELETE FROM servertest.t_virus_instore WHERE id=120001;
+DELETE FROM servertest.t_virus_instore WHERE id=110001;
+DELETE FROM servertest.t_virus_instore WHERE id=100001;
+DELETE FROM servertest.t_virus_instore WHERE id=90001;
+DELETE FROM servertest.t_virus_instore WHERE id=80001;
+DELETE FROM servertest.t_virus_instore WHERE id=70001;
+DELETE FROM servertest.t_virus_instore WHERE id=60001;
+DELETE FROM servertest.t_virus_instore WHERE id=50001;
+DELETE FROM servertest.t_virus_instore WHERE id=40001;
+DELETE FROM servertest.t_virus_instore WHERE id=30001;
+DELETE FROM servertest.t_virus_instore WHERE id=20001;
+DELETE FROM servertest.t_virus_instore WHERE id=10001;
+
+七月 31, 2017 2:47:53 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:53 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:53 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:47:53 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：99269621884633464306
+七月 31, 2017 2:47:53 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:54 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:47:54 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:47:54 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:47:58 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_instore VALUES(10001,'an_001','2008-01-22 11:01:09',240,'1');
+INSERT INTO servertest.t_virus_instore VALUES(20001,'an_002','2008-02-12 11:02:34',300,'2');
+INSERT INTO servertest.t_virus_instore VALUES(30001,'an_003','2008-03-11 11:03:06',360,'3');
+INSERT INTO servertest.t_virus_instore VALUES(40001,'an_004','2009-01-08 11:03:51',420,'4');
+INSERT INTO servertest.t_virus_instore VALUES(50001,'an_005','2009-01-22 11:03:51',480,'5');
+INSERT INTO servertest.t_virus_instore VALUES(60001,'an_006','2009-02-22 11:03:51',540,'6');
+INSERT INTO servertest.t_virus_instore VALUES(70001,'an_007','2010-01-18 11:06:13',240,'7');
+INSERT INTO servertest.t_virus_instore VALUES(80001,'Dn_001','2010-02-18 11:06:13',300,'8');
+INSERT INTO servertest.t_virus_instore VALUES(90001,'Dn_002','2010-03-18 11:06:13',360,'9');
+INSERT INTO servertest.t_virus_instore VALUES(100001,'Pl_001','2011-01-01 11:08:08',420,'10');
+INSERT INTO servertest.t_virus_instore VALUES(110001,'Pl_002','2011-02-01 11:08:08',480,'11');
+INSERT INTO servertest.t_virus_instore VALUES(120001,'Pl_003','2011-03-01 11:08:08',540,'12');
+INSERT INTO servertest.t_virus_instore VALUES(130001,'Pl_004','2012-01-01 11:09:53',240,'3');
+INSERT INTO servertest.t_virus_instore VALUES(140001,'Pl_005','2012-03-14 11:10:38',300,'4');
+INSERT INTO servertest.t_virus_instore VALUES(150001,'Pl_006','2012-02-17 11:11:16',360,'5');
+INSERT INTO servertest.t_virus_instore VALUES(160001,'Pl_007','2013-01-23 11:11:53',420,'6');
+INSERT INTO servertest.t_virus_instore VALUES(170001,'Pl_008','2013-02-17 11:12:48',480,'7');
+INSERT INTO servertest.t_virus_instore VALUES(180001,'Pl_009','2013-03-17 11:12:48',540,'8');
+INSERT INTO servertest.t_virus_instore VALUES(190001,'Pl_010','2014-01-16 11:13:43',240,'9');
+INSERT INTO servertest.t_virus_instore VALUES(200001,'Rn_001','2014-02-16 11:13:43',300,'2');
+INSERT INTO servertest.t_virus_instore VALUES(210001,'Rn_002','2014-03-16 11:13:43',360,'2');
+INSERT INTO servertest.t_virus_instore VALUES(220001,'Rn_003','2013-07-18 11:15:07',4,'2');
+INSERT INTO servertest.t_virus_instore VALUES(230001,'Rn_004','2015-05-08 11:15:32',9,'3');
+INSERT INTO servertest.t_virus_instore VALUES(240001,'Rn_005','2009-05-08 11:15:57',23,'4');
+INSERT INTO servertest.t_virus_instore VALUES(250001,'Rn_006','2010-06-11 11:16:32',12,'5');
+INSERT INTO servertest.t_virus_instore VALUES(260001,'Rn_007','2011-07-23 11:16:58',10,'6');
+INSERT INTO servertest.t_virus_instore VALUES(270001,'Rn_008','2012-08-17 11:17:28',31,'7');
+INSERT INTO servertest.t_virus_instore VALUES(280001,'Rn_009','2013-09-20 11:17:58',43,'8');
+INSERT INTO servertest.t_virus_instore VALUES(290001,'Rn_010','2010-10-17 11:18:58',100,'9');
+INSERT INTO servertest.t_virus_instore VALUES(300001,'Rn_011','2015-11-20 11:19:44',200,'3');
+INSERT INTO servertest.t_virus_instore VALUES(310001,'Rn_012','2016-12-23 11:20:11',300,'1');
+INSERT INTO servertest.t_virus_instore VALUES(320001,'Ro_001','2017-01-22 11:20:55',400,'2');
+INSERT INTO servertest.t_virus_instore VALUES(330001,'Ro_002','2008-03-08 11:23:22',1000,'3');
+INSERT INTO servertest.t_virus_instore VALUES(340001,'Ro_003','2017-11-08 11:24:12',400,'4');
+INSERT INTO servertest.t_virus_instore VALUES(350001,'Ro_004','2016-10-15 11:24:51',34,'5');
+
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:47:58 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：78422925446652179558
+七月 31, 2017 2:47:58 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:47:58 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:47:58 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:47:58 下午 client.ClientCode uploadFile
+信息: 耗时：3秒
+七月 31, 2017 2:48:03 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_instore VALUES(360001,'Ro_005','2017-07-05 11:25:04',50,'6');
+INSERT INTO servertest.t_virus_instore VALUES(370001,'Ro_006','2012-08-17 11:25:21',60,'7');
+INSERT INTO servertest.t_virus_instore VALUES(380001,'Ro_007','2014-08-17 11:26:37',250,'8');
+INSERT INTO servertest.t_virus_instore VALUES(390001,'Vi_001','2017-06-14 11:26:49',43,'9');
+INSERT INTO servertest.t_virus_instore VALUES(400001,'Vi_002','2015-05-12 11:27:03',76,'1');
+INSERT INTO servertest.t_virus_instore VALUES(410001,'Vi_003','2015-04-22 11:27:35',23,'2');
+INSERT INTO servertest.t_virus_instore VALUES(420001,'Vi_004','2017-03-27 11:27:51',12,'3');
+INSERT INTO servertest.t_virus_instore VALUES(430001,'Vi_005','2017-07-11 11:28:07',56,'4');
+INSERT INTO servertest.t_virus_instore VALUES(440001,'Vi_006','2017-07-11 11:28:12',65,'5');
+INSERT INTO servertest.t_virus_instore VALUES(450001,'an_008','2008-01-22 09:15:16',200,'2');
+
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:03 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：23401236988875139058
+七月 31, 2017 2:48:03 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:03 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:48:03 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:48:03 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:48:08 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:48:13 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:48:18 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:48:23 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:48:28 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_outstore WHERE id=1050001;
+DELETE FROM servertest.t_virus_outstore WHERE id=1040001;
+DELETE FROM servertest.t_virus_outstore WHERE id=1030001;
+DELETE FROM servertest.t_virus_outstore WHERE id=1020001;
+DELETE FROM servertest.t_virus_outstore WHERE id=1010001;
+DELETE FROM servertest.t_virus_outstore WHERE id=1000001;
+DELETE FROM servertest.t_virus_outstore WHERE id=990001;
+DELETE FROM servertest.t_virus_outstore WHERE id=980001;
+DELETE FROM servertest.t_virus_outstore WHERE id=970001;
+DELETE FROM servertest.t_virus_outstore WHERE id=960001;
+DELETE FROM servertest.t_virus_outstore WHERE id=950001;
+DELETE FROM servertest.t_virus_outstore WHERE id=940001;
+DELETE FROM servertest.t_virus_outstore WHERE id=930001;
+DELETE FROM servertest.t_virus_outstore WHERE id=920001;
+DELETE FROM servertest.t_virus_outstore WHERE id=910001;
+DELETE FROM servertest.t_virus_outstore WHERE id=900001;
+DELETE FROM servertest.t_virus_outstore WHERE id=890001;
+DELETE FROM servertest.t_virus_outstore WHERE id=880001;
+DELETE FROM servertest.t_virus_outstore WHERE id=870001;
+DELETE FROM servertest.t_virus_outstore WHERE id=860001;
+DELETE FROM servertest.t_virus_outstore WHERE id=850001;
+DELETE FROM servertest.t_virus_outstore WHERE id=840001;
+DELETE FROM servertest.t_virus_outstore WHERE id=830001;
+DELETE FROM servertest.t_virus_outstore WHERE id=820001;
+DELETE FROM servertest.t_virus_outstore WHERE id=810001;
+DELETE FROM servertest.t_virus_outstore WHERE id=800001;
+DELETE FROM servertest.t_virus_outstore WHERE id=790001;
+DELETE FROM servertest.t_virus_outstore WHERE id=780001;
+DELETE FROM servertest.t_virus_outstore WHERE id=770001;
+DELETE FROM servertest.t_virus_outstore WHERE id=760001;
+DELETE FROM servertest.t_virus_outstore WHERE id=750001;
+DELETE FROM servertest.t_virus_outstore WHERE id=740001;
+DELETE FROM servertest.t_virus_outstore WHERE id=730001;
+DELETE FROM servertest.t_virus_outstore WHERE id=720001;
+DELETE FROM servertest.t_virus_outstore WHERE id=710001;
+DELETE FROM servertest.t_virus_outstore WHERE id=700001;
+DELETE FROM servertest.t_virus_outstore WHERE id=690001;
+DELETE FROM servertest.t_virus_outstore WHERE id=680001;
+DELETE FROM servertest.t_virus_outstore WHERE id=670001;
+DELETE FROM servertest.t_virus_outstore WHERE id=660001;
+DELETE FROM servertest.t_virus_outstore WHERE id=650001;
+DELETE FROM servertest.t_virus_outstore WHERE id=640001;
+
+七月 31, 2017 2:48:28 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:28 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:28 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:48:28 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：65163646218805475667
+七月 31, 2017 2:48:28 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:29 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:48:29 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:48:29 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:48:33 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_outstore WHERE id=630001;
+DELETE FROM servertest.t_virus_outstore WHERE id=620001;
+DELETE FROM servertest.t_virus_outstore WHERE id=610001;
+DELETE FROM servertest.t_virus_outstore WHERE id=600001;
+DELETE FROM servertest.t_virus_outstore WHERE id=590001;
+DELETE FROM servertest.t_virus_outstore WHERE id=580001;
+DELETE FROM servertest.t_virus_outstore WHERE id=570001;
+DELETE FROM servertest.t_virus_outstore WHERE id=560001;
+DELETE FROM servertest.t_virus_outstore WHERE id=550001;
+DELETE FROM servertest.t_virus_outstore WHERE id=540001;
+DELETE FROM servertest.t_virus_outstore WHERE id=530001;
+DELETE FROM servertest.t_virus_outstore WHERE id=520001;
+DELETE FROM servertest.t_virus_outstore WHERE id=510001;
+DELETE FROM servertest.t_virus_outstore WHERE id=500001;
+DELETE FROM servertest.t_virus_outstore WHERE id=490001;
+DELETE FROM servertest.t_virus_outstore WHERE id=480001;
+DELETE FROM servertest.t_virus_outstore WHERE id=470001;
+DELETE FROM servertest.t_virus_outstore WHERE id=460001;
+DELETE FROM servertest.t_virus_outstore WHERE id=450001;
+DELETE FROM servertest.t_virus_outstore WHERE id=440001;
+DELETE FROM servertest.t_virus_outstore WHERE id=430001;
+DELETE FROM servertest.t_virus_outstore WHERE id=420001;
+DELETE FROM servertest.t_virus_outstore WHERE id=410001;
+DELETE FROM servertest.t_virus_outstore WHERE id=400001;
+DELETE FROM servertest.t_virus_outstore WHERE id=390001;
+DELETE FROM servertest.t_virus_outstore WHERE id=380001;
+DELETE FROM servertest.t_virus_outstore WHERE id=370001;
+DELETE FROM servertest.t_virus_outstore WHERE id=360001;
+DELETE FROM servertest.t_virus_outstore WHERE id=350001;
+DELETE FROM servertest.t_virus_outstore WHERE id=340001;
+DELETE FROM servertest.t_virus_outstore WHERE id=330001;
+DELETE FROM servertest.t_virus_outstore WHERE id=320001;
+DELETE FROM servertest.t_virus_outstore WHERE id=310001;
+DELETE FROM servertest.t_virus_outstore WHERE id=300001;
+DELETE FROM servertest.t_virus_outstore WHERE id=290001;
+DELETE FROM servertest.t_virus_outstore WHERE id=280001;
+DELETE FROM servertest.t_virus_outstore WHERE id=270001;
+DELETE FROM servertest.t_virus_outstore WHERE id=260001;
+DELETE FROM servertest.t_virus_outstore WHERE id=250001;
+DELETE FROM servertest.t_virus_outstore WHERE id=240001;
+DELETE FROM servertest.t_virus_outstore WHERE id=230001;
+DELETE FROM servertest.t_virus_outstore WHERE id=220001;
+DELETE FROM servertest.t_virus_outstore WHERE id=210001;
+DELETE FROM servertest.t_virus_outstore WHERE id=200001;
+DELETE FROM servertest.t_virus_outstore WHERE id=190001;
+DELETE FROM servertest.t_virus_outstore WHERE id=180001;
+DELETE FROM servertest.t_virus_outstore WHERE id=170001;
+DELETE FROM servertest.t_virus_outstore WHERE id=160001;
+DELETE FROM servertest.t_virus_outstore WHERE id=150001;
+DELETE FROM servertest.t_virus_outstore WHERE id=140001;
+DELETE FROM servertest.t_virus_outstore WHERE id=130001;
+DELETE FROM servertest.t_virus_outstore WHERE id=120001;
+DELETE FROM servertest.t_virus_outstore WHERE id=110001;
+DELETE FROM servertest.t_virus_outstore WHERE id=100001;
+DELETE FROM servertest.t_virus_outstore WHERE id=90001;
+DELETE FROM servertest.t_virus_outstore WHERE id=80001;
+DELETE FROM servertest.t_virus_outstore WHERE id=70001;
+DELETE FROM servertest.t_virus_outstore WHERE id=60001;
+DELETE FROM servertest.t_virus_outstore WHERE id=50001;
+DELETE FROM servertest.t_virus_outstore WHERE id=40001;
+DELETE FROM servertest.t_virus_outstore WHERE id=30001;
+DELETE FROM servertest.t_virus_outstore WHERE id=20001;
+DELETE FROM servertest.t_virus_outstore WHERE id=10001;
+
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:33 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：53624113293439391510
+七月 31, 2017 2:48:33 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:33 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:48:33 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:48:33 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:48:38 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_outstore VALUES(10001,'an_001','2008-07-21 13:28:32',40,'1','2');
+INSERT INTO servertest.t_virus_outstore VALUES(20001,'an_001','2008-07-21 13:28:32',40,'1','3');
+INSERT INTO servertest.t_virus_outstore VALUES(30001,'an_001','2008-07-21 13:28:32',40,'1','2');
+INSERT INTO servertest.t_virus_outstore VALUES(40001,'an_001','2008-07-21 13:28:32',40,'1','4');
+INSERT INTO servertest.t_virus_outstore VALUES(50001,'an_001','2008-07-21 13:28:32',40,'1','9');
+INSERT INTO servertest.t_virus_outstore VALUES(60001,'an_002','2008-04-21 13:28:32',50,'2','6');
+INSERT INTO servertest.t_virus_outstore VALUES(70001,'an_002','2008-04-21 13:28:32',50,'2','4');
+INSERT INTO servertest.t_virus_outstore VALUES(80001,'an_002','2008-04-21 13:28:32',50,'2','2');
+INSERT INTO servertest.t_virus_outstore VALUES(90001,'an_002','2008-04-21 13:28:32',50,'2','3');
+INSERT INTO servertest.t_virus_outstore VALUES(100001,'an_002','2008-04-21 13:28:32',50,'2','4');
+INSERT INTO servertest.t_virus_outstore VALUES(110001,'an_003','2008-06-21 13:28:32',60,'3','3');
+INSERT INTO servertest.t_virus_outstore VALUES(120001,'an_003','2008-06-21 13:28:32',60,'3','7');
+INSERT INTO servertest.t_virus_outstore VALUES(130001,'an_003','2008-06-21 13:28:32',60,'3','5');
+INSERT INTO servertest.t_virus_outstore VALUES(140001,'an_003','2008-06-21 13:28:32',60,'3','5');
+INSERT INTO servertest.t_virus_outstore VALUES(150001,'an_003','2008-06-21 13:28:32',60,'3','1');
+INSERT INTO servertest.t_virus_outstore VALUES(160001,'an_004','2009-05-15 11:03:51',70,'4','4');
+INSERT INTO servertest.t_virus_outstore VALUES(170001,'an_004','2009-05-15 11:03:51',70,'4','1');
+INSERT INTO servertest.t_virus_outstore VALUES(180001,'an_004','2009-05-15 11:03:51',70,'4','2');
+INSERT INTO servertest.t_virus_outstore VALUES(190001,'an_004','2009-05-15 11:03:51',70,'4','5');
+INSERT INTO servertest.t_virus_outstore VALUES(200001,'an_004','2009-05-15 11:03:51',70,'4','7');
+INSERT INTO servertest.t_virus_outstore VALUES(210001,'an_005','2009-10-15 11:03:51',80,'5','5');
+INSERT INTO servertest.t_virus_outstore VALUES(220001,'an_005','2009-10-15 11:03:51',80,'5','2');
+INSERT INTO servertest.t_virus_outstore VALUES(230001,'an_005','2009-10-15 11:03:51',80,'5','2');
+INSERT INTO servertest.t_virus_outstore VALUES(240001,'an_005','2009-10-15 11:03:51',80,'5','8');
+INSERT INTO servertest.t_virus_outstore VALUES(250001,'an_005','2009-10-15 11:03:51',80,'5','9');
+INSERT INTO servertest.t_virus_outstore VALUES(260001,'an_006','2009-06-21 11:03:51',90,'6','3');
+INSERT INTO servertest.t_virus_outstore VALUES(270001,'an_006','2009-06-21 11:03:51',90,'6','11');
+INSERT INTO servertest.t_virus_outstore VALUES(280001,'an_006','2009-06-21 11:03:51',90,'6','12');
+INSERT INTO servertest.t_virus_outstore VALUES(290001,'an_006','2009-06-21 11:03:51',90,'6','10');
+INSERT INTO servertest.t_virus_outstore VALUES(300001,'an_006','2009-06-21 11:03:51',90,'6','9');
+INSERT INTO servertest.t_virus_outstore VALUES(310001,'an_007','2010-05-18 11:06:13',40,'7','7');
+INSERT INTO servertest.t_virus_outstore VALUES(320001,'an_007','2010-05-18 11:06:13',40,'7','8');
+INSERT INTO servertest.t_virus_outstore VALUES(330001,'an_007','2010-05-18 11:06:13',40,'7','9');
+INSERT INTO servertest.t_virus_outstore VALUES(340001,'an_007','2010-05-18 11:06:13',40,'7','2');
+INSERT INTO servertest.t_virus_outstore VALUES(350001,'an_007','2010-05-18 11:06:13',40,'7','4');
+INSERT INTO servertest.t_virus_outstore VALUES(360001,'Dn_001','2010-08-18 11:06:13',50,'8','2');
+INSERT INTO servertest.t_virus_outstore VALUES(370001,'Dn_001','2010-08-18 11:06:13',50,'8','4');
+INSERT INTO servertest.t_virus_outstore VALUES(380001,'Dn_001','2010-08-18 11:06:13',50,'8','6');
+INSERT INTO servertest.t_virus_outstore VALUES(390001,'Dn_001','2010-08-18 11:06:13',50,'8','4');
+INSERT INTO servertest.t_virus_outstore VALUES(400001,'Dn_001','2010-08-18 11:06:13',50,'8','10');
+INSERT INTO servertest.t_virus_outstore VALUES(410001,'Dn_002','2010-10-01 11:08:08',60,'9','4');
+INSERT INTO servertest.t_virus_outstore VALUES(420001,'Dn_002','2010-10-01 11:08:08',60,'9','3');
+INSERT INTO servertest.t_virus_outstore VALUES(430001,'Dn_002','2010-10-01 11:08:08',60,'9','6');
+INSERT INTO servertest.t_virus_outstore VALUES(440001,'Dn_002','2010-10-01 11:08:08',60,'9','4');
+INSERT INTO servertest.t_virus_outstore VALUES(450001,'Dn_002','2010-10-01 11:08:08',60,'9','9');
+INSERT INTO servertest.t_virus_outstore VALUES(460001,'Pl_001','2011-07-01 11:08:08',70,'10','4');
+INSERT INTO servertest.t_virus_outstore VALUES(470001,'Pl_001','2011-07-01 11:08:08',70,'10','6');
+INSERT INTO servertest.t_virus_outstore VALUES(480001,'Pl_001','2011-07-01 11:08:08',70,'10','4');
+
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:38 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：76707078501222896150
+七月 31, 2017 2:48:38 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:38 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:48:38 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:48:38 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:48:43 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_outstore VALUES(490001,'Pl_001','2011-07-01 11:08:08',70,'10','7');
+INSERT INTO servertest.t_virus_outstore VALUES(500001,'Pl_001','2011-07-01 11:08:08',70,'10','7');
+INSERT INTO servertest.t_virus_outstore VALUES(510001,'Pl_002','2011-09-01 11:08:08',80,'11','6');
+INSERT INTO servertest.t_virus_outstore VALUES(520001,'Pl_002','2011-09-01 11:08:08',80,'11','5');
+INSERT INTO servertest.t_virus_outstore VALUES(530001,'Pl_002','2011-09-01 11:08:08',80,'11','12');
+INSERT INTO servertest.t_virus_outstore VALUES(540001,'Pl_002','2011-09-01 11:08:08',80,'11','6');
+INSERT INTO servertest.t_virus_outstore VALUES(550001,'Pl_002','2011-09-01 11:08:08',80,'11','9');
+INSERT INTO servertest.t_virus_outstore VALUES(560001,'Pl_003','2011-06-21 11:08:08',90,'12','1');
+INSERT INTO servertest.t_virus_outstore VALUES(570001,'Pl_003','2011-06-21 11:08:08',90,'12','2');
+INSERT INTO servertest.t_virus_outstore VALUES(580001,'Pl_003','2011-06-21 11:08:08',90,'12','3');
+INSERT INTO servertest.t_virus_outstore VALUES(590001,'Pl_003','2011-06-21 11:08:08',90,'12','4');
+INSERT INTO servertest.t_virus_outstore VALUES(600001,'Pl_003','2011-06-21 11:08:08',90,'12','5');
+INSERT INTO servertest.t_virus_outstore VALUES(610001,'Pl_004','2012-04-22 11:09:53',40,'3','4');
+INSERT INTO servertest.t_virus_outstore VALUES(620001,'Pl_004','2012-04-22 11:09:53',40,'3','2');
+INSERT INTO servertest.t_virus_outstore VALUES(630001,'Pl_004','2012-04-22 11:09:53',40,'3','2');
+INSERT INTO servertest.t_virus_outstore VALUES(640001,'Pl_004','2012-04-22 11:09:53',40,'3','8');
+INSERT INTO servertest.t_virus_outstore VALUES(650001,'Pl_004','2012-04-22 11:09:53',40,'3','2');
+INSERT INTO servertest.t_virus_outstore VALUES(660001,'Pl_005','2012-09-14 11:10:38',50,'4','2');
+INSERT INTO servertest.t_virus_outstore VALUES(670001,'Pl_005','2012-09-14 11:10:38',50,'4','3');
+INSERT INTO servertest.t_virus_outstore VALUES(680001,'Pl_005','2012-09-14 11:10:38',50,'4','11');
+INSERT INTO servertest.t_virus_outstore VALUES(690001,'Pl_005','2012-09-14 11:10:38',50,'4','12');
+INSERT INTO servertest.t_virus_outstore VALUES(700001,'Pl_005','2012-09-14 11:10:38',50,'4','6');
+INSERT INTO servertest.t_virus_outstore VALUES(710001,'Pl_006','2012-12-17 11:11:16',60,'5','2');
+INSERT INTO servertest.t_virus_outstore VALUES(720001,'Pl_006','2012-12-17 11:11:16',60,'5','5');
+INSERT INTO servertest.t_virus_outstore VALUES(730001,'Pl_006','2012-12-17 11:11:16',60,'5','5');
+INSERT INTO servertest.t_virus_outstore VALUES(740001,'Pl_006','2012-12-17 11:11:16',60,'5','7');
+INSERT INTO servertest.t_virus_outstore VALUES(750001,'Pl_006','2012-12-17 11:11:16',60,'5','6');
+INSERT INTO servertest.t_virus_outstore VALUES(760001,'Pl_007','2013-06-23 11:11:53',70,'6','4');
+INSERT INTO servertest.t_virus_outstore VALUES(770001,'Pl_007','2013-06-23 11:11:53',70,'6','5');
+INSERT INTO servertest.t_virus_outstore VALUES(780001,'Pl_007','2013-06-23 11:11:53',70,'6','7');
+INSERT INTO servertest.t_virus_outstore VALUES(790001,'Pl_007','2013-06-23 11:11:53',70,'6','11');
+INSERT INTO servertest.t_virus_outstore VALUES(800001,'Pl_007','2013-06-23 11:11:53',70,'6','3');
+INSERT INTO servertest.t_virus_outstore VALUES(810001,'Pl_008','2013-09-17 11:12:48',80,'7','3');
+INSERT INTO servertest.t_virus_outstore VALUES(820001,'Pl_008','2013-09-17 11:12:48',80,'7','4');
+INSERT INTO servertest.t_virus_outstore VALUES(830001,'Pl_008','2013-09-17 11:12:48',80,'7','5');
+INSERT INTO servertest.t_virus_outstore VALUES(840001,'Pl_008','2013-09-17 11:12:48',80,'7','6');
+INSERT INTO servertest.t_virus_outstore VALUES(850001,'Pl_008','2013-09-17 11:12:48',80,'7','9');
+INSERT INTO servertest.t_virus_outstore VALUES(860001,'Pl_009','2013-11-08 11:12:48',90,'8','2');
+INSERT INTO servertest.t_virus_outstore VALUES(870001,'Pl_009','2013-11-08 11:12:48',90,'8','2');
+INSERT INTO servertest.t_virus_outstore VALUES(880001,'Pl_009','2013-11-08 11:12:48',90,'8','5');
+INSERT INTO servertest.t_virus_outstore VALUES(890001,'Pl_009','2013-11-08 11:12:48',90,'8','5');
+INSERT INTO servertest.t_virus_outstore VALUES(900001,'Pl_009','2013-11-08 11:12:48',90,'8','8');
+INSERT INTO servertest.t_virus_outstore VALUES(910001,'Pl_010','2014-05-16 11:13:43',40,'9','2');
+INSERT INTO servertest.t_virus_outstore VALUES(920001,'Pl_010','2014-05-16 11:13:43',40,'9','1');
+INSERT INTO servertest.t_virus_outstore VALUES(930001,'Pl_010','2014-05-16 11:13:43',40,'9','3');
+INSERT INTO servertest.t_virus_outstore VALUES(940001,'Pl_010','2014-05-16 11:13:43',40,'9','4');
+INSERT INTO servertest.t_virus_outstore VALUES(950001,'Pl_010','2014-05-16 11:13:43',40,'9','3');
+INSERT INTO servertest.t_virus_outstore VALUES(960001,'Rn_001','2014-08-16 11:13:43',50,'2','9');
+INSERT INTO servertest.t_virus_outstore VALUES(970001,'Rn_001','2014-08-16 11:13:43',50,'2','1');
+INSERT INTO servertest.t_virus_outstore VALUES(980001,'Rn_001','2014-08-16 11:13:43',50,'2','8');
+INSERT INTO servertest.t_virus_outstore VALUES(990001,'Rn_001','2014-08-16 11:13:43',50,'2','7');
+INSERT INTO servertest.t_virus_outstore VALUES(1000001,'Rn_001','2014-08-16 11:13:43',50,'2','6');
+INSERT INTO servertest.t_virus_outstore VALUES(1010001,'Rn_002','2014-12-16 11:13:43',60,'1','2');
+INSERT INTO servertest.t_virus_outstore VALUES(1020001,'Rn_002','2014-12-16 11:13:43',60,'1','6');
+INSERT INTO servertest.t_virus_outstore VALUES(1030001,'Rn_002','2014-12-16 11:13:43',60,'1','7');
+INSERT INTO servertest.t_virus_outstore VALUES(1040001,'Rn_002','2014-12-16 11:13:43',60,'1','1');
+INSERT INTO servertest.t_virus_outstore VALUES(1050001,'Rn_002','2014-12-16 11:13:43',60,'1','3');
+
+七月 31, 2017 2:48:43 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:48:43 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:48:43 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:48:43 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：50249140257910047888
+七月 31, 2017 2:48:43 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:48:44 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:48:44 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:48:44 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:48:48 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:48:53 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:48:58 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:03 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:49:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:50:55 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_laboratory VALUES('10002','中国科学院武汉病毒研究所','中国科学院','微生物','P4','武汉','中国科学院武汉病毒研究所始建于1956年，是专业从事病毒学基础研究及相关技术创新的综合性研究机构。\\x0a中国科学院武汉病毒研究所针对人口健康、农业可持续发展和国家与公共安全的战略需求，依托高等级生物安全实验室团簇平台，重点开展病毒学、农业与环境微生物学及新兴生物技术等方面的基础和应用基础研究。','2008-07-17 00:00:00',NULL,114,31);
+INSERT INTO servertest.t_laboratory VALUES('100002','农业生物技术国家重点实验室','教育部','生物','P1','北京','农业微生物学国家重点实验室是依托华中农业大学，专门从事农业微生物学研究的国家级实验室。本实验室主任由中国工程院院士陈焕春教授担任，学术委员会主任由赵国屏院士担任。','2017-06-30 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('110002','农业微生物学国家重点实验室','教育部','微生物','P1','武汉','农业微生物学国家重点实验室是依托华中农业大学，专门从事农业微生物学研究的国家级实验室。本实验室主任由中国工程院院士陈焕春教授担任，学术委员会主任由赵国屏院士担任。','2010-04-22 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('120002','生物大分子国家重点实验室','中国科学院','微生物','P1','北京','生物大分子国家重点实验室[1]  依托中国科学院生物物理研究所，实验室于1989年经国家计划发展委员会和中国科学院批准成立。1991年1月通过验收并正式对外开放。邹承鲁院士任实验室名誉主任。现任实验室主任为王志新院士，黄有国研究员任常务副主任，王志珍及常文瑞研究员任副主任。学术委员会由国内本领域著名专家17人组成，杨福愉院士任主任，孙曼霁及匡廷云院士任副主任。','2014-08-07 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('130002','生物反应器工程国家重点实验室','教育部','微生物','P1','上海','生物反应器工程国家重点实验室依托华东理工大学，实验室于1989年6月作为世行贷款建设项目被国家计委批准立项建设，1995年11月通过国家验收，1996年2月正式对外开放。2001年3月通过国家科技部委托国家自然科学基金委的评估，获良好实验室。实验室主任是许建和教授，学术委员会主任是杨胜利院士。','2015-09-12 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('140002','生物膜与膜生物工程国家重点实验室','中国科学院','微生物','P1','北京','生物膜与膜生物工程国家重点实验室于1986 年九月开始筹建，1988 年正式成立，实验室隶属中国科学院动物研究所，由分别依托于国内一流科研教学单位的三个分室组成：膜生物化学与膜分子生物学分室（中国科学院动物研究所）、膜生物物理与膜生物技术分室 ( 清华大学) 、膜离子通道与受体分子生物学分室（北京大学）。生物膜与膜生物工程国家重点实验室','2013-09-21 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('150002','生物治疗国家重点实验室','教育部','生物','P1','成都','生物治疗国家重点实验室依托四川大学，实验室于2005年3月经科技部批准建设，于2007年12月经科技部验收正式成立。同时实验室也是教育部“985工程”I类科技创新平台，四川大学交叉学科研究中心。实验室占地100余亩，计划建设面积7万平方米，现已建成3.7万平方米。','2010-12-01 00:00:00',NULL,104,31);
+INSERT INTO servertest.t_laboratory VALUES('160002','实验血液学国家重点实验室','卫生部','动物','P2','天津','实验血液学国家重点实验室[1]  (SKLEH)是1988年由国家计委投资组建,1991年通过国家验收后正式运转。实验室依托单位是中国医学科学院北京协和医学院血液病医院(血液学研究所)。SKLEH从事实验血液学及相关领域的基础与转化研究，并向国内外开放。','2011-03-10 00:00:00',NULL,117,39);
+INSERT INTO servertest.t_laboratory VALUES('170002','兽医生物技术国家重点实验室','农业部','动物','P2','哈尔滨','现任实验室主任是博士生导师、兽医生物技术专家童光志研究员，实验室学术委员会主任由著名的病毒学家及兽医免疫学专家沈荣显院士担任，学术委员会由国内外同行著名专家、教授15人组成。实验室现有固定人员23人，其中高级研究人员9人，中级10人，初级及管理人员5人，具有博士学位9人，硕士学位10人。目前，全室共承担“973”、“863”，“攀登计划”、国家攻关、国家自然科学基金等30多个科研项目。','2010-07-02 00:00:00',NULL,127,46);
+INSERT INTO servertest.t_laboratory VALUES('180002','水稻生物学国家重点实验室','农业部','植物','P1','浙江','中国水稻研究所水稻生物学国家重点实验室于2003年批准建设，依托单位为中国水稻研究所和浙江大学，于2006年12月通过建设验收，并在2006年度生命科学领域国家重点实验室评估中被评为优秀实验室。实验室现有固定人员47人，其中博士生导师24名、国家杰出青年基金获得者7名、国家新世纪百千万人才5名、长江学者特聘教授2名。','2008-09-06 00:00:00',NULL,120,30);
+INSERT INTO servertest.t_laboratory VALUES('190002','天然药物与仿生药物国家重点实验室','教育部','微生物','P1','北京','天然药物及仿生药物国家重点实验室（北京大学）是首批国家重点实验室之一，1985年11月筹建，1987年12月通过验收并向国内外开放。实验室现有固定人员49人，其中包括中国科学院院士2人、教育部“长江学者奖励计划”特聘教授1人、国家杰出青年基金获得者4人。主要研究方向：（1）生物药靶的发现和确认研究；（2）以生物大分子（核酸、蛋白和糖类）为靶的药物发现研究；（3）基于天然资源的先导化合物发现与中药复杂成分的物质基础研究；（4）药物输送系统在生物体系中及治疗过程中作用规律的研究；（5）新药创制研究。','2016-02-25 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('20002','癌基因与相关基因国家重点实验室','卫生部','微生物','P3','上海','癌基因及相关基因国家重点实验室坐落于上海市肿瘤研究所和上海交通大学文选医学大楼。1985年由国家计委批准筹建，1987年通过国家验收，并同年正式对外开放。实验室实行依托单位领导下的实验室主任负责制，以“开放、流动、联合、竞争”为运行管理机制。','2009-04-01 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('200002','微生物技术国家重点实验室','教育部','微生物','P2','济南','微生物技术国家重点实验室[1]  依托山东大学，实验室是作为世界银行贷款重点学科发展项目的一个子项目，由世界银行贷款120万美元，国内配套362万元人民币投资建设的。1995年11月通过国家验收，并开始正式运行和对外开放。生物反应器工程国家重点实验室（华东理工大学）俞俊棠教授任学术委员会主任，山东大学生命科学学院院长曲音波教授任实验室主任。实验室现有工作人员28人，其中教授9人，副教授12人，讲师4人，工程技术人员3人。','2016-05-19 00:00:00',NULL,117,37);
+INSERT INTO servertest.t_laboratory VALUES('210002','微生物资源国家重点实验室','中国科学院','微生物','P2','北京','1991年12月，实验室的建设工作正式启动；1993年12月，经专家组论证、中国科学院批准，实验室正式对外开放；1995年12月，实验室通过了国家计委验收；1998年3月中国科学院对实验室进行了评估，1999年7月实验室进入了中国科学院知识创新工程；2001年6月实验室通过了国家评估。现任实验室主任为黄力研究员,学术委员会主任为魏江春院士  。','2013-05-09 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('220002','系统与进化植物学国家重点实验室','中国科学院','植物','P1','北京','系统与进化植物学国家重点实验室依托中国科学院植物研究所。实验室现有31位研究人员，包括中国科学院院士2人，研究员18人，博士生导师12人，副研究员13人；还有10位技术和管理人员。目前的在读研究生和博士后78人，已成为我国系统与进化生物学研究领域科学研究和人才培养的重要基地，同时也是国际上该领域有影响的实验室之一。现任学术委员会主任：洪德元院士；实验室主任葛颂研究员。','2011-01-18 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('230002','新药研究国家重点实验室','中国科学院','微生物','P1','上海','新药研究国家重点实验室 依托中国科学院上海药物研究所。。实验室建于1990 年，现有工作人员：21 名，其中管理人员1 名，主要仪器设备 118 台（套），占地面积 平方米，其中试验场地 1800 平方米。新药研究国家重点实验室是利用世行贷款建设的实验室，在2001年国家评估中被评为优秀实验室·','2012-08-22 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('240002','医学分子生物学国家重点实验室','卫生部','微生物','P1','北京','医学分子生物学国家重点实验室是在国家中长期科学技术发展规划指导下，结合医学研究的特点建立的。它是我国医学研究领域内唯一的一所综合性开发实验室，设在中国医学科学院基础医学研究所内。由于地处北京市中心区，又与藏书丰富、历史悠久的中国医学科学院图书馆、以及国际著名的大型综合性医院——北京协和医院毗邻，因而具备了发展医学基础研究的特殊优异环境。','2008-01-03 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('250002','医学基因组学国家重点实验室','上海市科学技术委员会','微生物','P1','上海','医学基因组学国家重点实验室依托上海交通大学（原依托单位上海第二医科大学2005年7月18日并入上海交大，现为上海交通大学医学院），实验室于2001年11月26日经科技部正式批准建设，于2003年通过验收后正式对外开放。实验室主任是陈赛娟研究员，学术委员会名誉主任是王振义研究员，中国工程院院士；学术委员会主任是陈竺研究员，中国科学院院士。','2008-01-16 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('260002','医学神经生物学国家重点实验室','教育部','生物','P1','上海','医学神经生物学国家重点实验室依托复旦大学，实验室涵盖的学科有神经生物学、神经病学、神经外科学、中西医结合基础、生理学、药理学、生物物理学等，是复旦大学“211”和“985”工程的重点建设单位，它与复旦大学脑科学研究院正在按照“两位一体”战略进行建设。实验室于 1992 年 1 月由国家计委正式批准筹建， 同时对外开放，1994 年底通过国家验收正式批准成立，首任主任是曹小定教授。','2014-03-17 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('270002','医学遗传学国家重点实验室','教育部','生物','P1','长沙','医学遗传学国家重点实验室依托中南大学，1984年卫生部通知湖南医学院夏家辉教授牵头筹建“医学遗传学国家重点实验室”，1987年10月22日由卫生部和国家计委组织专家通过论证，1989年拨款开始建设、1991年验收合格、正式向国内外开放。2014年6月，中南大学决定将生命科学学院与医学遗传学国家重点实验室合并，成立生命科学学院（医学遗传学国家重点实验室），实行一组人员、两块牌子的管理模式。','2013-04-05 00:00:00',NULL,113,28);
+INSERT INTO servertest.t_laboratory VALUES('280002','医药生物技术国家重点实验室','教育部','生物','P1','南京','医药生物技术国家重点实验室依托于南京大学，在生物化学系基础上建立起来，于1990年经国家计委批准列入国家重点实验室建设计划，1995年建成通过国家验收并正式对外开放。2001年、2006年二次通过国家科技部和自然科学基金委组织的国家重点实验室评估，获得良好的成绩。','2009-11-10 00:00:00',NULL,119,32);
+INSERT INTO servertest.t_laboratory VALUES('290002','遗传工程国家重点实验室','教育部','微生物','P1','上海','遗传工程国家重点实验室依托复旦大学，实验室是在由谈家桢院士创立的复旦大学遗传学研究所的基础上发展而来的研究实体，是我国最早建立的国家重点实验室之一。现任实验室主任为马红教授，学术委员会主任为王红阳教授。','2008-07-02 00:00:00',NULL,122,31);
+INSERT INTO servertest.t_laboratory VALUES('30002','病毒基因工程国家重点实验室','卫生部','微生物','P3','北京','病毒基因工程国家重点实验室依托中国医学科学院/北京协和医学院病原生物学研究所，实验室始建于1987年，采取边建设、边开放的方针，于1989年通过验收并正式开放运行。实验室主要从事分子病毒学和病毒基因工程的应用基础研究','2012-09-08 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('300002','有害生物控制与资源利用国家重点实验室','教育部','生物','P1','广州','有害生物控制与资源利用国家重点实验室（中山大学）依托中山大学，实验室于2004年更名，曾用名为生物防治国家重点实验室，自1989年开始筹建，于1995年通过国家验收，并正式对国内外开放。主要研究领域为农、林、卫生害虫的生物防治。','2012-07-02 00:00:00',NULL,113,23);
+INSERT INTO servertest.t_laboratory VALUES('310002','植物病虫害生物学国家重点实验室','农业部','植物','P1','北京','植物病虫害生物学国家重点实验室位于北京市海淀区圆明园西路2号，依托于中国农业科学院植物保护研究所，于1988年12月由原国家计划委员会批准建设，1992年1月23日通过国家验收，并对国内外全面开放。','2017-03-03 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('320002','植物分子遗传国家重点实验室','中国科学院','植物','P1','上海','植物分子遗传国家重点实验室依托中国科学院上海生命科学研究院，实验室于1986年科技部批准建设，1988年建成通过，1989年正式对外开放。现任实验室主任为薛红卫研究员，学术委员会主任为许智宏院士。','2011-05-25 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('330002','植物化学与西部植物资源国家重点实验室','中国科学院','植物','P1','昆明','正"植物化学与西部植物资源持续利用国家重点实验室"以我国西部地区丰富的植物资源为研究对象,开展植物化学成分的分离纯化、结构测定、生物活性与功能、结构修饰与全合成、分布及演化规律的研究;开展西部地区植物资源持续利用关键技术研究,为我国天然创新药物和中药现代化的发展以及植物资源持续利用作出贡献。','2013-06-15 00:00:00',NULL,103,25);
+INSERT INTO servertest.t_laboratory VALUES('340002','植物基因组学国家重点实验室','中国科学院','植物','P1','北京','植物基因组学国家重点实验室依托中国科学院微生物研究所、中国科学院遗传与发育生物学研究所，实验室于2003年经国家科技部批准正式成立。其前身是1990年成立的中国科学院植物生物技术开放实验室。2006年1月，实验室通过了科技部组织的国家重点实验室建设验收。','2009-04-28 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('350002','植物生理学与生物化学国家重点实验室','教育部','植物','P1','北京','植物生理学与生物化学国家重点实验室 (中国农业大学、浙江大学)依托中国农业大学，植物生理学与生物化学国家重点实验室是在原农业部中国农业大学植物生理生化开放实验室的基础上建立的。2002年1月经科技部正式批准建设，，正式进入国家重点实验室序列。2006年7月通过国家重点实验室评估。','2015-02-14 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('360002','植物细胞与染色体工程国家重点实验室','中国科学院','植物','P1','北京','植物细胞与染色体工程国家重点实验室 依托中国科学院遗传与发育生物学研究所，实验室于1989年批准建设，1992年正式对外开放，1995年通过国家验收。本实验室的依托单位为中国科学院遗传与发育生物学研究所。实验室第一任主任为中科院院士李振声，第二任主任由百人计划引进人才优秀杰出青年王道文研究员 ，现任实验室主任凌宏清研究员。17名国内著名专家学者组成 实验室学术委员会。实验室有固定人员38人，其中高级研究人员13人，中级研究人员22人，技术及管理人员3人，在读研究生130多人。','2012-09-08 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('370002','肿瘤生物学国家重点实验室','卫生部','微生物','P1','西安','肿瘤生物学国家重点实验室是在第四军医大学全军消化病研究所、全军医学重点实验室、分子生物学全军医学重点实验室、国家863计划西安细胞工程中心和第四军医大学肿瘤研究所基础上建立起来的。实验室于2005年4月通过科技部建设计划论证进入立项建设期，2006年初实验室在建设期内通过当年的全国医学重点实验室评估，2006年5月通过科技部验收，成为同批立项建设实验室中首个正式挂牌运行的国家重点实验室。','2013-03-31 00:00:00',NULL,109,34);
+INSERT INTO servertest.t_laboratory VALUES('380002','作物遗传改良国家重点实验室','教育部','植物','P1','武汉','作物遗传改良国家重点实验室依托于华中农业大学，1992年3月由国家批准建设，1994年通过国家验收并正式对外开放，分别于1996年、2001年、2006年以及2011年连续4次被评为优秀国家重点实验室，2016年被评为国家重点实验室农业组第一名。获得省部级以上奖励31项，其中国家科技进步一等奖1项，国家科技进步二等奖3项，省级一等奖8项。','2011-05-19 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('390002','作物遗传与种质创新国家重点实验室','教育部','植物','P1','南京','作物遗传与种质创新国家重点实验室依托南京农业大学，科技部于2001年10月正式批准南京农大建设作物遗传与种质创新国家重点实验室，建设期一年，目前实验室正在建设中。现任实验室主任为张天真教授，学术委员会主任为刘大钧院士。','2008-07-26 00:00:00',NULL,119,32);
+INSERT INTO servertest.t_laboratory VALUES('40002','病毒学国家重点实验室','教育部','微生物','P3','武汉','病毒学国家重点实验室于2004年11月经国家科技部批准立项，2005年3月由国家科技部批准建设。实验室主管部门为国家教育部，依托单位为武汉大学和中国科学院武汉病毒研究所。实验室学术委员会主任委员为中国工程院院士陈焕春，实验室主任为教育部长江学者特聘教授吴建国。实验室的总体定位为：病毒学基础研究及应用基础研究，旨在瞄准病毒学前沿，夯实病毒学基础，开展原创性研究；面向病毒学领域前沿，解决重大科学问题，取得标志性成果；围绕国家需求和人类健康，为防治病毒病提供技术支撑。','2013-08-24 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('50002','病原微生物生物安全国家重点实验室','卫生部','微生物','P3','北京','病原微生物生物安全国家重点实验室（中国人民解放军军事医学科学院）是病原微生物生物安全国家重点实验室依托中国人民解放军军事医学科学院，实验室由军事医学科学院微生物流行病研究所联合生物工程研究所共同组建而成的实验室，建设于2005年。','2014-02-14 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('60002','传染病预防控制国家重点实验室','卫生部','微生物','P3','北京','传染病预防控制国家重点实验室（中国疾病预防控制中心），实验室研究属于预防医学学科，依托单位为中国疾病预防控制中心（中国CDC），主管部门为卫生部。','2008-12-25 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('70002','淡水生态与生物技术国家重点实验室','中国科学院','生物','P2','武汉','淡水生态与生物技术国家重点实验室依托于中国科学院水生生物研究所，1987年8月建成。该所坐落在湖北省武汉市武昌区东郊，面对波光浩淼的东湖，背靠风景秀丽的珞珈山。所舍占地面积26公顷，生活和工作设施齐全，环境幽雅恬静，交通便利，是理想的从事科学研究和追求学业的园地。实验室先后于1996年和2001年分别被授予优秀类国家重点实验室。','2015-04-09 00:00:00',NULL,114,31);
+INSERT INTO servertest.t_laboratory VALUES('80002','计划生育生殖生物学国家重点实验室','国家人口和计划生育委员会','动物','P1','北京','计划生育生殖生物学国家重点实验室依托中国科学院动物研究所，实验室是从事计划生育生殖生物学创新研究的国家队，曾是美国Rockefeller基金会在全世界设立的七个“21世纪生殖避孕网络中心”之一，和WHO/Rockefeller基金会在全球设立的六个“胚胎植入研究中心”之一。','2017-01-22 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('90002','农业虫害鼠害研究国家重点实验室','中国科学院','动物','P2','北京','农业虫害鼠害综合治理研究国家重点实验室依托中国科学院动物研究所，实验室是利用世界银行贷款建立的。1989年6月，批准立项。1991年10月，全面开始建设。1993年10月，正式对国内外开放。1995年10月，通过验收。2001年，参加生命学科的国家重点实验室评估，评为良好类实验室。现任实验室主任为康乐研究员，学术委员会主任为王祖望研究员。','2010-11-08 00:00:00',NULL,116,40);
+
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:50:56 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：42509275018190265498
+七月 31, 2017 2:50:56 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:50:56 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:50:56 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:50:56 下午 client.ClientCode uploadFile
+信息: 耗时：14秒
+七月 31, 2017 2:51:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:51:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:51:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:51:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:51:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:20 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_laboratory WHERE id='150002';
+DELETE FROM servertest.t_laboratory WHERE id='140002';
+DELETE FROM servertest.t_laboratory WHERE id='130002';
+DELETE FROM servertest.t_laboratory WHERE id='120002';
+DELETE FROM servertest.t_laboratory WHERE id='110002';
+DELETE FROM servertest.t_laboratory WHERE id='100002';
+DELETE FROM servertest.t_laboratory WHERE id='90002';
+DELETE FROM servertest.t_laboratory WHERE id='80002';
+DELETE FROM servertest.t_laboratory WHERE id='70002';
+DELETE FROM servertest.t_laboratory WHERE id='60002';
+DELETE FROM servertest.t_laboratory WHERE id='50002';
+DELETE FROM servertest.t_laboratory WHERE id='40002';
+DELETE FROM servertest.t_laboratory WHERE id='30002';
+DELETE FROM servertest.t_laboratory WHERE id='20002';
+DELETE FROM servertest.t_laboratory WHERE id='10002';
+
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:54:21 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：57068881309344895517
+七月 31, 2017 2:54:21 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:54:21 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:54:21 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:54:21 下午 client.ClientCode uploadFile
+信息: 耗时：6秒
+七月 31, 2017 2:54:25 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_laboratory VALUES('10002','病毒学国家重点实验室','教育部','微生物','P3','武汉','病毒学国家重点实验室于2004年11月经国家科技部批准立项，2005年3月由国家科技部批准建设。实验室主管部门为国家教育部，依托单位为武汉大学和中国科学院武汉病毒研究所。实验室学术委员会主任委员为中国工程院院士陈焕春，实验室主任为教育部长江学者特聘教授吴建国。实验室的总体定位为：病毒学基础研究及应用基础研究，旨在瞄准病毒学前沿，夯实病毒学基础，开展原创性研究；面向病毒学领域前沿，解决重大科学问题，取得标志性成果；围绕国家需求和人类健康，为防治病毒病提供技术支撑。','2013-08-24 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('20002','农业生物技术国家重点实验室','教育部','生物','P1','北京','农业微生物学国家重点实验室是依托华中农业大学，专门从事农业微生物学研究的国家级实验室。本实验室主任由中国工程院院士陈焕春教授担任，学术委员会主任由赵国屏院士担任。','2017-06-30 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('30002','农业微生物学国家重点实验室','教育部','微生物','P1','武汉','农业微生物学国家重点实验室是依托华中农业大学，专门从事农业微生物学研究的国家级实验室。本实验室主任由中国工程院院士陈焕春教授担任，学术委员会主任由赵国屏院士担任。','2010-04-22 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('40002','生物反应器工程国家重点实验室','教育部','微生物','P1','上海','生物反应器工程国家重点实验室依托华东理工大学，实验室于1989年6月作为世行贷款建设项目被国家计委批准立项建设，1995年11月通过国家验收，1996年2月正式对外开放。2001年3月通过国家科技部委托国家自然科学基金委的评估，获良好实验室。实验室主任是许建和教授，学术委员会主任是杨胜利院士。','2015-09-12 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('50002','生物治疗国家重点实验室','教育部','生物','P1','成都','生物治疗国家重点实验室依托四川大学，实验室于2005年3月经科技部批准建设，于2007年12月经科技部验收正式成立。同时实验室也是教育部“985工程”I类科技创新平台，四川大学交叉学科研究中心。实验室占地100余亩，计划建设面积7万平方米，现已建成3.7万平方米。','2010-12-01 00:00:00',NULL,104,31);
+INSERT INTO servertest.t_laboratory VALUES('60002','天然药物与仿生药物国家重点实验室','教育部','微生物','P1','北京','天然药物及仿生药物国家重点实验室（北京大学）是首批国家重点实验室之一，1985年11月筹建，1987年12月通过验收并向国内外开放。实验室现有固定人员49人，其中包括中国科学院院士2人、教育部“长江学者奖励计划”特聘教授1人、国家杰出青年基金获得者4人。主要研究方向：（1）生物药靶的发现和确认研究；（2）以生物大分子（核酸、蛋白和糖类）为靶的药物发现研究；（3）基于天然资源的先导化合物发现与中药复杂成分的物质基础研究；（4）药物输送系统在生物体系中及治疗过程中作用规律的研究；（5）新药创制研究。','2016-02-25 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('70002','微生物技术国家重点实验室','教育部','微生物','P2','济南','微生物技术国家重点实验室[1]  依托山东大学，实验室是作为世界银行贷款重点学科发展项目的一个子项目，由世界银行贷款120万美元，国内配套362万元人民币投资建设的。1995年11月通过国家验收，并开始正式运行和对外开放。生物反应器工程国家重点实验室（华东理工大学）俞俊棠教授任学术委员会主任，山东大学生命科学学院院长曲音波教授任实验室主任。实验室现有工作人员28人，其中教授9人，副教授12人，讲师4人，工程技术人员3人。','2016-05-19 00:00:00',NULL,117,37);
+INSERT INTO servertest.t_laboratory VALUES('80002','医学神经生物学国家重点实验室','教育部','生物','P1','上海','医学神经生物学国家重点实验室依托复旦大学，实验室涵盖的学科有神经生物学、神经病学、神经外科学、中西医结合基础、生理学、药理学、生物物理学等，是复旦大学“211”和“985”工程的重点建设单位，它与复旦大学脑科学研究院正在按照“两位一体”战略进行建设。实验室于 1992 年 1 月由国家计委正式批准筹建， 同时对外开放，1994 年底通过国家验收正式批准成立，首任主任是曹小定教授。','2014-03-17 00:00:00',NULL,121,31);
+INSERT INTO servertest.t_laboratory VALUES('90002','医学遗传学国家重点实验室','教育部','生物','P1','长沙','医学遗传学国家重点实验室依托中南大学，1984年卫生部通知湖南医学院夏家辉教授牵头筹建“医学遗传学国家重点实验室”，1987年10月22日由卫生部和国家计委组织专家通过论证，1989年拨款开始建设、1991年验收合格、正式向国内外开放。2014年6月，中南大学决定将生命科学学院与医学遗传学国家重点实验室合并，成立生命科学学院（医学遗传学国家重点实验室），实行一组人员、两块牌子的管理模式。','2013-04-05 00:00:00',NULL,113,28);
+INSERT INTO servertest.t_laboratory VALUES('100002','医药生物技术国家重点实验室','教育部','生物','P1','南京','医药生物技术国家重点实验室依托于南京大学，在生物化学系基础上建立起来，于1990年经国家计委批准列入国家重点实验室建设计划，1995年建成通过国家验收并正式对外开放。2001年、2006年二次通过国家科技部和自然科学基金委组织的国家重点实验室评估，获得良好的成绩。','2009-11-10 00:00:00',NULL,119,32);
+INSERT INTO servertest.t_laboratory VALUES('110002','遗传工程国家重点实验室','教育部','微生物','P1','上海','遗传工程国家重点实验室依托复旦大学，实验室是在由谈家桢院士创立的复旦大学遗传学研究所的基础上发展而来的研究实体，是我国最早建立的国家重点实验室之一。现任实验室主任为马红教授，学术委员会主任为王红阳教授。','2008-07-02 00:00:00',NULL,122,31);
+INSERT INTO servertest.t_laboratory VALUES('120002','有害生物控制与资源利用国家重点实验室','教育部','生物','P1','广州','有害生物控制与资源利用国家重点实验室（中山大学）依托中山大学，实验室于2004年更名，曾用名为生物防治国家重点实验室，自1989年开始筹建，于1995年通过国家验收，并正式对国内外开放。主要研究领域为农、林、卫生害虫的生物防治。','2012-07-02 00:00:00',NULL,113,23);
+INSERT INTO servertest.t_laboratory VALUES('130002','植物生理学与生物化学国家重点实验室','教育部','植物','P1','北京','植物生理学与生物化学国家重点实验室 (中国农业大学、浙江大学)依托中国农业大学，植物生理学与生物化学国家重点实验室是在原农业部中国农业大学植物生理生化开放实验室的基础上建立的。2002年1月经科技部正式批准建设，，正式进入国家重点实验室序列。2006年7月通过国家重点实验室评估。','2015-02-14 00:00:00',NULL,116,40);
+INSERT INTO servertest.t_laboratory VALUES('140002','作物遗传改良国家重点实验室','教育部','植物','P1','武汉','作物遗传改良国家重点实验室依托于华中农业大学，1992年3月由国家批准建设，1994年通过国家验收并正式对外开放，分别于1996年、2001年、2006年以及2011年连续4次被评为优秀国家重点实验室，2016年被评为国家重点实验室农业组第一名。获得省部级以上奖励31项，其中国家科技进步一等奖1项，国家科技进步二等奖3项，省级一等奖8项。','2011-05-19 00:00:00',NULL,114,30);
+INSERT INTO servertest.t_laboratory VALUES('150002','作物遗传与种质创新国家重点实验室','教育部','植物','P1','南京','作物遗传与种质创新国家重点实验室依托南京农业大学，科技部于2001年10月正式批准南京农大建设作物遗传与种质创新国家重点实验室，建设期一年，目前实验室正在建设中。现任实验室主任为张天真教授，学术委员会主任为刘大钧院士。','2008-07-26 00:00:00',NULL,119,32);
+
+七月 31, 2017 2:54:25 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:54:25 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:54:25 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:54:25 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：10331813396314370888
+七月 31, 2017 2:54:25 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:54:26 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:54:26 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:54:26 下午 client.ClientCode uploadFile
+信息: 耗时：9秒
+七月 31, 2017 2:54:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:54:55 下午 client.LogToSql sqlToSql
+信息: UPDATE servertest.t_virus SET c_name='λ噬菌体',e_name='λ-phage',level='BSL-2',type='细菌病毒',lab_id='7'  WHERE id='Vi_0050002';
+
+七月 31, 2017 2:54:55 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:54:55 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:54:55 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:54:55 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：25749315371272138056
+七月 31, 2017 2:54:55 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:54:56 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:54:56 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:54:56 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:55:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:55:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:05 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='an_0080002';
+
+七月 31, 2017 2:56:05 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:05 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:05 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:56:05 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：68941678196958702807
+七月 31, 2017 2:56:05 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:06 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:56:06 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:56:06 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:56:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:25 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='Vi_0060002';
+DELETE FROM servertest.t_virus WHERE id='Vi_0050002';
+DELETE FROM servertest.t_virus WHERE id='Vi_0040002';
+DELETE FROM servertest.t_virus WHERE id='Vi_0030002';
+DELETE FROM servertest.t_virus WHERE id='Vi_0020002';
+DELETE FROM servertest.t_virus WHERE id='Vi_0010002';
+
+七月 31, 2017 2:56:25 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:25 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:25 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:56:25 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：32390873597260766194
+七月 31, 2017 2:56:25 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:26 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:56:26 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:56:26 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:56:30 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='Ro_0070002';
+DELETE FROM servertest.t_virus WHERE id='Ro_0060002';
+DELETE FROM servertest.t_virus WHERE id='Ro_0050002';
+DELETE FROM servertest.t_virus WHERE id='Ro_0040002';
+DELETE FROM servertest.t_virus WHERE id='Ro_0030002';
+DELETE FROM servertest.t_virus WHERE id='Ro_0020002';
+DELETE FROM servertest.t_virus WHERE id='Ro_0010002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0120002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0110002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0100002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0090002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0080002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0070002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0060002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0050002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0040002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0030002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0020002';
+DELETE FROM servertest.t_virus WHERE id='Rn_0010002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0100002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0090002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0080002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0070002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0060002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0050002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0040002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0030002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0020002';
+DELETE FROM servertest.t_virus WHERE id='Pl_0010002';
+DELETE FROM servertest.t_virus WHERE id='Dn_0020002';
+DELETE FROM servertest.t_virus WHERE id='Dn_0010002';
+DELETE FROM servertest.t_virus WHERE id='an_0070002';
+DELETE FROM servertest.t_virus WHERE id='an_0060002';
+DELETE FROM servertest.t_virus WHERE id='an_0050002';
+DELETE FROM servertest.t_virus WHERE id='an_0040002';
+DELETE FROM servertest.t_virus WHERE id='an_0030002';
+DELETE FROM servertest.t_virus WHERE id='an_0020002';
+DELETE FROM servertest.t_virus WHERE id='an_0010002';
+
+七月 31, 2017 2:56:30 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:30 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:30 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:56:30 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：33042121383864361248
+七月 31, 2017 2:56:30 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:31 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:56:31 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:56:31 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:56:35 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('an_0010002','痘病毒科','Poxviridae','BSL-1','动物病毒','1');
+INSERT INTO servertest.t_virus VALUES('an_0020002','非洲猪瘟病毒','African swine fever virus','BSL-3','动物病毒','1');
+INSERT INTO servertest.t_virus VALUES('an_0030002','长鼻动物病毒','Proboscivirus','BSL-4','动物病毒','2');
+INSERT INTO servertest.t_virus VALUES('an_0040002','猪圆环病毒1型','Porcine circovirus 1','BSL-2','动物病毒','12');
+INSERT INTO servertest.t_virus VALUES('an_0050002','呼肠孤病毒','Reoviridae','BSL-1','动物病毒','13');
+INSERT INTO servertest.t_virus VALUES('an_0060002','萨比亚病毒','Sabiá virus','BSL-2','动物病毒','4');
+INSERT INTO servertest.t_virus VALUES('an_0070002','披膜病毒','Togaviridae','BSL-2','动物病毒','1');
+INSERT INTO servertest.t_virus VALUES('Dn_0010002','天花病毒','Smallpox','BSL-1','DNA病毒','9');
+INSERT INTO servertest.t_virus VALUES('Dn_0020002','花椰菜花叶病毒','Cauliflower mosaic virus ','BSL-1','DNA病毒','2');
+INSERT INTO servertest.t_virus VALUES('Pl_0010002','郁金香碎色花病毒','Tulipa virus ','BSL-4','植物病毒','11');
+INSERT INTO servertest.t_virus VALUES('Pl_0020002','大蒜E病毒','GMV','BSL-4','植物病毒','13');
+INSERT INTO servertest.t_virus VALUES('Pl_0030002','柑橘裂皮类病毒','Citrus scaly butt disease','BSL-3','植物病毒','7');
+INSERT INTO servertest.t_virus VALUES('Pl_0040002','鹗梨日斑类病毒','Avocado sunblotch viroid ','BSL-4','植物病毒','11');
+INSERT INTO servertest.t_virus VALUES('Pl_0050002','栎叶圆斑病','Ceratocystis fagacearum','BSL-4','植物病毒','8');
+INSERT INTO servertest.t_virus VALUES('Pl_0060002','花叶病毒','Mosaic virus','BSL-3','植物病毒','1');
+INSERT INTO servertest.t_virus VALUES('Pl_0070002','牡丹环斑病毒','Peony ringspot virus','BSL-3','植物病毒','9');
+INSERT INTO servertest.t_virus VALUES('Pl_0080002','烟草脆裂病毒','Tobacco rattle virus','BSL-3','植物病毒','4');
+INSERT INTO servertest.t_virus VALUES('Pl_0090002','牡丹曲叶病毒','Peony leaf curl virus','BSL-3','植物病毒','3');
+INSERT INTO servertest.t_virus VALUES('Pl_0100002','百合丛生病毒','Lily symptomless virus ','BSL-3','植物病毒','2');
+INSERT INTO servertest.t_virus VALUES('Rn_0010002','乙型脑炎病毒','Japanese encephalitisvirus','BSL-1','RNA病毒','2');
+INSERT INTO servertest.t_virus VALUES('Rn_0020002','登革病毒','Dengue virus','BSL-1','RNA病毒','13');
+INSERT INTO servertest.t_virus VALUES('Rn_0030002','森林脑炎病毒','Russian spring-summer encephalitis virus','BSL-1','RNA病毒','3');
+INSERT INTO servertest.t_virus VALUES('Rn_0040002','艾滋病病毒','Human Immunodeficiency Virus','BSL-1','RNA病毒','12');
+INSERT INTO servertest.t_virus VALUES('Rn_0050002','烟草花叶病毒','Tobacco mosaic virus','BSL-1','RNA病毒','6');
+INSERT INTO servertest.t_virus VALUES('Rn_0060002','SARS 病毒','SARS','BSL-1','RNA病毒','4');
+INSERT INTO servertest.t_virus VALUES('Rn_0070002','MERS病毒','Middle East Respiratory Syndrome','BSL-1','RNA病毒','4');
+INSERT INTO servertest.t_virus VALUES('Rn_0080002','埃博拉病毒','Ebola virus','BSL-1','RNA病毒','2');
+INSERT INTO servertest.t_virus VALUES('Rn_0090002','流感病毒','Influenza virus','BSL-1','RNA病毒','7');
+INSERT INTO servertest.t_virus VALUES('Rn_0100002','甲型H1N1流感病毒','H1N1','BSL-1','RNA病毒','8');
+INSERT INTO servertest.t_virus VALUES('Rn_0110002','噬菌体','Phage ','BSL-1','RNA病毒','7');
+INSERT INTO servertest.t_virus VALUES('Rn_0120002','禽流感病毒','AIV','BSL-1','RNA病毒','8');
+INSERT INTO servertest.t_virus VALUES('Ro_0010002','茶小卷叶蛾颗粒体病毒','Adoxophes priuitana granulovirus','BSL-1','杆状病毒','7');
+INSERT INTO servertest.t_virus VALUES('Ro_0020002','黄地老虎颗粒体病毒','Agrotis segetum granulovirus','BSL-1','杆状病毒','4');
+INSERT INTO servertest.t_virus VALUES('Ro_0030002','茶蚕颗粒体病毒','Andraca bipunctata granulovirus','BSL-1','杆状病毒','8');
+INSERT INTO servertest.t_virus VALUES('Ro_0040002','警纹鸣夜蛾颗粒体病毒','Agrotis exclamationis granulovirus','BSL-1','杆状病毒','7');
+INSERT INTO servertest.t_virus VALUES('Ro_0050002','竹斑蛾颗粒体病毒','Artona funeralis bulter granulovirus','BSL-1','杆状病毒','10');
+INSERT INTO servertest.t_virus VALUES('Ro_0060002','扬扇舟蛾颗粒体病毒 TM株','Clostera anachoreta granulovirus TM','BSL-1','杆状病毒','9');
+INSERT INTO servertest.t_virus VALUES('Ro_0070002','扬扇舟蛾颗粒体病毒 TA株','Clostera anachoreta granulovirus TA','BSL-1','杆状病毒','12');
+INSERT INTO servertest.t_virus VALUES('Vi_0010002','T2噬菌体','T2-phage','BSL-2','细菌病毒','2');
+INSERT INTO servertest.t_virus VALUES('Vi_0020002','T4菌体','T4-phage','BSL-2','细菌病毒','2');
+INSERT INTO servertest.t_virus VALUES('Vi_0030002','T5噬菌体','T5-phage','BSL-2','细菌病毒','6');
+INSERT INTO servertest.t_virus VALUES('Vi_0040002','T7噬菌体','T6-phage','BSL-4','细菌病毒','4');
+INSERT INTO servertest.t_virus VALUES('Vi_0050002','λ噬菌体','λ-phage','BSL-2','细菌病毒','7');
+INSERT INTO servertest.t_virus VALUES('Vi_0060002','P22噬菌体','P22-phage','BSL-4','细菌病毒','15');
+
+七月 31, 2017 2:56:35 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:56:35 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:56:35 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:56:35 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：29421524621836406646
+七月 31, 2017 2:56:35 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:56:36 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:56:36 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:56:36 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:56:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:56:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:25 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_destroy WHERE id=440002;
+DELETE FROM servertest.t_virus_destroy WHERE id=430002;
+DELETE FROM servertest.t_virus_destroy WHERE id=420002;
+DELETE FROM servertest.t_virus_destroy WHERE id=410002;
+DELETE FROM servertest.t_virus_destroy WHERE id=400002;
+DELETE FROM servertest.t_virus_destroy WHERE id=390002;
+DELETE FROM servertest.t_virus_destroy WHERE id=380002;
+DELETE FROM servertest.t_virus_destroy WHERE id=370002;
+DELETE FROM servertest.t_virus_destroy WHERE id=360002;
+DELETE FROM servertest.t_virus_destroy WHERE id=350002;
+DELETE FROM servertest.t_virus_destroy WHERE id=340002;
+DELETE FROM servertest.t_virus_destroy WHERE id=330002;
+DELETE FROM servertest.t_virus_destroy WHERE id=320002;
+DELETE FROM servertest.t_virus_destroy WHERE id=310002;
+DELETE FROM servertest.t_virus_destroy WHERE id=300002;
+DELETE FROM servertest.t_virus_destroy WHERE id=290002;
+DELETE FROM servertest.t_virus_destroy WHERE id=280002;
+DELETE FROM servertest.t_virus_destroy WHERE id=270002;
+DELETE FROM servertest.t_virus_destroy WHERE id=260002;
+DELETE FROM servertest.t_virus_destroy WHERE id=250002;
+DELETE FROM servertest.t_virus_destroy WHERE id=240002;
+DELETE FROM servertest.t_virus_destroy WHERE id=230002;
+DELETE FROM servertest.t_virus_destroy WHERE id=220002;
+DELETE FROM servertest.t_virus_destroy WHERE id=210002;
+DELETE FROM servertest.t_virus_destroy WHERE id=200002;
+DELETE FROM servertest.t_virus_destroy WHERE id=190002;
+DELETE FROM servertest.t_virus_destroy WHERE id=180002;
+DELETE FROM servertest.t_virus_destroy WHERE id=170002;
+DELETE FROM servertest.t_virus_destroy WHERE id=160002;
+DELETE FROM servertest.t_virus_destroy WHERE id=150002;
+DELETE FROM servertest.t_virus_destroy WHERE id=140002;
+DELETE FROM servertest.t_virus_destroy WHERE id=130002;
+
+七月 31, 2017 2:57:25 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:57:25 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:57:25 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:57:25 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：56882385201900708925
+七月 31, 2017 2:57:25 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:57:26 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:57:26 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:57:26 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:57:30 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_destroy WHERE id=120002;
+DELETE FROM servertest.t_virus_destroy WHERE id=110002;
+DELETE FROM servertest.t_virus_destroy WHERE id=100002;
+DELETE FROM servertest.t_virus_destroy WHERE id=90002;
+DELETE FROM servertest.t_virus_destroy WHERE id=80002;
+DELETE FROM servertest.t_virus_destroy WHERE id=70002;
+DELETE FROM servertest.t_virus_destroy WHERE id=60002;
+DELETE FROM servertest.t_virus_destroy WHERE id=50002;
+DELETE FROM servertest.t_virus_destroy WHERE id=40002;
+DELETE FROM servertest.t_virus_destroy WHERE id=30002;
+DELETE FROM servertest.t_virus_destroy WHERE id=20002;
+DELETE FROM servertest.t_virus_destroy WHERE id=10002;
+
+七月 31, 2017 2:57:30 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:57:30 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:57:30 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:57:30 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：06621711935310917580
+七月 31, 2017 2:57:30 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:57:31 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:57:31 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:57:31 下午 client.ClientCode uploadFile
+信息: 耗时：0秒
+七月 31, 2017 2:57:35 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_destroy VALUES(10002,'an_001','2011-07-30 14:47:52',5,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(20002,'an_002','2011-05-04 14:49:08',3,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(30002,'an_003','2013-12-20 14:50:01',6,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(40002,'an_004','2015-10-03 14:50:37',1,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(50002,'an_005','2017-12-31 14:52:02',1,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(60002,'an_006','2015-03-12 14:52:40',5,'13');
+INSERT INTO servertest.t_virus_destroy VALUES(70002,'an_007','2015-02-06 14:53:35',1,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(80002,'Dn_001','2017-05-18 14:54:08',7,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(90002,'Dn_002','2017-01-22 14:54:43',10,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(100002,'Pl_001','2017-12-14 14:55:21',4,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(110002,'Pl_002','2016-10-01 14:56:00',10,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(120002,'Pl_003','2013-02-07 15:12:12',15,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(130002,'Pl_004','2011-11-16 15:12:20',8,'10');
+INSERT INTO servertest.t_virus_destroy VALUES(140002,'Pl_005','2012-03-07 15:12:56',4,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(150002,'Pl_006','2017-10-05 15:13:11',2,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(160002,'Pl_007','2014-02-06 15:13:55',4,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(170002,'Pl_008','2015-07-17 15:14:17',10,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(180002,'Pl_009','2015-07-09 15:14:36',3,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(190002,'Pl_010','2016-11-09 15:14:54',4,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(200002,'Rn_001','2017-05-12 15:15:22',4,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(210002,'Rn_002','2017-12-31 15:15:33',1,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(220002,'Rn_003','2015-01-24 15:15:44',3,'7');
+INSERT INTO servertest.t_virus_destroy VALUES(230002,'Rn_004','2016-10-17 15:16:03',2,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(240002,'Rn_005','2011-03-02 15:16:23',23,'12');
+INSERT INTO servertest.t_virus_destroy VALUES(250002,'Rn_006','2011-07-11 15:16:38',10,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(260002,'Rn_007','2014-02-05 15:16:51',5,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(270002,'Rn_008','2014-03-05 15:17:49',10,'13');
+INSERT INTO servertest.t_virus_destroy VALUES(280002,'Rn_009','2016-04-07 15:18:00',10,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(290002,'Rn_010','2015-12-01 15:18:33',100,'12');
+INSERT INTO servertest.t_virus_destroy VALUES(300002,'Rn_011','2016-10-01 15:19:09',100,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(310002,'Rn_012','2017-04-07 15:19:27',200,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(320002,'Ro_001','2017-05-12 15:19:42',150,'11');
+INSERT INTO servertest.t_virus_destroy VALUES(330002,'Ro_002','2011-07-11 15:19:52',1000,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(340002,'Ro_003','2017-12-15 15:20:21',50,'8');
+INSERT INTO servertest.t_virus_destroy VALUES(350002,'Ro_004','2017-03-16 15:20:35',17,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(360002,'Ro_005','2017-11-25 15:20:44',25,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(370002,'Ro_006','2014-06-06 15:20:56',50,'1');
+INSERT INTO servertest.t_virus_destroy VALUES(380002,'Ro_007','2016-03-03 15:21:13',100,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(390002,'Vi_001','2017-09-02 15:21:30',20,'4');
+INSERT INTO servertest.t_virus_destroy VALUES(400002,'Vi_002','2016-06-21 15:21:39',70,'9');
+INSERT INTO servertest.t_virus_destroy VALUES(410002,'Vi_003','2015-10-03 15:22:01',5,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(420002,'Vi_004','2017-06-09 15:22:34',12,'10');
+INSERT INTO servertest.t_virus_destroy VALUES(430002,'Vi_005','2017-11-30 15:22:59',20,'2');
+INSERT INTO servertest.t_virus_destroy VALUES(440002,'Vi_006','2017-12-28 15:23:13',35,'1');
+
+七月 31, 2017 2:57:35 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:57:35 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:57:35 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:57:35 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：10853041071149853761
+七月 31, 2017 2:57:36 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:57:36 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:57:36 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:57:36 下午 client.ClientCode uploadFile
+信息: 耗时：3秒
+七月 31, 2017 2:57:40 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:45 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:50 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:57:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:58:00 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_instore WHERE id=450002;
+DELETE FROM servertest.t_virus_instore WHERE id=440002;
+DELETE FROM servertest.t_virus_instore WHERE id=430002;
+DELETE FROM servertest.t_virus_instore WHERE id=420002;
+DELETE FROM servertest.t_virus_instore WHERE id=410002;
+DELETE FROM servertest.t_virus_instore WHERE id=400002;
+DELETE FROM servertest.t_virus_instore WHERE id=390002;
+DELETE FROM servertest.t_virus_instore WHERE id=380002;
+DELETE FROM servertest.t_virus_instore WHERE id=370002;
+DELETE FROM servertest.t_virus_instore WHERE id=360002;
+DELETE FROM servertest.t_virus_instore WHERE id=350002;
+DELETE FROM servertest.t_virus_instore WHERE id=340002;
+DELETE FROM servertest.t_virus_instore WHERE id=330002;
+DELETE FROM servertest.t_virus_instore WHERE id=320002;
+DELETE FROM servertest.t_virus_instore WHERE id=310002;
+DELETE FROM servertest.t_virus_instore WHERE id=300002;
+DELETE FROM servertest.t_virus_instore WHERE id=290002;
+DELETE FROM servertest.t_virus_instore WHERE id=280002;
+DELETE FROM servertest.t_virus_instore WHERE id=270002;
+DELETE FROM servertest.t_virus_instore WHERE id=260002;
+DELETE FROM servertest.t_virus_instore WHERE id=250002;
+DELETE FROM servertest.t_virus_instore WHERE id=240002;
+DELETE FROM servertest.t_virus_instore WHERE id=230002;
+DELETE FROM servertest.t_virus_instore WHERE id=220002;
+DELETE FROM servertest.t_virus_instore WHERE id=210002;
+
+七月 31, 2017 2:58:00 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:00 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:00 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:58:00 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：43520658691743121151
+七月 31, 2017 2:58:00 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:01 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:58:01 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:58:01 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:58:05 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_instore WHERE id=200002;
+DELETE FROM servertest.t_virus_instore WHERE id=190002;
+DELETE FROM servertest.t_virus_instore WHERE id=180002;
+DELETE FROM servertest.t_virus_instore WHERE id=170002;
+DELETE FROM servertest.t_virus_instore WHERE id=160002;
+DELETE FROM servertest.t_virus_instore WHERE id=150002;
+DELETE FROM servertest.t_virus_instore WHERE id=140002;
+DELETE FROM servertest.t_virus_instore WHERE id=130002;
+DELETE FROM servertest.t_virus_instore WHERE id=120002;
+DELETE FROM servertest.t_virus_instore WHERE id=110002;
+DELETE FROM servertest.t_virus_instore WHERE id=100002;
+DELETE FROM servertest.t_virus_instore WHERE id=90002;
+DELETE FROM servertest.t_virus_instore WHERE id=80002;
+DELETE FROM servertest.t_virus_instore WHERE id=70002;
+DELETE FROM servertest.t_virus_instore WHERE id=60002;
+DELETE FROM servertest.t_virus_instore WHERE id=50002;
+DELETE FROM servertest.t_virus_instore WHERE id=40002;
+DELETE FROM servertest.t_virus_instore WHERE id=30002;
+DELETE FROM servertest.t_virus_instore WHERE id=20002;
+DELETE FROM servertest.t_virus_instore WHERE id=10002;
+INSERT INTO servertest.t_virus_instore VALUES(10002,'an_001','2008-01-22 11:01:09',240,'1');
+INSERT INTO servertest.t_virus_instore VALUES(20002,'an_002','2008-02-12 11:02:34',300,'2');
+INSERT INTO servertest.t_virus_instore VALUES(30002,'an_003','2008-03-11 11:03:06',360,'3');
+INSERT INTO servertest.t_virus_instore VALUES(40002,'an_004','2009-01-08 11:03:51',420,'4');
+INSERT INTO servertest.t_virus_instore VALUES(50002,'an_005','2009-01-22 11:03:51',480,'5');
+INSERT INTO servertest.t_virus_instore VALUES(60002,'an_006','2009-02-22 11:03:51',540,'6');
+INSERT INTO servertest.t_virus_instore VALUES(70002,'an_007','2010-01-18 11:06:13',240,'7');
+INSERT INTO servertest.t_virus_instore VALUES(80002,'Dn_001','2010-02-18 11:06:13',300,'8');
+INSERT INTO servertest.t_virus_instore VALUES(90002,'Dn_002','2010-03-18 11:06:13',360,'9');
+INSERT INTO servertest.t_virus_instore VALUES(100002,'Pl_001','2011-01-01 11:08:08',420,'10');
+INSERT INTO servertest.t_virus_instore VALUES(110002,'Pl_002','2011-02-01 11:08:08',480,'11');
+INSERT INTO servertest.t_virus_instore VALUES(120002,'Pl_003','2011-03-01 11:08:08',540,'12');
+INSERT INTO servertest.t_virus_instore VALUES(130002,'Pl_004','2012-01-01 11:09:53',240,'13');
+INSERT INTO servertest.t_virus_instore VALUES(140002,'Pl_005','2012-03-14 11:10:38',300,'14');
+INSERT INTO servertest.t_virus_instore VALUES(150002,'Pl_006','2012-02-17 11:11:16',360,'15');
+INSERT INTO servertest.t_virus_instore VALUES(160002,'Pl_007','2013-01-23 11:11:53',420,'6');
+INSERT INTO servertest.t_virus_instore VALUES(170002,'Pl_008','2013-02-17 11:12:48',480,'7');
+INSERT INTO servertest.t_virus_instore VALUES(180002,'Pl_009','2013-03-17 11:12:48',540,'8');
+INSERT INTO servertest.t_virus_instore VALUES(190002,'Pl_010','2014-01-16 11:13:43',240,'9');
+INSERT INTO servertest.t_virus_instore VALUES(200002,'Rn_001','2014-02-16 11:13:43',300,'2');
+INSERT INTO servertest.t_virus_instore VALUES(210002,'Rn_002','2014-03-16 11:13:43',360,'1');
+INSERT INTO servertest.t_virus_instore VALUES(220002,'Rn_003','2013-07-18 11:15:07',4,'2');
+INSERT INTO servertest.t_virus_instore VALUES(230002,'Rn_004','2015-05-08 11:15:32',9,'3');
+
+七月 31, 2017 2:58:05 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:05 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:05 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:58:05 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：91797987504576022694
+七月 31, 2017 2:58:06 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:06 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:58:06 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:58:06 下午 client.ClientCode uploadFile
+信息: 耗时：2秒
+七月 31, 2017 2:58:10 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_instore VALUES(240002,'Rn_005','2009-05-08 11:15:57',23,'4');
+INSERT INTO servertest.t_virus_instore VALUES(250002,'Rn_006','2010-06-11 11:16:32',12,'5');
+INSERT INTO servertest.t_virus_instore VALUES(260002,'Rn_007','2011-07-23 11:16:58',10,'6');
+INSERT INTO servertest.t_virus_instore VALUES(270002,'Rn_008','2012-08-17 11:17:28',31,'7');
+INSERT INTO servertest.t_virus_instore VALUES(280002,'Rn_009','2013-09-20 11:17:58',43,'8');
+INSERT INTO servertest.t_virus_instore VALUES(290002,'Rn_010','2010-10-17 11:18:58',100,'9');
+INSERT INTO servertest.t_virus_instore VALUES(300002,'Rn_011','2015-11-20 11:19:44',200,'3');
+INSERT INTO servertest.t_virus_instore VALUES(310002,'Rn_012','2016-12-23 11:20:11',300,'1');
+INSERT INTO servertest.t_virus_instore VALUES(320002,'Ro_001','2017-01-22 11:20:55',400,'2');
+INSERT INTO servertest.t_virus_instore VALUES(330002,'Ro_002','2008-03-08 11:23:22',1000,'3');
+INSERT INTO servertest.t_virus_instore VALUES(340002,'Ro_003','2017-11-08 11:24:12',400,'4');
+INSERT INTO servertest.t_virus_instore VALUES(350002,'Ro_004','2016-10-15 11:24:51',34,'5');
+INSERT INTO servertest.t_virus_instore VALUES(360002,'Ro_005','2017-07-05 11:25:04',50,'6');
+INSERT INTO servertest.t_virus_instore VALUES(370002,'Ro_006','2012-08-17 11:25:21',60,'7');
+INSERT INTO servertest.t_virus_instore VALUES(380002,'Ro_007','2014-08-17 11:26:37',250,'8');
+INSERT INTO servertest.t_virus_instore VALUES(390002,'Vi_001','2017-06-14 11:26:49',43,'9');
+INSERT INTO servertest.t_virus_instore VALUES(400002,'Vi_002','2015-05-12 11:27:03',76,'1');
+INSERT INTO servertest.t_virus_instore VALUES(410002,'Vi_003','2015-04-22 11:27:35',23,'2');
+INSERT INTO servertest.t_virus_instore VALUES(420002,'Vi_004','2017-03-27 11:27:51',12,'3');
+INSERT INTO servertest.t_virus_instore VALUES(430002,'Vi_005','2017-07-11 11:28:07',56,'4');
+INSERT INTO servertest.t_virus_instore VALUES(440002,'Vi_006','2017-07-11 11:28:12',65,'5');
+INSERT INTO servertest.t_virus_instore VALUES(450002,'an_008','2008-01-22 09:15:16',200,'2');
+
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:10 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：67519939505509752426
+七月 31, 2017 2:58:10 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:11 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:58:11 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:58:11 下午 client.ClientCode uploadFile
+信息: 耗时：0秒
+七月 31, 2017 2:58:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:58:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:58:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:58:30 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:58:35 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:58:40 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_outstore WHERE id=1050002;
+DELETE FROM servertest.t_virus_outstore WHERE id=1040002;
+DELETE FROM servertest.t_virus_outstore WHERE id=1030002;
+DELETE FROM servertest.t_virus_outstore WHERE id=1020002;
+DELETE FROM servertest.t_virus_outstore WHERE id=1010002;
+DELETE FROM servertest.t_virus_outstore WHERE id=1000002;
+DELETE FROM servertest.t_virus_outstore WHERE id=990002;
+DELETE FROM servertest.t_virus_outstore WHERE id=980002;
+DELETE FROM servertest.t_virus_outstore WHERE id=970002;
+DELETE FROM servertest.t_virus_outstore WHERE id=960002;
+DELETE FROM servertest.t_virus_outstore WHERE id=950002;
+DELETE FROM servertest.t_virus_outstore WHERE id=940002;
+DELETE FROM servertest.t_virus_outstore WHERE id=930002;
+DELETE FROM servertest.t_virus_outstore WHERE id=920002;
+DELETE FROM servertest.t_virus_outstore WHERE id=910002;
+DELETE FROM servertest.t_virus_outstore WHERE id=900002;
+DELETE FROM servertest.t_virus_outstore WHERE id=890002;
+DELETE FROM servertest.t_virus_outstore WHERE id=880002;
+DELETE FROM servertest.t_virus_outstore WHERE id=870002;
+DELETE FROM servertest.t_virus_outstore WHERE id=860002;
+DELETE FROM servertest.t_virus_outstore WHERE id=850002;
+DELETE FROM servertest.t_virus_outstore WHERE id=840002;
+DELETE FROM servertest.t_virus_outstore WHERE id=830002;
+DELETE FROM servertest.t_virus_outstore WHERE id=820002;
+DELETE FROM servertest.t_virus_outstore WHERE id=810002;
+DELETE FROM servertest.t_virus_outstore WHERE id=800002;
+DELETE FROM servertest.t_virus_outstore WHERE id=790002;
+DELETE FROM servertest.t_virus_outstore WHERE id=780002;
+DELETE FROM servertest.t_virus_outstore WHERE id=770002;
+DELETE FROM servertest.t_virus_outstore WHERE id=760002;
+DELETE FROM servertest.t_virus_outstore WHERE id=750002;
+DELETE FROM servertest.t_virus_outstore WHERE id=740002;
+DELETE FROM servertest.t_virus_outstore WHERE id=730002;
+DELETE FROM servertest.t_virus_outstore WHERE id=720002;
+DELETE FROM servertest.t_virus_outstore WHERE id=710002;
+DELETE FROM servertest.t_virus_outstore WHERE id=700002;
+DELETE FROM servertest.t_virus_outstore WHERE id=690002;
+DELETE FROM servertest.t_virus_outstore WHERE id=680002;
+DELETE FROM servertest.t_virus_outstore WHERE id=670002;
+DELETE FROM servertest.t_virus_outstore WHERE id=660002;
+DELETE FROM servertest.t_virus_outstore WHERE id=650002;
+DELETE FROM servertest.t_virus_outstore WHERE id=640002;
+DELETE FROM servertest.t_virus_outstore WHERE id=630002;
+DELETE FROM servertest.t_virus_outstore WHERE id=620002;
+DELETE FROM servertest.t_virus_outstore WHERE id=610002;
+DELETE FROM servertest.t_virus_outstore WHERE id=600002;
+DELETE FROM servertest.t_virus_outstore WHERE id=590002;
+DELETE FROM servertest.t_virus_outstore WHERE id=580002;
+DELETE FROM servertest.t_virus_outstore WHERE id=570002;
+DELETE FROM servertest.t_virus_outstore WHERE id=560002;
+DELETE FROM servertest.t_virus_outstore WHERE id=550002;
+DELETE FROM servertest.t_virus_outstore WHERE id=540002;
+DELETE FROM servertest.t_virus_outstore WHERE id=530002;
+DELETE FROM servertest.t_virus_outstore WHERE id=520002;
+DELETE FROM servertest.t_virus_outstore WHERE id=510002;
+DELETE FROM servertest.t_virus_outstore WHERE id=500002;
+DELETE FROM servertest.t_virus_outstore WHERE id=490002;
+DELETE FROM servertest.t_virus_outstore WHERE id=480002;
+DELETE FROM servertest.t_virus_outstore WHERE id=470002;
+DELETE FROM servertest.t_virus_outstore WHERE id=460002;
+DELETE FROM servertest.t_virus_outstore WHERE id=450002;
+DELETE FROM servertest.t_virus_outstore WHERE id=440002;
+DELETE FROM servertest.t_virus_outstore WHERE id=430002;
+DELETE FROM servertest.t_virus_outstore WHERE id=420002;
+DELETE FROM servertest.t_virus_outstore WHERE id=410002;
+DELETE FROM servertest.t_virus_outstore WHERE id=400002;
+DELETE FROM servertest.t_virus_outstore WHERE id=390002;
+DELETE FROM servertest.t_virus_outstore WHERE id=380002;
+DELETE FROM servertest.t_virus_outstore WHERE id=370002;
+DELETE FROM servertest.t_virus_outstore WHERE id=360002;
+DELETE FROM servertest.t_virus_outstore WHERE id=350002;
+DELETE FROM servertest.t_virus_outstore WHERE id=340002;
+
+七月 31, 2017 2:58:40 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:40 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:40 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:58:40 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：49003139383061842704
+七月 31, 2017 2:58:40 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:41 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:58:41 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:58:41 下午 client.ClientCode uploadFile
+信息: 耗时：0秒
+七月 31, 2017 2:58:45 下午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus_outstore WHERE id=330002;
+DELETE FROM servertest.t_virus_outstore WHERE id=320002;
+DELETE FROM servertest.t_virus_outstore WHERE id=310002;
+DELETE FROM servertest.t_virus_outstore WHERE id=300002;
+DELETE FROM servertest.t_virus_outstore WHERE id=290002;
+DELETE FROM servertest.t_virus_outstore WHERE id=280002;
+DELETE FROM servertest.t_virus_outstore WHERE id=270002;
+DELETE FROM servertest.t_virus_outstore WHERE id=260002;
+DELETE FROM servertest.t_virus_outstore WHERE id=250002;
+DELETE FROM servertest.t_virus_outstore WHERE id=240002;
+DELETE FROM servertest.t_virus_outstore WHERE id=230002;
+DELETE FROM servertest.t_virus_outstore WHERE id=220002;
+DELETE FROM servertest.t_virus_outstore WHERE id=210002;
+DELETE FROM servertest.t_virus_outstore WHERE id=200002;
+DELETE FROM servertest.t_virus_outstore WHERE id=190002;
+DELETE FROM servertest.t_virus_outstore WHERE id=180002;
+DELETE FROM servertest.t_virus_outstore WHERE id=170002;
+DELETE FROM servertest.t_virus_outstore WHERE id=160002;
+DELETE FROM servertest.t_virus_outstore WHERE id=150002;
+DELETE FROM servertest.t_virus_outstore WHERE id=140002;
+DELETE FROM servertest.t_virus_outstore WHERE id=130002;
+DELETE FROM servertest.t_virus_outstore WHERE id=120002;
+DELETE FROM servertest.t_virus_outstore WHERE id=110002;
+DELETE FROM servertest.t_virus_outstore WHERE id=100002;
+DELETE FROM servertest.t_virus_outstore WHERE id=90002;
+DELETE FROM servertest.t_virus_outstore WHERE id=80002;
+DELETE FROM servertest.t_virus_outstore WHERE id=70002;
+DELETE FROM servertest.t_virus_outstore WHERE id=60002;
+DELETE FROM servertest.t_virus_outstore WHERE id=50002;
+DELETE FROM servertest.t_virus_outstore WHERE id=40002;
+DELETE FROM servertest.t_virus_outstore WHERE id=30002;
+DELETE FROM servertest.t_virus_outstore WHERE id=20002;
+DELETE FROM servertest.t_virus_outstore WHERE id=10002;
+INSERT INTO servertest.t_virus_outstore VALUES(10002,'an_001','2008-07-21 13:28:32',40,'1','2');
+INSERT INTO servertest.t_virus_outstore VALUES(20002,'an_001','2008-07-21 13:28:32',40,'1','3');
+INSERT INTO servertest.t_virus_outstore VALUES(30002,'an_001','2008-07-21 13:28:32',40,'1','2');
+INSERT INTO servertest.t_virus_outstore VALUES(40002,'an_001','2008-07-21 13:28:32',40,'1','4');
+INSERT INTO servertest.t_virus_outstore VALUES(50002,'an_001','2008-07-21 13:28:32',40,'1','9');
+INSERT INTO servertest.t_virus_outstore VALUES(60002,'an_002','2008-04-21 13:28:32',50,'2','6');
+INSERT INTO servertest.t_virus_outstore VALUES(70002,'an_002','2008-04-21 13:28:32',50,'2','14');
+INSERT INTO servertest.t_virus_outstore VALUES(80002,'an_002','2008-04-21 13:28:32',50,'2','2');
+INSERT INTO servertest.t_virus_outstore VALUES(90002,'an_002','2008-04-21 13:28:32',50,'2','3');
+INSERT INTO servertest.t_virus_outstore VALUES(100002,'an_002','2008-04-21 13:28:32',50,'2','4');
+INSERT INTO servertest.t_virus_outstore VALUES(110002,'an_003','2008-06-21 13:28:32',60,'3','3');
+
+七月 31, 2017 2:58:45 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:45 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:45 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:58:45 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：64186874983556396550
+七月 31, 2017 2:58:45 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:46 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:58:46 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:58:46 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:58:50 下午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus_outstore VALUES(120002,'an_003','2008-06-21 13:28:32',60,'3','7');
+INSERT INTO servertest.t_virus_outstore VALUES(130002,'an_003','2008-06-21 13:28:32',60,'3','5');
+INSERT INTO servertest.t_virus_outstore VALUES(140002,'an_003','2008-06-21 13:28:32',60,'3','15');
+INSERT INTO servertest.t_virus_outstore VALUES(150002,'an_003','2008-06-21 13:28:32',60,'3','1');
+INSERT INTO servertest.t_virus_outstore VALUES(160002,'an_004','2009-05-15 11:03:51',70,'4','4');
+INSERT INTO servertest.t_virus_outstore VALUES(170002,'an_004','2009-05-15 11:03:51',70,'4','1');
+INSERT INTO servertest.t_virus_outstore VALUES(180002,'an_004','2009-05-15 11:03:51',70,'4','2');
+INSERT INTO servertest.t_virus_outstore VALUES(190002,'an_004','2009-05-15 11:03:51',70,'4','5');
+INSERT INTO servertest.t_virus_outstore VALUES(200002,'an_004','2009-05-15 11:03:51',70,'4','7');
+INSERT INTO servertest.t_virus_outstore VALUES(210002,'an_005','2009-10-15 11:03:51',80,'5','5');
+INSERT INTO servertest.t_virus_outstore VALUES(220002,'an_005','2009-10-15 11:03:51',80,'5','1');
+INSERT INTO servertest.t_virus_outstore VALUES(230002,'an_005','2009-10-15 11:03:51',80,'5','2');
+INSERT INTO servertest.t_virus_outstore VALUES(240002,'an_005','2009-10-15 11:03:51',80,'5','8');
+INSERT INTO servertest.t_virus_outstore VALUES(250002,'an_005','2009-10-15 11:03:51',80,'5','9');
+INSERT INTO servertest.t_virus_outstore VALUES(260002,'an_006','2009-06-21 11:03:51',90,'6','13');
+INSERT INTO servertest.t_virus_outstore VALUES(270002,'an_006','2009-06-21 11:03:51',90,'6','11');
+INSERT INTO servertest.t_virus_outstore VALUES(280002,'an_006','2009-06-21 11:03:51',90,'6','12');
+INSERT INTO servertest.t_virus_outstore VALUES(290002,'an_006','2009-06-21 11:03:51',90,'6','10');
+INSERT INTO servertest.t_virus_outstore VALUES(300002,'an_006','2009-06-21 11:03:51',90,'6','9');
+INSERT INTO servertest.t_virus_outstore VALUES(310002,'an_007','2010-05-18 11:06:13',40,'7','7');
+INSERT INTO servertest.t_virus_outstore VALUES(320002,'an_007','2010-05-18 11:06:13',40,'7','8');
+INSERT INTO servertest.t_virus_outstore VALUES(330002,'an_007','2010-05-18 11:06:13',40,'7','9');
+INSERT INTO servertest.t_virus_outstore VALUES(340002,'an_007','2010-05-18 11:06:13',40,'7','2');
+INSERT INTO servertest.t_virus_outstore VALUES(350002,'an_007','2010-05-18 11:06:13',40,'7','14');
+INSERT INTO servertest.t_virus_outstore VALUES(360002,'Dn_001','2010-08-18 11:06:13',50,'8','1');
+INSERT INTO servertest.t_virus_outstore VALUES(370002,'Dn_001','2010-08-18 11:06:13',50,'8','14');
+INSERT INTO servertest.t_virus_outstore VALUES(380002,'Dn_001','2010-08-18 11:06:13',50,'8','6');
+INSERT INTO servertest.t_virus_outstore VALUES(390002,'Dn_001','2010-08-18 11:06:13',50,'8','4');
+INSERT INTO servertest.t_virus_outstore VALUES(400002,'Dn_001','2010-08-18 11:06:13',50,'8','10');
+INSERT INTO servertest.t_virus_outstore VALUES(410002,'Dn_002','2010-10-01 11:08:08',60,'9','4');
+INSERT INTO servertest.t_virus_outstore VALUES(420002,'Dn_002','2010-10-01 11:08:08',60,'9','3');
+INSERT INTO servertest.t_virus_outstore VALUES(430002,'Dn_002','2010-10-01 11:08:08',60,'9','6');
+INSERT INTO servertest.t_virus_outstore VALUES(440002,'Dn_002','2010-10-01 11:08:08',60,'9','4');
+INSERT INTO servertest.t_virus_outstore VALUES(450002,'Dn_002','2010-10-01 11:08:08',60,'9','9');
+INSERT INTO servertest.t_virus_outstore VALUES(460002,'Pl_001','2011-07-01 11:08:08',70,'10','14');
+INSERT INTO servertest.t_virus_outstore VALUES(470002,'Pl_001','2011-07-01 11:08:08',70,'10','6');
+INSERT INTO servertest.t_virus_outstore VALUES(480002,'Pl_001','2011-07-01 11:08:08',70,'10','4');
+INSERT INTO servertest.t_virus_outstore VALUES(490002,'Pl_001','2011-07-01 11:08:08',70,'10','7');
+INSERT INTO servertest.t_virus_outstore VALUES(500002,'Pl_001','2011-07-01 11:08:08',70,'10','7');
+INSERT INTO servertest.t_virus_outstore VALUES(510002,'Pl_002','2011-09-01 11:08:08',80,'11','6');
+INSERT INTO servertest.t_virus_outstore VALUES(520002,'Pl_002','2011-09-01 11:08:08',80,'11','15');
+INSERT INTO servertest.t_virus_outstore VALUES(530002,'Pl_002','2011-09-01 11:08:08',80,'11','12');
+INSERT INTO servertest.t_virus_outstore VALUES(540002,'Pl_002','2011-09-01 11:08:08',80,'11','6');
+INSERT INTO servertest.t_virus_outstore VALUES(550002,'Pl_002','2011-09-01 11:08:08',80,'11','9');
+INSERT INTO servertest.t_virus_outstore VALUES(560002,'Pl_003','2011-06-21 11:08:08',90,'12','1');
+INSERT INTO servertest.t_virus_outstore VALUES(570002,'Pl_003','2011-06-21 11:08:08',90,'12','2');
+INSERT INTO servertest.t_virus_outstore VALUES(580002,'Pl_003','2011-06-21 11:08:08',90,'12','3');
+INSERT INTO servertest.t_virus_outstore VALUES(590002,'Pl_003','2011-06-21 11:08:08',90,'12','4');
+INSERT INTO servertest.t_virus_outstore VALUES(600002,'Pl_003','2011-06-21 11:08:08',90,'12','5');
+INSERT INTO servertest.t_virus_outstore VALUES(610002,'Pl_004','2012-04-22 11:09:53',40,'13','4');
+INSERT INTO servertest.t_virus_outstore VALUES(620002,'Pl_004','2012-04-22 11:09:53',40,'13','1');
+INSERT INTO servertest.t_virus_outstore VALUES(630002,'Pl_004','2012-04-22 11:09:53',40,'13','2');
+INSERT INTO servertest.t_virus_outstore VALUES(640002,'Pl_004','2012-04-22 11:09:53',40,'13','8');
+INSERT INTO servertest.t_virus_outstore VALUES(650002,'Pl_004','2012-04-22 11:09:53',40,'13','2');
+INSERT INTO servertest.t_virus_outstore VALUES(660002,'Pl_005','2012-09-14 11:10:38',50,'14','1');
+INSERT INTO servertest.t_virus_outstore VALUES(670002,'Pl_005','2012-09-14 11:10:38',50,'14','3');
+INSERT INTO servertest.t_virus_outstore VALUES(680002,'Pl_005','2012-09-14 11:10:38',50,'14','11');
+INSERT INTO servertest.t_virus_outstore VALUES(690002,'Pl_005','2012-09-14 11:10:38',50,'14','12');
+INSERT INTO servertest.t_virus_outstore VALUES(700002,'Pl_005','2012-09-14 11:10:38',50,'14','6');
+INSERT INTO servertest.t_virus_outstore VALUES(710002,'Pl_006','2012-12-17 11:11:16',60,'15','2');
+INSERT INTO servertest.t_virus_outstore VALUES(720002,'Pl_006','2012-12-17 11:11:16',60,'15','5');
+INSERT INTO servertest.t_virus_outstore VALUES(730002,'Pl_006','2012-12-17 11:11:16',60,'15','15');
+INSERT INTO servertest.t_virus_outstore VALUES(740002,'Pl_006','2012-12-17 11:11:16',60,'15','7');
+INSERT INTO servertest.t_virus_outstore VALUES(750002,'Pl_006','2012-12-17 11:11:16',60,'15','6');
+INSERT INTO servertest.t_virus_outstore VALUES(760002,'Pl_007','2013-06-23 11:11:53',70,'16','14');
+INSERT INTO servertest.t_virus_outstore VALUES(770002,'Pl_007','2013-06-23 11:11:53',70,'16','5');
+INSERT INTO servertest.t_virus_outstore VALUES(780002,'Pl_007','2013-06-23 11:11:53',70,'16','7');
+INSERT INTO servertest.t_virus_outstore VALUES(790002,'Pl_007','2013-06-23 11:11:53',70,'16','11');
+INSERT INTO servertest.t_virus_outstore VALUES(800002,'Pl_007','2013-06-23 11:11:53',70,'16','13');
+INSERT INTO servertest.t_virus_outstore VALUES(810002,'Pl_008','2013-09-17 11:12:48',80,'17','3');
+INSERT INTO servertest.t_virus_outstore VALUES(820002,'Pl_008','2013-09-17 11:12:48',80,'17','14');
+INSERT INTO servertest.t_virus_outstore VALUES(830002,'Pl_008','2013-09-17 11:12:48',80,'17','15');
+INSERT INTO servertest.t_virus_outstore VALUES(840002,'Pl_008','2013-09-17 11:12:48',80,'17','6');
+INSERT INTO servertest.t_virus_outstore VALUES(850002,'Pl_008','2013-09-17 11:12:48',80,'17','9');
+INSERT INTO servertest.t_virus_outstore VALUES(860002,'Pl_009','2013-11-08 11:12:48',90,'18','1');
+INSERT INTO servertest.t_virus_outstore VALUES(870002,'Pl_009','2013-11-08 11:12:48',90,'18','2');
+INSERT INTO servertest.t_virus_outstore VALUES(880002,'Pl_009','2013-11-08 11:12:48',90,'18','5');
+INSERT INTO servertest.t_virus_outstore VALUES(890002,'Pl_009','2013-11-08 11:12:48',90,'18','5');
+INSERT INTO servertest.t_virus_outstore VALUES(900002,'Pl_009','2013-11-08 11:12:48',90,'18','8');
+INSERT INTO servertest.t_virus_outstore VALUES(910002,'Pl_010','2014-05-16 11:13:43',40,'19','1');
+INSERT INTO servertest.t_virus_outstore VALUES(920002,'Pl_010','2014-05-16 11:13:43',40,'19','1');
+INSERT INTO servertest.t_virus_outstore VALUES(930002,'Pl_010','2014-05-16 11:13:43',40,'19','13');
+INSERT INTO servertest.t_virus_outstore VALUES(940002,'Pl_010','2014-05-16 11:13:43',40,'19','4');
+INSERT INTO servertest.t_virus_outstore VALUES(950002,'Pl_010','2014-05-16 11:13:43',40,'19','3');
+INSERT INTO servertest.t_virus_outstore VALUES(960002,'Rn_001','2014-08-16 11:13:43',50,'20','9');
+INSERT INTO servertest.t_virus_outstore VALUES(970002,'Rn_001','2014-08-16 11:13:43',50,'20','1');
+INSERT INTO servertest.t_virus_outstore VALUES(980002,'Rn_001','2014-08-16 11:13:43',50,'20','8');
+INSERT INTO servertest.t_virus_outstore VALUES(990002,'Rn_001','2014-08-16 11:13:43',50,'20','7');
+INSERT INTO servertest.t_virus_outstore VALUES(1000002,'Rn_001','2014-08-16 11:13:43',50,'20','6');
+INSERT INTO servertest.t_virus_outstore VALUES(1010002,'Rn_002','2014-12-16 11:13:43',60,'21','2');
+INSERT INTO servertest.t_virus_outstore VALUES(1020002,'Rn_002','2014-12-16 11:13:43',60,'21','6');
+INSERT INTO servertest.t_virus_outstore VALUES(1030002,'Rn_002','2014-12-16 11:13:43',60,'21','7');
+INSERT INTO servertest.t_virus_outstore VALUES(1040002,'Rn_002','2014-12-16 11:13:43',60,'21','1');
+INSERT INTO servertest.t_virus_outstore VALUES(1050002,'Rn_002','2014-12-16 11:13:43',60,'21','3');
+
+七月 31, 2017 2:58:50 下午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+七月 31, 2017 2:58:50 下午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+七月 31, 2017 2:58:50 下午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+七月 31, 2017 2:58:50 下午 Sense4.SecDogs encryptDog
+信息: 输入随机数：14324782378607527480
+七月 31, 2017 2:58:50 下午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+七月 31, 2017 2:58:51 下午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+七月 31, 2017 2:58:51 下午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+七月 31, 2017 2:58:51 下午 client.ClientCode uploadFile
+信息: 耗时：1秒
+七月 31, 2017 2:58:55 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:59:00 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:59:05 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:59:10 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:59:15 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:59:20 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:59:25 下午 client.LogToSql sqlToSql
+信息: null
+七月 31, 2017 2:59:30 下午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 9:50:27 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 9:50:32 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:07:36 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:07:41 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:07:46 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:07:51 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:07:56 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:08:01 上午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='aa0001';
+
+十月 18, 2017 10:08:02 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000123364359901674317934"
+十月 18, 2017 10:08:06 上午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='aa0001';
+
+十月 18, 2017 10:08:06 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000142972286512994333224"
+十月 18, 2017 10:08:14 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:08:18 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 10:08:24 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:24 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000155890401084066444498"
+十月 18, 2017 10:08:29 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:29 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000160612725460805874723"
+十月 18, 2017 10:08:33 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:34 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000189739602337924377378"
+十月 18, 2017 10:08:39 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:39 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000177391958306112888545"
+十月 18, 2017 10:08:43 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:44 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000140295023338516499759"
+十月 18, 2017 10:08:49 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:49 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000137496333449708821820"
+十月 18, 2017 10:08:53 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:54 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000179422986438309341017"
+十月 18, 2017 10:08:58 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:08:59 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000196380140381937692328"
+十月 18, 2017 10:09:04 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:04 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000116135785784576789348"
+十月 18, 2017 10:09:08 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:09 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000145678717435182169295"
+十月 18, 2017 10:09:14 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:14 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000164625272505504794058"
+十月 18, 2017 10:09:19 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:19 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000107338480145398331141"
+十月 18, 2017 10:09:23 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:24 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000137395785120638988965"
+十月 18, 2017 10:09:28 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:29 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000138842250233083396475"
+十月 18, 2017 10:09:34 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:34 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000175935257468303379387"
+十月 18, 2017 10:09:38 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:39 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000163163316233313968211"
+十月 18, 2017 10:09:43 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:44 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000124381539558976167991"
+十月 18, 2017 10:09:49 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:49 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000121624364579486704429"
+十月 18, 2017 10:09:53 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:53 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000191993087115235878393"
+十月 18, 2017 10:09:59 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:09:59 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000155177566998074038875"
+十月 18, 2017 10:10:04 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:10:04 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000140557411717273991357"
+十月 18, 2017 10:10:08 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:10:09 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000123602986495061946791"
+十月 18, 2017 10:10:14 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:10:14 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000180855155294737609784"
+十月 18, 2017 10:10:18 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:10:19 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000127327235974563384464"
+十月 18, 2017 10:10:24 上午 client.LogToSql sqlToSql
+信息: INSERT INTO servertest.t_virus VALUES('aa0001','','','','','');
+
+十月 18, 2017 10:10:24 上午 client.ClientCode$1 run
+警告: 双向认证：java.lang.NumberFormatException: For input string: "nullS000184143748272177264950"
+十月 18, 2017 11:34:44 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 11:34:49 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 11:34:54 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 11:34:59 上午 client.LogToSql sqlToSql
+信息: DELETE FROM servertest.t_virus WHERE id='a0001';
+
+十月 18, 2017 11:34:59 上午 Sense4.SecDogs serverAuth
+信息: execute hex file successed!
+十月 18, 2017 11:34:59 上午 Sense4.SecDogs serverAuth
+信息: 返回验证结果：0
+十月 18, 2017 11:34:59 上午 client.ClientCode twoAuth
+信息: 服务端身份验证成功！
+十月 18, 2017 11:34:59 上午 Sense4.SecDogs encryptDog
+信息: execute hex file successed!
+十月 18, 2017 11:34:59 上午 client.ClientCode uploadFile
+信息: ======== 开始传输文件 ========
+十月 18, 2017 11:34:59 上午 client.ClientCode uploadFile
+信息: ======== 文件传输成功 ========
+十月 18, 2017 11:34:59 上午 client.ClientCode uploadFile
+信息: 耗时：2秒
+十月 18, 2017 11:35:04 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 11:35:09 上午 client.LogToSql sqlToSql
+信息: null
+十月 18, 2017 11:35:14 上午 client.LogToSql sqlToSql
+信息: null
